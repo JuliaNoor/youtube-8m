@@ -13,9 +13,6 @@
 # limitations under the License.
 """Binary for evaluating Tensorflow models on the YouTube-8M dataset."""
 
-import glob
-import json
-import os
 import time
 
 import eval_util
@@ -24,7 +21,6 @@ import frame_level_models
 import video_level_models
 import readers
 import tensorflow as tf
-from tensorflow.python.lib.io import file_io
 from tensorflow import app
 from tensorflow import flags
 from tensorflow import gfile
@@ -44,10 +40,28 @@ if __name__ == "__main__":
       "File glob defining the evaluation dataset in tensorflow.SequenceExample "
       "format. The SequenceExamples are expected to have an 'rgb' byte array "
       "sequence feature as well as a 'labels' int64 context feature.")
+  flags.DEFINE_string("feature_names", "mean_rgb", "Name of the feature "
+                      "to use for training.")
+  flags.DEFINE_string("feature_sizes", "1024", "Length of the feature vectors.")
 
-  # Other flags.
+  # Model flags.
+  flags.DEFINE_bool(
+      "frame_features", False,
+      "If set, then --eval_data_pattern must be frame-level features. "
+      "Otherwise, --eval_data_pattern must be aggregated video-level "
+      "features. The model must also be set appropriately (i.e. to read 3D "
+      "batches VS 4D batches.")
+  flags.DEFINE_string(
+      "model", "LogisticModel",
+      "Which architecture to use for the model. Options include 'Logistic', "
+      "'SingleMixtureMoe', and 'TwoLayerSigmoid'. See aggregated_models.py and "
+      "frame_level_models.py for the model definitions.")
   flags.DEFINE_integer("batch_size", 1024,
                        "How many examples to process per batch.")
+  flags.DEFINE_string("label_loss", "CrossEntropyLoss",
+                      "Loss computed on validation data")
+
+  # Other flags.
   flags.DEFINE_integer("num_readers", 8,
                        "How many threads to use for reading input files.")
   flags.DEFINE_boolean("run_once", False, "Whether to run eval only once.")
@@ -148,28 +162,10 @@ def build_graph(reader,
   tf.add_to_collection("loss", label_loss)
   tf.add_to_collection("predictions", predictions)
   tf.add_to_collection("input_batch", model_input)
-  tf.add_to_collection("input_batch_raw", model_input_raw)
   tf.add_to_collection("video_id_batch", video_id_batch)
   tf.add_to_collection("num_frames", num_frames)
   tf.add_to_collection("labels", tf.cast(labels_batch, tf.float32))
   tf.add_to_collection("summary_op", tf.summary.merge_all())
-
-
-def get_latest_checkpoint():
-  index_files = file_io.get_matching_files(os.path.join(FLAGS.train_dir, 'model.ckpt-*.index'))
-
-  # No files
-  if not index_files:
-    return None
-
-
-  # Index file path with the maximum step size.
-  latest_index_file = sorted(
-      [(int(os.path.basename(f).split("-")[-1].split(".")[0]), f)
-       for f in index_files])[-1][1]
-
-  # Chop off .index suffix and return
-  return latest_index_file[:-6]
 
 
 def evaluation_loop(video_id_batch, prediction_batch, label_batch, loss,
@@ -194,17 +190,14 @@ def evaluation_loop(video_id_batch, prediction_batch, label_batch, loss,
 
   global_step_val = -1
   with tf.Session() as sess:
-    latest_checkpoint = get_latest_checkpoint()
+    latest_checkpoint = tf.train.latest_checkpoint(FLAGS.train_dir)
     if latest_checkpoint:
       logging.info("Loading checkpoint for eval: " + latest_checkpoint)
       # Restores from checkpoint
       saver.restore(sess, latest_checkpoint)
       # Assuming model_checkpoint_path looks something like:
       # /my-favorite-path/yt8m_train/model.ckpt-0, extract global_step from it.
-      global_step_val = os.path.basename(latest_checkpoint).split("-")[-1]
-
-      # Save model
-      saver.save(sess, os.path.join(FLAGS.train_dir, "inference_model"))
+      global_step_val = latest_checkpoint.split("/")[-1].split("-")[-1]
     else:
       logging.info("No checkpoint file found.")
       return global_step_val
@@ -279,29 +272,21 @@ def evaluation_loop(video_id_batch, prediction_batch, label_batch, loss,
 
 def evaluate():
   tf.set_random_seed(0)  # for reproducibility
-
-  # Write json of flags
-  model_flags_path = os.path.join(FLAGS.train_dir, "model_flags.json")
-  if not file_io.file_exists(model_flags_path):
-    raise IOError(("Cannot find file %s. Did you run train.py on the same "
-                   "--train_dir?") % model_flags_path)
-  flags_dict = json.loads(file_io.FileIO(model_flags_path, mode="r").read())
-
   with tf.Graph().as_default():
     # convert feature_names and feature_sizes to lists of values
     feature_names, feature_sizes = utils.GetListOfFeatureNamesAndSizes(
-        flags_dict["feature_names"], flags_dict["feature_sizes"])
+        FLAGS.feature_names, FLAGS.feature_sizes)
 
-    if flags_dict["frame_features"]:
+    if FLAGS.frame_features:
       reader = readers.YT8MFrameFeatureReader(feature_names=feature_names,
                                               feature_sizes=feature_sizes)
     else:
       reader = readers.YT8MAggregatedFeatureReader(feature_names=feature_names,
                                                    feature_sizes=feature_sizes)
 
-    model = find_class_by_name(flags_dict["model"],
+    model = find_class_by_name(FLAGS.model,
         [frame_level_models, video_level_models])()
-    label_loss_fn = find_class_by_name(flags_dict["label_loss"], [losses])()
+    label_loss_fn = find_class_by_name(FLAGS.label_loss, [losses])()
 
     if FLAGS.eval_data_pattern is "":
       raise IOError("'eval_data_pattern' was not specified. " +

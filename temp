@@ -1,0 +1,4221 @@
+Number of threads -----------------------------------15------------------
+num examples processed: 512 elapsed seconds: 0.95
+/mnt/disks/disk-1/data/youtube_video/1_cut.wav,0 0.999732 1 0.000268
+
+/mnt/disks/disk-1/data/youtube_video/2_cut.wav,0 0.994614 1 0.005389
+
+/mnt/disks/disk-1/data/youtube_video/3_cut.wav,1 0.513822 0 0.486277
+
+/mnt/disks/disk-1/data/youtube_video/4_cut.wav,1 0.848579 0 0.151409
+
+/mnt/disks/disk-1/data/youtube_video/5_cut.wav,0 0.645118 1 0.354964
+
+/mnt/disks/disk-1/data/youtube_video/6_cut.wav,0 0.835451 1 0.164611
+
+/mnt/disks/disk-1/data/youtube_video/7_cut.wav,0 0.924515 1 0.075450
+
+/mnt/disks/disk-1/data/youtube_video/8_cut.wav,1 0.873504 0 0.126480
+
+/mnt/disks/disk-1/data/youtube_video/9_cut.wav,0 0.999042 1 0.000958
+
+/mnt/disks/disk-1/data/youtube_video/10_cut.wav,0 0.978279 1 0.021731
+
+/mnt/disks/disk-1/data/youtube_video/11_cut.wav,0 0.840620 1 0.159474
+
+/mnt/disks/disk-1/data/youtube_video/12_cut.wav,1 0.905862 0 0.094155
+
+/mnt/disks/disk-1/data/youtube_video/13_cut.wav,0 0.836655 1 0.163346
+
+/mnt/disks/disk-1/data/youtube_video/14_cut.wav,0 0.601296 1 0.398520
+
+/mnt/disks/disk-1/data/youtube_video/15_cut.wav,0 0.760889 1 0.239020
+
+/mnt/disks/disk-1/data/youtube_video/16_cut.wav,0 0.994753 1 0.005255
+
+/mnt/disks/disk-1/data/youtube_video/17_cut.wav,0 0.756471 1 0.243533
+
+/mnt/disks/disk-1/data/youtube_video/18_cut.wav,0 0.980338 1 0.019670
+
+/mnt/disks/disk-1/data/youtube_video/19_cut.wav,0 0.828853 1 0.171105
+
+/mnt/disks/disk-1/data/youtube_video/20_cut.wav,0 0.949704 1 0.050239
+
+/mnt/disks/disk-1/data/youtube_video/21_cut.wav,0 0.748204 1 0.251978
+
+/mnt/disks/disk-1/data/youtube_video/22_cut.wav,0 0.836985 1 0.163028
+
+/mnt/disks/disk-1/data/youtube_video/23_cut.wav,0 0.808923 1 0.191037
+
+/mnt/disks/disk-1/data/youtube_video/24_cut.wav,0 0.692315 1 0.307712
+
+/mnt/disks/disk-1/data/youtube_video/25_cut.wav,0 0.607689 1 0.392223
+
+/mnt/disks/disk-1/data/youtube_video/26_cut.wav,1 0.716156 0 0.283692
+
+/mnt/disks/disk-1/data/youtube_video/27_cut.wav,0 0.907163 1 0.092598
+
+/mnt/disks/disk-1/data/youtube_video/28_cut.wav,0 0.997481 1 0.002522
+
+/mnt/disks/disk-1/data/youtube_video/29_cut.wav,1 0.963312 0 0.036711
+
+/mnt/disks/disk-1/data/youtube_video/30_cut.wav,1 0.520659 0 0.479267
+
+/mnt/disks/disk-1/data/youtube_video/31_cut.wav,0 0.979224 1 0.020807
+
+/mnt/disks/disk-1/data/youtube_video/32_cut.wav,0 0.999379 1 0.000621
+
+/mnt/disks/disk-1/data/youtube_video/33_cut.wav,0 0.993176 1 0.006818
+
+/mnt/disks/disk-1/data/youtube_video/34_cut.wav,0 0.986291 1 0.013700
+
+/mnt/disks/disk-1/data/youtube_video/35_cut.wav,0 0.953266 1 0.046711
+
+/mnt/disks/disk-1/data/youtube_video/36_cut.wav,0 0.848758 1 0.151336
+
+/mnt/disks/disk-1/data/youtube_video/37_cut.wav,0 0.917622 1 0.082275
+
+/mnt/disks/disk-1/data/youtube_video/38_cut.wav,0 0.983101 1 0.016892
+
+/mnt/disks/disk-1/data/youtube_video/39_cut.wav,0 0.981112 1 0.018875
+
+/mnt/disks/disk-1/data/youtube_video/40_cut.wav,0 0.923670 1 0.076383
+
+/mnt/disks/disk-1/data/youtube_video/41_cut.wav,0 0.559435 1 0.440445
+
+/mnt/disks/disk-1/data/youtube_video/42_cut.wav,0 0.897140 1 0.102877
+
+/mnt/disks/disk-1/data/youtube_video/43_cut.wav,0 0.999377 1 0.000623
+
+/mnt/disks/disk-1/data/youtube_video/44_cut.wav,0 0.937493 1 0.062546
+
+/mnt/disks/disk-1/data/youtube_video/45_cut.wav,0 0.849848 1 0.150176
+
+/mnt/disks/disk-1/data/youtube_video/46_cut.wav,0 0.975676 1 0.024318
+
+/mnt/disks/disk-1/data/youtube_video/47_cut.wav,1 0.527285 0 0.472858
+
+/mnt/disks/disk-1/data/youtube_video/48_cut.wav,1 0.983068 0 0.016930
+
+/mnt/disks/disk-1/data/youtube_video/49_cut.wav,0 0.614845 1 0.385040
+
+/mnt/disks/disk-1/data/youtube_video/50_cut.wav,0 0.970248 1 0.029734
+
+/mnt/disks/disk-1/data/youtube_video/51_cut.wav,0 0.996540 1 0.003455
+
+/mnt/disks/disk-1/data/youtube_video/52_cut.wav,0 0.780518 1 0.219620
+
+/mnt/disks/disk-1/data/youtube_video/53_cut.wav,0 0.943529 1 0.056415
+
+/mnt/disks/disk-1/data/youtube_video/54_cut.wav,0 0.996897 1 0.003102
+
+/mnt/disks/disk-1/data/youtube_video/55_cut.wav,1 0.830342 0 0.169629
+
+/mnt/disks/disk-1/data/youtube_video/56_cut.wav,1 0.667301 0 0.332591
+
+/mnt/disks/disk-1/data/youtube_video/57_cut.wav,0 0.935757 1 0.064202
+
+/mnt/disks/disk-1/data/youtube_video/58_cut.wav,0 0.940881 1 0.059156
+
+/mnt/disks/disk-1/data/youtube_video/59_cut.wav,1 0.996848 0 0.003151
+
+/mnt/disks/disk-1/data/youtube_video/60_cut.wav,0 0.643815 1 0.356198
+
+/mnt/disks/disk-1/data/youtube_video/61_cut.wav,0 0.933370 1 0.066592
+
+/mnt/disks/disk-1/data/youtube_video/62_cut.wav,0 0.689345 1 0.310537
+
+/mnt/disks/disk-1/data/youtube_video/63_cut.wav,0 0.936274 1 0.063742
+
+/mnt/disks/disk-1/data/youtube_video/64_cut.wav,0 0.879146 1 0.120817
+
+/mnt/disks/disk-1/data/youtube_video/65_cut.wav,0 0.814098 1 0.185940
+
+/mnt/disks/disk-1/data/youtube_video/66_cut.wav,0 0.996821 1 0.003179
+
+/mnt/disks/disk-1/data/youtube_video/67_cut.wav,0 0.997082 1 0.002919
+
+/mnt/disks/disk-1/data/youtube_video/68_cut.wav,1 0.520319 0 0.479472
+
+/mnt/disks/disk-1/data/youtube_video/69_cut.wav,0 0.934087 1 0.065828
+
+/mnt/disks/disk-1/data/youtube_video/70_cut.wav,0 0.996242 1 0.003757
+
+/mnt/disks/disk-1/data/youtube_video/71_cut.wav,0 0.794863 1 0.205129
+
+/mnt/disks/disk-1/data/youtube_video/72_cut.wav,0 0.708719 1 0.291230
+
+/mnt/disks/disk-1/data/youtube_video/73_cut.wav,0 0.868435 1 0.131548
+
+/mnt/disks/disk-1/data/youtube_video/74_cut.wav,0 0.998982 1 0.001019
+
+/mnt/disks/disk-1/data/youtube_video/75_cut.wav,0 0.958519 1 0.041472
+
+/mnt/disks/disk-1/data/youtube_video/76_cut.wav,0 0.997702 1 0.002302
+
+/mnt/disks/disk-1/data/youtube_video/77_cut.wav,0 0.924577 1 0.075425
+
+/mnt/disks/disk-1/data/youtube_video/78_cut.wav,0 0.804346 1 0.195688
+
+/mnt/disks/disk-1/data/youtube_video/79_cut.wav,0 0.955058 1 0.045009
+
+/mnt/disks/disk-1/data/youtube_video/80_cut.wav,1 0.899491 0 0.100553
+
+/mnt/disks/disk-1/data/youtube_video/81_cut.wav,0 0.822613 1 0.177238
+
+/mnt/disks/disk-1/data/youtube_video/82_cut.wav,0 0.917553 1 0.082405
+
+/mnt/disks/disk-1/data/youtube_video/83_cut.wav,0 0.951353 1 0.048613
+
+/mnt/disks/disk-1/data/youtube_video/84_cut.wav,0 0.994969 1 0.005027
+
+/mnt/disks/disk-1/data/youtube_video/85_cut.wav,0 0.579424 1 0.420442
+
+/mnt/disks/disk-1/data/youtube_video/86_cut.wav,0 0.954689 1 0.045347
+
+/mnt/disks/disk-1/data/youtube_video/87_cut.wav,1 0.803966 0 0.196004
+
+/mnt/disks/disk-1/data/youtube_video/88_cut.wav,0 0.997406 1 0.002592
+
+/mnt/disks/disk-1/data/youtube_video/89_cut.wav,1 0.770310 0 0.229658
+
+/mnt/disks/disk-1/data/youtube_video/90_cut.wav,1 0.979104 0 0.020902
+
+/mnt/disks/disk-1/data/youtube_video/91_cut.wav,0 0.978817 1 0.021193
+
+/mnt/disks/disk-1/data/youtube_video/92_cut.wav,0 0.992471 1 0.007530
+
+/mnt/disks/disk-1/data/youtube_video/93_cut.wav,0 0.674354 1 0.325508
+
+/mnt/disks/disk-1/data/youtube_video/94_cut.wav,1 0.541413 0 0.458608
+
+/mnt/disks/disk-1/data/youtube_video/95_cut.wav,0 0.969082 1 0.030898
+
+/mnt/disks/disk-1/data/youtube_video/96_cut.wav,0 0.938789 1 0.061173
+
+/mnt/disks/disk-1/data/youtube_video/97_cut.wav,1 0.634991 0 0.365189
+
+/mnt/disks/disk-1/data/youtube_video/98_cut.wav,0 0.988629 1 0.011393
+
+/mnt/disks/disk-1/data/youtube_video/99_cut.wav,0 0.991183 1 0.008821
+
+/mnt/disks/disk-1/data/youtube_video/100_cut.wav,0 0.966126 1 0.033839
+
+/mnt/disks/disk-1/data/youtube_video/101_cut.wav,0 0.530620 1 0.469089
+
+/mnt/disks/disk-1/data/youtube_video/102_cut.wav,0 0.780005 1 0.220091
+
+/mnt/disks/disk-1/data/youtube_video/103_cut.wav,0 0.964635 1 0.035212
+
+/mnt/disks/disk-1/data/youtube_video/104_cut.wav,1 0.639604 0 0.360311
+
+/mnt/disks/disk-1/data/youtube_video/105_cut.wav,1 0.774076 0 0.225868
+
+/mnt/disks/disk-1/data/youtube_video/106_cut.wav,0 0.824225 1 0.175814
+
+/mnt/disks/disk-1/data/youtube_video/107_cut.wav,1 0.968810 0 0.031206
+
+/mnt/disks/disk-1/data/youtube_video/108_cut.wav,0 0.995438 1 0.004562
+
+/mnt/disks/disk-1/data/youtube_video/109_cut.wav,0 0.972515 1 0.027459
+
+/mnt/disks/disk-1/data/youtube_video/110_cut.wav,0 0.997682 1 0.002326
+
+/mnt/disks/disk-1/data/youtube_video/111_cut.wav,0 0.945686 1 0.054318
+
+/mnt/disks/disk-1/data/youtube_video/112_cut.wav,0 0.997016 1 0.002986
+
+/mnt/disks/disk-1/data/youtube_video/113_cut.wav,0 0.980149 1 0.019851
+
+/mnt/disks/disk-1/data/youtube_video/114_cut.wav,0 0.963257 1 0.036711
+
+/mnt/disks/disk-1/data/youtube_video/115_cut.wav,0 0.777920 1 0.222147
+
+/mnt/disks/disk-1/data/youtube_video/116_cut.wav,1 0.604248 0 0.395857
+
+/mnt/disks/disk-1/data/youtube_video/117_cut.wav,0 0.998440 1 0.001558
+
+/mnt/disks/disk-1/data/youtube_video/118_cut.wav,1 0.651686 0 0.348116
+
+/mnt/disks/disk-1/data/youtube_video/119_cut.wav,0 0.942948 1 0.057071
+
+/mnt/disks/disk-1/data/youtube_video/120_cut.wav,1 0.990947 0 0.009052
+
+/mnt/disks/disk-1/data/youtube_video/121_cut.wav,0 0.793742 1 0.206299
+
+/mnt/disks/disk-1/data/youtube_video/122_cut.wav,0 0.981942 1 0.018064
+
+/mnt/disks/disk-1/data/youtube_video/123_cut.wav,0 0.973514 1 0.026501
+
+/mnt/disks/disk-1/data/youtube_video/124_cut.wav,0 0.909749 1 0.090257
+
+/mnt/disks/disk-1/data/youtube_video/125_cut.wav,0 0.992488 1 0.007509
+
+/mnt/disks/disk-1/data/youtube_video/126_cut.wav,0 0.966355 1 0.033644
+
+/mnt/disks/disk-1/data/youtube_video/127_cut.wav,0 0.946360 1 0.053669
+
+/mnt/disks/disk-1/data/youtube_video/128_cut.wav,0 0.982820 1 0.017182
+
+/mnt/disks/disk-1/data/youtube_video/129_cut.wav,1 0.981237 0 0.018765
+
+/mnt/disks/disk-1/data/youtube_video/130_cut.wav,0 0.832687 1 0.167322
+
+/mnt/disks/disk-1/data/youtube_video/131_cut.wav,0 0.977985 1 0.022024
+
+/mnt/disks/disk-1/data/youtube_video/132_cut.wav,0 0.918271 1 0.081872
+
+/mnt/disks/disk-1/data/youtube_video/133_cut.wav,0 0.996368 1 0.003628
+
+/mnt/disks/disk-1/data/youtube_video/134_cut.wav,0 0.871061 1 0.128899
+
+/mnt/disks/disk-1/data/youtube_video/135_cut.wav,1 0.995962 0 0.004035
+
+/mnt/disks/disk-1/data/youtube_video/136_cut.wav,0 0.683915 1 0.316188
+
+/mnt/disks/disk-1/data/youtube_video/137_cut.wav,1 0.998892 0 0.001108
+
+/mnt/disks/disk-1/data/youtube_video/138_cut.wav,0 0.995083 1 0.004918
+
+/mnt/disks/disk-1/data/youtube_video/139_cut.wav,1 0.528060 0 0.471746
+
+/mnt/disks/disk-1/data/youtube_video/140_cut.wav,1 0.940083 0 0.059881
+
+/mnt/disks/disk-1/data/youtube_video/141_cut.wav,0 0.914066 1 0.085897
+
+/mnt/disks/disk-1/data/youtube_video/142_cut.wav,0 0.916654 1 0.083227
+
+/mnt/disks/disk-1/data/youtube_video/143_cut.wav,0 0.882591 1 0.117476
+
+/mnt/disks/disk-1/data/youtube_video/144_cut.wav,0 0.953980 1 0.046055
+
+/mnt/disks/disk-1/data/youtube_video/145_cut.wav,0 0.571531 1 0.428825
+
+/mnt/disks/disk-1/data/youtube_video/146_cut.wav,0 0.996732 1 0.003269
+
+/mnt/disks/disk-1/data/youtube_video/147_cut.wav,0 0.973024 1 0.026980
+
+/mnt/disks/disk-1/data/youtube_video/148_cut.wav,0 0.977867 1 0.022121
+
+/mnt/disks/disk-1/data/youtube_video/149_cut.wav,0 0.722248 1 0.277785
+
+/mnt/disks/disk-1/data/youtube_video/150_cut.wav,0 0.976844 1 0.023138
+
+/mnt/disks/disk-1/data/youtube_video/151_cut.wav,0 0.993789 1 0.006201
+
+/mnt/disks/disk-1/data/youtube_video/152_cut.wav,0 0.959741 1 0.040294
+
+/mnt/disks/disk-1/data/youtube_video/153_cut.wav,0 0.970057 1 0.029929
+
+/mnt/disks/disk-1/data/youtube_video/154_cut.wav,0 0.694917 1 0.305094
+
+/mnt/disks/disk-1/data/youtube_video/155_cut.wav,0 0.997619 1 0.002379
+
+/mnt/disks/disk-1/data/youtube_video/156_cut.wav,0 0.984073 1 0.015918
+
+/mnt/disks/disk-1/data/youtube_video/157_cut.wav,0 0.770300 1 0.229678
+
+/mnt/disks/disk-1/data/youtube_video/158_cut.wav,0 0.669460 1 0.330369
+
+/mnt/disks/disk-1/data/youtube_video/159_cut.wav,0 0.816595 1 0.183440
+
+/mnt/disks/disk-1/data/youtube_video/160_cut.wav,0 0.999002 1 0.000999
+
+/mnt/disks/disk-1/data/youtube_video/161_cut.wav,0 0.859894 1 0.140063
+
+/mnt/disks/disk-1/data/youtube_video/162_cut.wav,1 0.524136 0 0.475838
+
+/mnt/disks/disk-1/data/youtube_video/163_cut.wav,1 0.920520 0 0.079393
+
+/mnt/disks/disk-1/data/youtube_video/164_cut.wav,1 0.895620 0 0.104429
+
+/mnt/disks/disk-1/data/youtube_video/165_cut.wav,0 0.684806 1 0.315085
+
+/mnt/disks/disk-1/data/youtube_video/166_cut.wav,0 0.996121 1 0.003880
+
+/mnt/disks/disk-1/data/youtube_video/167_cut.wav,0 0.992733 1 0.007261
+
+/mnt/disks/disk-1/data/youtube_video/168_cut.wav,0 0.503467 1 0.496441
+
+/mnt/disks/disk-1/data/youtube_video/169_cut.wav,0 0.594365 1 0.405713
+
+/mnt/disks/disk-1/data/youtube_video/170_cut.wav,0 0.996064 1 0.003946
+
+/mnt/disks/disk-1/data/youtube_video/171_cut.wav,1 0.776336 0 0.223577
+
+/mnt/disks/disk-1/data/youtube_video/172_cut.wav,0 0.969222 1 0.030778
+
+/mnt/disks/disk-1/data/youtube_video/173_cut.wav,1 0.911304 0 0.088628
+
+/mnt/disks/disk-1/data/youtube_video/174_cut.wav,1 0.772209 0 0.227772
+
+/mnt/disks/disk-1/data/youtube_video/175_cut.wav,1 0.842711 0 0.157233
+
+/mnt/disks/disk-1/data/youtube_video/176_cut.wav,0 0.949124 1 0.050888
+
+/mnt/disks/disk-1/data/youtube_video/177_cut.wav,0 0.866296 1 0.133685
+
+/mnt/disks/disk-1/data/youtube_video/178_cut.wav,0 0.968082 1 0.031866
+
+/mnt/disks/disk-1/data/youtube_video/179_cut.wav,0 0.723574 1 0.276499
+
+/mnt/disks/disk-1/data/youtube_video/180_cut.wav,0 0.958791 1 0.041228
+
+/mnt/disks/disk-1/data/youtube_video/181_cut.wav,1 0.889836 0 0.110222
+
+/mnt/disks/disk-1/data/youtube_video/182_cut.wav,0 0.992542 1 0.007448
+
+/mnt/disks/disk-1/data/youtube_video/183_cut.wav,0 0.836185 1 0.163815
+
+/mnt/disks/disk-1/data/youtube_video/184_cut.wav,0 0.996550 1 0.003453
+
+/mnt/disks/disk-1/data/youtube_video/185_cut.wav,0 0.799800 1 0.199994
+
+/mnt/disks/disk-1/data/youtube_video/186_cut.wav,0 0.998119 1 0.001878
+
+/mnt/disks/disk-1/data/youtube_video/187_cut.wav,0 0.716663 1 0.283528
+
+/mnt/disks/disk-1/data/youtube_video/188_cut.wav,0 0.864240 1 0.135719
+
+/mnt/disks/disk-1/data/youtube_video/189_cut.wav,1 0.637693 0 0.362386
+
+/mnt/disks/disk-1/data/youtube_video/190_cut.wav,0 0.807282 1 0.192753
+
+/mnt/disks/disk-1/data/youtube_video/191_cut.wav,0 0.997856 1 0.002143
+
+/mnt/disks/disk-1/data/youtube_video/192_cut.wav,0 0.939752 1 0.060214
+
+/mnt/disks/disk-1/data/youtube_video/193_cut.wav,0 0.999252 1 0.000750
+
+/mnt/disks/disk-1/data/youtube_video/194_cut.wav,0 0.945715 1 0.054303
+
+/mnt/disks/disk-1/data/youtube_video/195_cut.wav,0 0.988309 1 0.011687
+
+/mnt/disks/disk-1/data/youtube_video/196_cut.wav,0 0.803624 1 0.196249
+
+/mnt/disks/disk-1/data/youtube_video/197_cut.wav,0 0.937637 1 0.062358
+
+/mnt/disks/disk-1/data/youtube_video/198_cut.wav,1 0.942973 0 0.057015
+
+/mnt/disks/disk-1/data/youtube_video/199_cut.wav,0 0.968515 1 0.031448
+
+/mnt/disks/disk-1/data/youtube_video/200_cut.wav,0 0.634095 1 0.365913
+
+/mnt/disks/disk-1/data/youtube_video/201_cut.wav,0 0.981769 1 0.018220
+
+/mnt/disks/disk-1/data/youtube_video/202_cut.wav,0 0.826302 1 0.173777
+
+/mnt/disks/disk-1/data/youtube_video/203_cut.wav,0 0.615715 1 0.383931
+
+/mnt/disks/disk-1/data/youtube_video/204_cut.wav,0 0.586782 1 0.413222
+
+/mnt/disks/disk-1/data/youtube_video/205_cut.wav,0 0.922422 1 0.077540
+
+/mnt/disks/disk-1/data/youtube_video/206_cut.wav,0 0.959055 1 0.040975
+
+/mnt/disks/disk-1/data/youtube_video/207_cut.wav,0 0.994364 1 0.005643
+
+/mnt/disks/disk-1/data/youtube_video/208_cut.wav,0 0.958965 1 0.041001
+
+/mnt/disks/disk-1/data/youtube_video/209_cut.wav,0 0.830381 1 0.169315
+
+/mnt/disks/disk-1/data/youtube_video/210_cut.wav,0 0.999073 1 0.000927
+
+/mnt/disks/disk-1/data/youtube_video/211_cut.wav,0 0.954296 1 0.045751
+
+/mnt/disks/disk-1/data/youtube_video/212_cut.wav,0 0.940311 1 0.059669
+
+/mnt/disks/disk-1/data/youtube_video/213_cut.wav,0 0.821500 1 0.178418
+
+/mnt/disks/disk-1/data/youtube_video/214_cut.wav,0 0.780903 1 0.218980
+
+/mnt/disks/disk-1/data/youtube_video/215_cut.wav,1 0.906781 0 0.093178
+
+/mnt/disks/disk-1/data/youtube_video/216_cut.wav,0 0.716784 1 0.282873
+
+/mnt/disks/disk-1/data/youtube_video/217_cut.wav,0 0.969420 1 0.030572
+
+/mnt/disks/disk-1/data/youtube_video/218_cut.wav,0 0.980648 1 0.019357
+
+/mnt/disks/disk-1/data/youtube_video/219_cut.wav,0 0.871069 1 0.129081
+
+/mnt/disks/disk-1/data/youtube_video/220_cut.wav,0 0.938073 1 0.061940
+
+/mnt/disks/disk-1/data/youtube_video/221_cut.wav,0 0.919256 1 0.080736
+
+/mnt/disks/disk-1/data/youtube_video/223_cut.wav,0 0.776587 1 0.223219
+
+/mnt/disks/disk-1/data/youtube_video/224_cut.wav,0 0.899864 1 0.100115
+
+/mnt/disks/disk-1/data/youtube_video/226_cut.wav,1 0.590398 0 0.409526
+
+/mnt/disks/disk-1/data/youtube_video/227_cut.wav,1 0.642093 0 0.357652
+
+/mnt/disks/disk-1/data/youtube_video/228_cut.wav,0 0.991925 1 0.008075
+
+/mnt/disks/disk-1/data/youtube_video/229_cut.wav,0 0.999517 1 0.000484
+
+/mnt/disks/disk-1/data/youtube_video/230_cut.wav,0 0.906775 1 0.093164
+
+/mnt/disks/disk-1/data/youtube_video/231_cut.wav,1 0.934387 0 0.065604
+
+/mnt/disks/disk-1/data/youtube_video/232_cut.wav,0 0.998966 1 0.001035
+
+/mnt/disks/disk-1/data/youtube_video/233_cut.wav,0 0.991296 1 0.008714
+
+/mnt/disks/disk-1/data/youtube_video/234_cut.wav,0 0.768784 1 0.231236
+
+/mnt/disks/disk-1/data/youtube_video/235_cut.wav,0 0.985063 1 0.014915
+
+/mnt/disks/disk-1/data/youtube_video/236_cut.wav,0 0.953940 1 0.046055
+
+/mnt/disks/disk-1/data/youtube_video/237_cut.wav,0 0.834208 1 0.165892
+
+/mnt/disks/disk-1/data/youtube_video/238_cut.wav,0 0.989227 1 0.010775
+
+/mnt/disks/disk-1/data/youtube_video/239_cut.wav,0 0.999413 1 0.000588
+
+/mnt/disks/disk-1/data/youtube_video/240_cut.wav,0 0.940310 1 0.059686
+
+/mnt/disks/disk-1/data/youtube_video/241_cut.wav,0 0.611687 1 0.388143
+
+/mnt/disks/disk-1/data/youtube_video/242_cut.wav,0 0.773418 1 0.226710
+
+/mnt/disks/disk-1/data/youtube_video/243_cut.wav,0 0.971906 1 0.028127
+
+/mnt/disks/disk-1/data/youtube_video/244_cut.wav,1 0.974115 0 0.025887
+
+/mnt/disks/disk-1/data/youtube_video/245_cut.wav,0 0.958860 1 0.041108
+
+/mnt/disks/disk-1/data/youtube_video/246_cut.wav,0 0.940172 1 0.059809
+
+/mnt/disks/disk-1/data/youtube_video/247_cut.wav,1 0.748761 0 0.251399
+
+/mnt/disks/disk-1/data/youtube_video/248_cut.wav,0 0.995790 1 0.004208
+
+/mnt/disks/disk-1/data/youtube_video/249_cut.wav,0 0.782560 1 0.217651
+
+/mnt/disks/disk-1/data/youtube_video/250_cut.wav,0 0.987897 1 0.012098
+
+/mnt/disks/disk-1/data/youtube_video/251_cut.wav,0 0.972095 1 0.027909
+
+/mnt/disks/disk-1/data/youtube_video/252_cut.wav,0 0.729862 1 0.270084
+
+/mnt/disks/disk-1/data/youtube_video/253_cut.wav,0 0.514059 1 0.485979
+
+/mnt/disks/disk-1/data/youtube_video/254_cut.wav,0 0.653803 1 0.346229
+
+/mnt/disks/disk-1/data/youtube_video/255_cut.wav,0 0.979243 1 0.020754
+
+/mnt/disks/disk-1/data/youtube_video/257_cut.wav,0 0.995507 1 0.004494
+
+/mnt/disks/disk-1/data/youtube_video/258_cut.wav,0 0.994877 1 0.005130
+
+/mnt/disks/disk-1/data/youtube_video/259_cut.wav,0 0.814845 1 0.185197
+
+/mnt/disks/disk-1/data/youtube_video/260_cut.wav,0 0.985350 1 0.014645
+
+/mnt/disks/disk-1/data/youtube_video/261_cut.wav,0 0.996907 1 0.003096
+
+/mnt/disks/disk-1/data/youtube_video/262_cut.wav,0 0.737170 1 0.262896
+
+/mnt/disks/disk-1/data/youtube_video/263_cut.wav,0 0.996375 1 0.003624
+
+/mnt/disks/disk-1/data/youtube_video/264_cut.wav,0 0.984930 1 0.015081
+
+/mnt/disks/disk-1/data/youtube_video/265_cut.wav,1 0.733013 0 0.267109
+
+/mnt/disks/disk-1/data/youtube_video/267_cut.wav,0 0.959458 1 0.040544
+
+/mnt/disks/disk-1/data/youtube_video/268_cut.wav,0 0.992427 1 0.007594
+
+/mnt/disks/disk-1/data/youtube_video/270_cut.wav,0 0.981616 1 0.018409
+
+/mnt/disks/disk-1/data/youtube_video/271_cut.wav,1 0.723255 0 0.277199
+
+/mnt/disks/disk-1/data/youtube_video/272_cut.wav,0 0.906512 1 0.093541
+
+/mnt/disks/disk-1/data/youtube_video/273_cut.wav,0 0.917909 1 0.082141
+
+/mnt/disks/disk-1/data/youtube_video/274_cut.wav,0 0.941796 1 0.058170
+
+/mnt/disks/disk-1/data/youtube_video/275_cut.wav,0 0.804711 1 0.195317
+
+/mnt/disks/disk-1/data/youtube_video/277_cut.wav,0 0.909327 1 0.090726
+
+/mnt/disks/disk-1/data/youtube_video/278_cut.wav,1 0.819400 0 0.180562
+
+/mnt/disks/disk-1/data/youtube_video/279_cut.wav,0 0.992074 1 0.007928
+
+/mnt/disks/disk-1/data/youtube_video/281_cut.wav,0 0.922696 1 0.077281
+
+/mnt/disks/disk-1/data/youtube_video/283_cut.wav,0 0.972340 1 0.027659
+
+/mnt/disks/disk-1/data/youtube_video/284_cut.wav,0 0.740450 1 0.259462
+
+/mnt/disks/disk-1/data/youtube_video/285_cut.wav,0 0.804449 1 0.195680
+
+/mnt/disks/disk-1/data/youtube_video/286_cut.wav,0 0.978580 1 0.021382
+
+/mnt/disks/disk-1/data/youtube_video/287_cut.wav,0 0.631372 1 0.368575
+
+/mnt/disks/disk-1/data/youtube_video/288_cut.wav,1 0.561721 0 0.438398
+
+/mnt/disks/disk-1/data/youtube_video/289_cut.wav,0 0.998462 1 0.001540
+
+/mnt/disks/disk-1/data/youtube_video/290_cut.wav,1 0.867438 0 0.132627
+
+/mnt/disks/disk-1/data/youtube_video/291_cut.wav,0 0.695678 1 0.304527
+
+/mnt/disks/disk-1/data/youtube_video/292_cut.wav,0 0.934087 1 0.065925
+
+/mnt/disks/disk-1/data/youtube_video/293_cut.wav,0 0.999912 1 0.000088
+
+/mnt/disks/disk-1/data/youtube_video/295_cut.wav,0 0.992305 1 0.007680
+
+/mnt/disks/disk-1/data/youtube_video/297_cut.wav,1 0.607970 0 0.391992
+
+/mnt/disks/disk-1/data/youtube_video/298_cut.wav,0 0.839365 1 0.160800
+
+/mnt/disks/disk-1/data/youtube_video/299_cut.wav,0 0.644594 1 0.355347
+
+/mnt/disks/disk-1/data/youtube_video/300_cut.wav,0 0.671314 1 0.328672
+
+/mnt/disks/disk-1/data/youtube_video/301_cut.wav,0 0.956025 1 0.043978
+
+/mnt/disks/disk-1/data/youtube_video/302_cut.wav,0 0.956959 1 0.043070
+
+/mnt/disks/disk-1/data/youtube_video/303_cut.wav,0 0.903382 1 0.096547
+
+/mnt/disks/disk-1/data/youtube_video/304_cut.wav,0 0.597631 1 0.402408
+
+/mnt/disks/disk-1/data/youtube_video/305_cut.wav,0 0.997202 1 0.002797
+
+/mnt/disks/disk-1/data/youtube_video/306_cut.wav,1 0.892356 0 0.107638
+
+/mnt/disks/disk-1/data/youtube_video/307_cut.wav,0 0.983217 1 0.016757
+
+/mnt/disks/disk-1/data/youtube_video/308_cut.wav,0 0.975016 1 0.024921
+
+/mnt/disks/disk-1/data/youtube_video/309_cut.wav,0 0.711993 1 0.287999
+
+/mnt/disks/disk-1/data/youtube_video/310_cut.wav,0 0.694939 1 0.304981
+
+/mnt/disks/disk-1/data/youtube_video/311_cut.wav,0 0.824774 1 0.175285
+
+/mnt/disks/disk-1/data/youtube_video/312_cut.wav,0 0.999941 1 0.000059
+
+/mnt/disks/disk-1/data/youtube_video/313_cut.wav,0 0.809843 1 0.190244
+
+/mnt/disks/disk-1/data/youtube_video/314_cut.wav,0 0.904689 1 0.095331
+
+/mnt/disks/disk-1/data/youtube_video/315_cut.wav,0 0.972531 1 0.027485
+
+/mnt/disks/disk-1/data/youtube_video/316_cut.wav,1 0.667672 0 0.332329
+
+/mnt/disks/disk-1/data/youtube_video/317_cut.wav,0 0.990725 1 0.009273
+
+/mnt/disks/disk-1/data/youtube_video/318_cut.wav,0 0.997715 1 0.002287
+
+/mnt/disks/disk-1/data/youtube_video/319_cut.wav,0 0.998763 1 0.001236
+
+/mnt/disks/disk-1/data/youtube_video/320_cut.wav,0 0.858468 1 0.141441
+
+/mnt/disks/disk-1/data/youtube_video/321_cut.wav,0 0.990142 1 0.009857
+
+/mnt/disks/disk-1/data/youtube_video/322_cut.wav,1 0.897620 0 0.102328
+
+/mnt/disks/disk-1/data/youtube_video/323_cut.wav,0 0.977938 1 0.022024
+
+/mnt/disks/disk-1/data/youtube_video/324_cut.wav,0 0.834204 1 0.165845
+
+/mnt/disks/disk-1/data/youtube_video/325_cut.wav,1 0.770552 0 0.229516
+
+/mnt/disks/disk-1/data/youtube_video/326_cut.wav,0 0.956304 1 0.043698
+
+/mnt/disks/disk-1/data/youtube_video/327_cut.wav,0 0.973402 1 0.026556
+
+/mnt/disks/disk-1/data/youtube_video/328_cut.wav,0 0.832757 1 0.167346
+
+/mnt/disks/disk-1/data/youtube_video/329_cut.wav,0 0.998626 1 0.001374
+
+/mnt/disks/disk-1/data/youtube_video/330_cut.wav,0 0.758304 1 0.241861
+
+/mnt/disks/disk-1/data/youtube_video/331_cut.wav,0 0.993333 1 0.006662
+
+/mnt/disks/disk-1/data/youtube_video/332_cut.wav,1 0.873403 0 0.126585
+
+/mnt/disks/disk-1/data/youtube_video/333_cut.wav,0 0.684235 1 0.315771
+
+/mnt/disks/disk-1/data/youtube_video/334_cut.wav,0 0.652070 1 0.348115
+
+/mnt/disks/disk-1/data/youtube_video/335_cut.wav,0 0.950772 1 0.049251
+
+/mnt/disks/disk-1/data/youtube_video/336_cut.wav,0 0.999406 1 0.000594
+
+/mnt/disks/disk-1/data/youtube_video/337_cut.wav,0 0.973086 1 0.026853
+
+/mnt/disks/disk-1/data/youtube_video/338_cut.wav,0 0.998914 1 0.001087
+
+/mnt/disks/disk-1/data/youtube_video/339_cut.wav,0 0.959373 1 0.040635
+
+/mnt/disks/disk-1/data/youtube_video/340_cut.wav,0 0.962144 1 0.037846
+
+/mnt/disks/disk-1/data/youtube_video/341_cut.wav,0 0.974367 1 0.025616
+
+/mnt/disks/disk-1/data/youtube_video/342_cut.wav,0 0.867607 1 0.132362
+
+/mnt/disks/disk-1/data/youtube_video/343_cut.wav,0 0.981653 1 0.018375
+
+/mnt/disks/disk-1/data/youtube_video/344_cut.wav,0 0.917698 1 0.082357
+
+/mnt/disks/disk-1/data/youtube_video/345_cut.wav,0 0.951023 1 0.048920
+
+/mnt/disks/disk-1/data/youtube_video/346_cut.wav,0 0.946850 1 0.053126
+
+/mnt/disks/disk-1/data/youtube_video/347_cut.wav,1 0.539876 0 0.460179
+
+/mnt/disks/disk-1/data/youtube_video/348_cut.wav,1 0.580233 0 0.419721
+
+/mnt/disks/disk-1/data/youtube_video/349_cut.wav,0 0.712758 1 0.287195
+
+/mnt/disks/disk-1/data/youtube_video/350_cut.wav,0 0.998183 1 0.001817
+
+/mnt/disks/disk-1/data/youtube_video/351_cut.wav,0 0.957138 1 0.042837
+
+/mnt/disks/disk-1/data/youtube_video/352_cut.wav,0 0.995775 1 0.004224
+
+/mnt/disks/disk-1/data/youtube_video/353_cut.wav,1 0.620500 0 0.379650
+
+/mnt/disks/disk-1/data/youtube_video/354_cut.wav,0 0.985259 1 0.014707
+
+/mnt/disks/disk-1/data/youtube_video/355_cut.wav,1 0.598696 0 0.401320
+
+/mnt/disks/disk-1/data/youtube_video/356_cut.wav,0 0.691098 1 0.308999
+
+/mnt/disks/disk-1/data/youtube_video/357_cut.wav,0 0.964085 1 0.035881
+
+/mnt/disks/disk-1/data/youtube_video/358_cut.wav,0 0.949001 1 0.050900
+
+/mnt/disks/disk-1/data/youtube_video/359_cut.wav,0 0.939707 1 0.060340
+
+/mnt/disks/disk-1/data/youtube_video/360_cut.wav,0 0.986145 1 0.013839
+
+/mnt/disks/disk-1/data/youtube_video/361_cut.wav,0 0.992962 1 0.007052
+
+/mnt/disks/disk-1/data/youtube_video/362_cut.wav,1 0.870036 0 0.129910
+
+/mnt/disks/disk-1/data/youtube_video/363_cut.wav,1 0.954357 0 0.045629
+
+/mnt/disks/disk-1/data/youtube_video/364_cut.wav,0 0.979700 1 0.020280
+
+/mnt/disks/disk-1/data/youtube_video/365_cut.wav,1 0.995645 0 0.004356
+
+/mnt/disks/disk-1/data/youtube_video/366_cut.wav,0 0.756393 1 0.243600
+
+/mnt/disks/disk-1/data/youtube_video/367_cut.wav,1 0.909704 0 0.090271
+
+/mnt/disks/disk-1/data/youtube_video/368_cut.wav,1 0.525635 0 0.474381
+
+/mnt/disks/disk-1/data/youtube_video/369_cut.wav,0 0.999028 1 0.000970
+
+/mnt/disks/disk-1/data/youtube_video/370_cut.wav,0 0.667093 1 0.332813
+
+/mnt/disks/disk-1/data/youtube_video/371_cut.wav,0 0.995228 1 0.004768
+
+/mnt/disks/disk-1/data/youtube_video/372_cut.wav,0 0.996520 1 0.003478
+
+/mnt/disks/disk-1/data/youtube_video/373_cut.wav,1 0.914006 0 0.085936
+
+/mnt/disks/disk-1/data/youtube_video/374_cut.wav,0 0.982729 1 0.017244
+
+/mnt/disks/disk-1/data/youtube_video/375_cut.wav,0 0.537695 1 0.462481
+
+/mnt/disks/disk-1/data/youtube_video/376_cut.wav,0 0.976864 1 0.023147
+
+/mnt/disks/disk-1/data/youtube_video/377_cut.wav,0 0.915501 1 0.084622
+
+/mnt/disks/disk-1/data/youtube_video/378_cut.wav,0 0.998072 1 0.001928
+
+/mnt/disks/disk-1/data/youtube_video/379_cut.wav,0 0.977200 1 0.022796
+
+/mnt/disks/disk-1/data/youtube_video/380_cut.wav,1 0.776305 0 0.223676
+
+/mnt/disks/disk-1/data/youtube_video/381_cut.wav,0 0.985875 1 0.014131
+
+/mnt/disks/disk-1/data/youtube_video/382_cut.wav,0 0.972237 1 0.027762
+
+/mnt/disks/disk-1/data/youtube_video/383_cut.wav,0 0.961199 1 0.038819
+
+/mnt/disks/disk-1/data/youtube_video/384_cut.wav,0 0.977878 1 0.022127
+
+/mnt/disks/disk-1/data/youtube_video/385_cut.wav,0 0.776653 1 0.223242
+
+/mnt/disks/disk-1/data/youtube_video/386_cut.wav,0 0.989063 1 0.010947
+
+/mnt/disks/disk-1/data/youtube_video/388_cut.wav,0 0.657114 1 0.343013
+
+/mnt/disks/disk-1/data/youtube_video/389_cut.wav,0 0.914426 1 0.085543
+
+/mnt/disks/disk-1/data/youtube_video/390_cut.wav,0 0.996278 1 0.003725
+
+/mnt/disks/disk-1/data/youtube_video/391_cut.wav,0 0.993711 1 0.006283
+
+/mnt/disks/disk-1/data/youtube_video/392_cut.wav,0 0.653373 1 0.346667
+
+/mnt/disks/disk-1/data/youtube_video/393_cut.wav,0 0.981212 1 0.018767
+
+/mnt/disks/disk-1/data/youtube_video/394_cut.wav,0 0.902508 1 0.097571
+
+/mnt/disks/disk-1/data/youtube_video/395_cut.wav,0 0.993227 1 0.006783
+
+/mnt/disks/disk-1/data/youtube_video/396_cut.wav,0 0.979418 1 0.020636
+
+/mnt/disks/disk-1/data/youtube_video/397_cut.wav,0 0.990037 1 0.009967
+
+/mnt/disks/disk-1/data/youtube_video/398_cut.wav,0 0.982318 1 0.017685
+
+/mnt/disks/disk-1/data/youtube_video/399_cut.wav,0 0.999842 1 0.000158
+
+/mnt/disks/disk-1/data/youtube_video/400_cut.wav,0 0.896796 1 0.103221
+
+/mnt/disks/disk-1/data/youtube_video/401_cut.wav,0 0.999722 1 0.000279
+
+/mnt/disks/disk-1/data/youtube_video/402_cut.wav,0 0.998366 1 0.001633
+
+/mnt/disks/disk-1/data/youtube_video/403_cut.wav,0 0.539773 1 0.460353
+
+/mnt/disks/disk-1/data/youtube_video/405_cut.wav,0 0.918308 1 0.081782
+
+/mnt/disks/disk-1/data/youtube_video/406_cut.wav,0 0.749711 1 0.250320
+
+/mnt/disks/disk-1/data/youtube_video/407_cut.wav,0 0.930249 1 0.069646
+
+/mnt/disks/disk-1/data/youtube_video/408_cut.wav,0 0.954250 1 0.045661
+
+/mnt/disks/disk-1/data/youtube_video/409_cut.wav,0 0.946873 1 0.053147
+
+/mnt/disks/disk-1/data/youtube_video/410_cut.wav,1 0.940009 0 0.060006
+
+/mnt/disks/disk-1/data/youtube_video/411_cut.wav,0 0.887091 1 0.112854
+
+/mnt/disks/disk-1/data/youtube_video/412_cut.wav,0 0.957013 1 0.042919
+
+/mnt/disks/disk-1/data/youtube_video/413_cut.wav,0 0.792259 1 0.207681
+
+/mnt/disks/disk-1/data/youtube_video/414_cut.wav,0 0.997049 1 0.002952
+
+/mnt/disks/disk-1/data/youtube_video/415_cut.wav,1 0.917945 0 0.082096
+
+/mnt/disks/disk-1/data/youtube_video/416_cut.wav,0 0.916728 1 0.083180
+
+/mnt/disks/disk-1/data/youtube_video/417_cut.wav,0 0.987147 1 0.012851
+
+/mnt/disks/disk-1/data/youtube_video/418_cut.wav,0 0.999374 1 0.000626
+
+/mnt/disks/disk-1/data/youtube_video/419_cut.wav,0 0.988014 1 0.011994
+
+/mnt/disks/disk-1/data/youtube_video/420_cut.wav,0 0.894293 1 0.105714
+
+/mnt/disks/disk-1/data/youtube_video/421_cut.wav,0 0.990649 1 0.009337
+
+/mnt/disks/disk-1/data/youtube_video/422_cut.wav,1 0.910657 0 0.089406
+
+/mnt/disks/disk-1/data/youtube_video/423_cut.wav,0 0.902543 1 0.097492
+
+/mnt/disks/disk-1/data/youtube_video/424_cut.wav,0 0.961141 1 0.038781
+
+/mnt/disks/disk-1/data/youtube_video/425_cut.wav,0 0.995673 1 0.004322
+
+/mnt/disks/disk-1/data/youtube_video/426_cut.wav,0 0.885283 1 0.114736
+
+/mnt/disks/disk-1/data/youtube_video/427_cut.wav,0 0.964079 1 0.035932
+
+/mnt/disks/disk-1/data/youtube_video/428_cut.wav,0 0.931251 1 0.068776
+
+/mnt/disks/disk-1/data/youtube_video/429_cut.wav,0 0.903878 1 0.096134
+
+/mnt/disks/disk-1/data/youtube_video/430_cut.wav,0 0.970109 1 0.029918
+
+/mnt/disks/disk-1/data/youtube_video/431_cut.wav,1 0.928722 0 0.071326
+
+/mnt/disks/disk-1/data/youtube_video/432_cut.wav,1 0.574999 0 0.424939
+
+/mnt/disks/disk-1/data/youtube_video/433_cut.wav,0 0.806792 1 0.193549
+
+/mnt/disks/disk-1/data/youtube_video/434_cut.wav,0 0.980472 1 0.019523
+
+/mnt/disks/disk-1/data/youtube_video/435_cut.wav,0 0.812301 1 0.187515
+
+/mnt/disks/disk-1/data/youtube_video/436_cut.wav,0 0.927534 1 0.072303
+
+/mnt/disks/disk-1/data/youtube_video/437_cut.wav,1 0.589065 0 0.410892
+
+/mnt/disks/disk-1/data/youtube_video/438_cut.wav,0 0.835035 1 0.165022
+
+/mnt/disks/disk-1/data/youtube_video/439_cut.wav,0 0.993594 1 0.006400
+
+/mnt/disks/disk-1/data/youtube_video/440_cut.wav,0 0.845901 1 0.154122
+
+/mnt/disks/disk-1/data/youtube_video/441_cut.wav,0 0.905588 1 0.094388
+
+/mnt/disks/disk-1/data/youtube_video/443_cut.wav,1 0.915123 0 0.084831
+
+/mnt/disks/disk-1/data/youtube_video/444_cut.wav,0 0.998039 1 0.001960
+
+/mnt/disks/disk-1/data/youtube_video/445_cut.wav,0 0.857216 1 0.142828
+
+/mnt/disks/disk-1/data/youtube_video/446_cut.wav,0 0.602626 1 0.397411
+
+/mnt/disks/disk-1/data/youtube_video/447_cut.wav,0 0.998926 1 0.001074
+
+/mnt/disks/disk-1/data/youtube_video/448_cut.wav,0 0.999521 1 0.000479
+
+/mnt/disks/disk-1/data/youtube_video/449_cut.wav,0 0.793816 1 0.206029
+
+/mnt/disks/disk-1/data/youtube_video/450_cut.wav,0 0.996344 1 0.003671
+
+/mnt/disks/disk-1/data/youtube_video/451_cut.wav,0 0.794098 1 0.206043
+
+/mnt/disks/disk-1/data/youtube_video/452_cut.wav,0 0.998584 1 0.001419
+
+/mnt/disks/disk-1/data/youtube_video/454_cut.wav,0 0.980952 1 0.019035
+
+/mnt/disks/disk-1/data/youtube_video/455_cut.wav,0 0.832532 1 0.167539
+
+/mnt/disks/disk-1/data/youtube_video/456_cut.wav,1 0.816249 0 0.183617
+
+/mnt/disks/disk-1/data/youtube_video/457_cut.wav,0 0.920627 1 0.079335
+
+/mnt/disks/disk-1/data/youtube_video/458_cut.wav,0 0.730246 1 0.269730
+
+/mnt/disks/disk-1/data/youtube_video/459_cut.wav,0 0.977274 1 0.022715
+
+/mnt/disks/disk-1/data/youtube_video/460_cut.wav,0 0.851335 1 0.148573
+
+/mnt/disks/disk-1/data/youtube_video/461_cut.wav,0 0.998861 1 0.001139
+
+/mnt/disks/disk-1/data/youtube_video/462_cut.wav,0 0.989035 1 0.010954
+
+/mnt/disks/disk-1/data/youtube_video/463_cut.wav,0 0.964805 1 0.035211
+
+/mnt/disks/disk-1/data/youtube_video/464_cut.wav,0 0.990001 1 0.010002
+
+/mnt/disks/disk-1/data/youtube_video/465_cut.wav,0 0.995474 1 0.004525
+
+/mnt/disks/disk-1/data/youtube_video/466_cut.wav,0 0.997640 1 0.002363
+
+/mnt/disks/disk-1/data/youtube_video/467_cut.wav,0 0.966923 1 0.033163
+
+/mnt/disks/disk-1/data/youtube_video/468_cut.wav,0 0.838157 1 0.161744
+
+/mnt/disks/disk-1/data/youtube_video/469_cut.wav,1 0.507073 0 0.492964
+
+/mnt/disks/disk-1/data/youtube_video/470_cut.wav,0 0.995007 1 0.004985
+
+/mnt/disks/disk-1/data/youtube_video/471_cut.wav,0 0.654821 1 0.345013
+
+/mnt/disks/disk-1/data/youtube_video/472_cut.wav,0 0.885619 1 0.114400
+
+/mnt/disks/disk-1/data/youtube_video/473_cut.wav,0 0.978241 1 0.021766
+
+/mnt/disks/disk-1/data/youtube_video/474_cut.wav,0 0.677209 1 0.322822
+
+/mnt/disks/disk-1/data/youtube_video/475_cut.wav,1 0.564176 0 0.435738
+
+/mnt/disks/disk-1/data/youtube_video/476_cut.wav,0 0.975835 1 0.024164
+
+/mnt/disks/disk-1/data/youtube_video/477_cut.wav,0 0.624747 1 0.375060
+
+/mnt/disks/disk-1/data/youtube_video/478_cut.wav,0 0.691384 1 0.308580
+
+/mnt/disks/disk-1/data/youtube_video/479_cut.wav,0 0.998132 1 0.001871
+
+/mnt/disks/disk-1/data/youtube_video/481_cut.wav,0 0.892136 1 0.107807
+
+/mnt/disks/disk-1/data/youtube_video/482_cut.wav,0 0.984690 1 0.015281
+
+/mnt/disks/disk-1/data/youtube_video/483_cut.wav,0 0.673045 1 0.326839
+
+/mnt/disks/disk-1/data/youtube_video/484_cut.wav,0 0.987927 1 0.012058
+
+/mnt/disks/disk-1/data/youtube_video/485_cut.wav,0 0.978678 1 0.021323
+
+/mnt/disks/disk-1/data/youtube_video/486_cut.wav,0 0.742819 1 0.257256
+
+/mnt/disks/disk-1/data/youtube_video/487_cut.wav,0 0.983975 1 0.016041
+
+/mnt/disks/disk-1/data/youtube_video/488_cut.wav,0 0.925127 1 0.074811
+
+/mnt/disks/disk-1/data/youtube_video/489_cut.wav,0 0.996364 1 0.003649
+
+/mnt/disks/disk-1/data/youtube_video/490_cut.wav,0 0.896551 1 0.103464
+
+/mnt/disks/disk-1/data/youtube_video/491_cut.wav,1 0.704941 0 0.295079
+
+/mnt/disks/disk-1/data/youtube_video/492_cut.wav,0 0.833560 1 0.166581
+
+/mnt/disks/disk-1/data/youtube_video/493_cut.wav,0 0.999970 1 0.000030
+
+/mnt/disks/disk-1/data/youtube_video/494_cut.wav,0 0.594560 1 0.405532
+
+/mnt/disks/disk-1/data/youtube_video/495_cut.wav,0 0.996583 1 0.003415
+
+/mnt/disks/disk-1/data/youtube_video/496_cut.wav,1 0.521435 0 0.478614
+
+/mnt/disks/disk-1/data/youtube_video/497_cut.wav,0 0.739001 1 0.261089
+
+/mnt/disks/disk-1/data/youtube_video/498_cut.wav,0 0.984433 1 0.015588
+
+/mnt/disks/disk-1/data/youtube_video/499_cut.wav,0 0.957891 1 0.042115
+
+/mnt/disks/disk-1/data/youtube_video/500_cut.wav,0 0.992976 1 0.007026
+
+/mnt/disks/disk-1/data/youtube_video/501_cut.wav,0 0.721454 1 0.278594
+
+/mnt/disks/disk-1/data/youtube_video/502_cut.wav,0 0.587234 1 0.412940
+
+/mnt/disks/disk-1/data/youtube_video/503_cut.wav,0 0.643652 1 0.356278
+
+/mnt/disks/disk-1/data/youtube_video/504_cut.wav,0 0.988022 1 0.011971
+
+/mnt/disks/disk-1/data/youtube_video/505_cut.wav,1 0.813782 0 0.186274
+
+/mnt/disks/disk-1/data/youtube_video/506_cut.wav,0 0.999531 1 0.000470
+
+/mnt/disks/disk-1/data/youtube_video/507_cut.wav,0 0.908592 1 0.091423
+
+/mnt/disks/disk-1/data/youtube_video/508_cut.wav,0 0.985401 1 0.014594
+
+/mnt/disks/disk-1/data/youtube_video/509_cut.wav,0 0.996228 1 0.003773
+
+/mnt/disks/disk-1/data/youtube_video/510_cut.wav,1 0.529980 0 0.470202
+
+/mnt/disks/disk-1/data/youtube_video/511_cut.wav,0 0.944632 1 0.055376
+
+/mnt/disks/disk-1/data/youtube_video/512_cut.wav,0 0.989577 1 0.010416
+
+/mnt/disks/disk-1/data/youtube_video/513_cut.wav,0 0.980712 1 0.019289
+
+/mnt/disks/disk-1/data/youtube_video/514_cut.wav,1 0.542936 0 0.456868
+
+/mnt/disks/disk-1/data/youtube_video/515_cut.wav,0 0.996510 1 0.003487
+
+/mnt/disks/disk-1/data/youtube_video/516_cut.wav,0 0.977755 1 0.022228
+
+/mnt/disks/disk-1/data/youtube_video/517_cut.wav,0 0.979340 1 0.020676
+
+/mnt/disks/disk-1/data/youtube_video/518_cut.wav,0 0.985713 1 0.014294
+
+/mnt/disks/disk-1/data/youtube_video/519_cut.wav,0 0.896396 1 0.103475
+
+/mnt/disks/disk-1/data/youtube_video/520_cut.wav,0 0.728237 1 0.271908
+
+/mnt/disks/disk-1/data/youtube_video/521_cut.wav,0 0.982427 1 0.017579
+
+/mnt/disks/disk-1/data/youtube_video/522_cut.wav,1 0.566791 0 0.433088
+
+/mnt/disks/disk-1/data/youtube_video/523_cut.wav,1 0.932421 0 0.067563
+
+/mnt/disks/disk-1/data/youtube_video/524_cut.wav,0 0.992220 1 0.007783
+
+/mnt/disks/disk-1/data/youtube_video/525_cut.wav,0 0.575959 1 0.424139
+
+/mnt/disks/disk-1/data/youtube_video/526_cut.wav,1 0.785699 0 0.214221
+
+/mnt/disks/disk-1/data/youtube_video/527_cut.wav,1 0.529406 0 0.470639
+
+num examples processed: 1024 elapsed seconds: 1.41
+/mnt/disks/disk-1/data/youtube_video/528_cut.wav,1 0.620326 0 0.379727
+
+/mnt/disks/disk-1/data/youtube_video/529_cut.wav,0 0.577441 1 0.422516
+
+/mnt/disks/disk-1/data/youtube_video/530_cut.wav,0 0.687334 1 0.312759
+
+/mnt/disks/disk-1/data/youtube_video/531_cut.wav,0 0.905919 1 0.094070
+
+/mnt/disks/disk-1/data/youtube_video/533_cut.wav,1 0.699866 0 0.300195
+
+/mnt/disks/disk-1/data/youtube_video/534_cut.wav,1 0.531297 0 0.468832
+
+/mnt/disks/disk-1/data/youtube_video/535_cut.wav,0 0.868513 1 0.131552
+
+/mnt/disks/disk-1/data/youtube_video/536_cut.wav,1 0.739808 0 0.260216
+
+/mnt/disks/disk-1/data/youtube_video/537_cut.wav,0 0.994454 1 0.005540
+
+/mnt/disks/disk-1/data/youtube_video/538_cut.wav,0 0.808236 1 0.191700
+
+/mnt/disks/disk-1/data/youtube_video/539_cut.wav,0 0.654069 1 0.345702
+
+/mnt/disks/disk-1/data/youtube_video/540_cut.wav,0 0.963587 1 0.036440
+
+/mnt/disks/disk-1/data/youtube_video/541_cut.wav,0 0.597516 1 0.402554
+
+/mnt/disks/disk-1/data/youtube_video/542_cut.wav,0 0.970312 1 0.029654
+
+/mnt/disks/disk-1/data/youtube_video/543_cut.wav,0 0.999424 1 0.000576
+
+/mnt/disks/disk-1/data/youtube_video/544_cut.wav,0 0.879153 1 0.120817
+
+/mnt/disks/disk-1/data/youtube_video/545_cut.wav,0 0.998002 1 0.001997
+
+/mnt/disks/disk-1/data/youtube_video/546_cut.wav,0 0.933266 1 0.066731
+
+/mnt/disks/disk-1/data/youtube_video/547_cut.wav,0 0.925140 1 0.074844
+
+/mnt/disks/disk-1/data/youtube_video/548_cut.wav,0 0.884307 1 0.115675
+
+/mnt/disks/disk-1/data/youtube_video/549_cut.wav,0 0.996270 1 0.003729
+
+/mnt/disks/disk-1/data/youtube_video/550_cut.wav,0 0.665078 1 0.335025
+
+/mnt/disks/disk-1/data/youtube_video/551_cut.wav,0 0.927164 1 0.072874
+
+/mnt/disks/disk-1/data/youtube_video/552_cut.wav,0 0.992689 1 0.007315
+
+/mnt/disks/disk-1/data/youtube_video/553_cut.wav,0 0.975323 1 0.024694
+
+/mnt/disks/disk-1/data/youtube_video/554_cut.wav,0 0.944660 1 0.055355
+
+/mnt/disks/disk-1/data/youtube_video/555_cut.wav,0 0.992972 1 0.007027
+
+/mnt/disks/disk-1/data/youtube_video/556_cut.wav,0 0.503454 1 0.496641
+
+/mnt/disks/disk-1/data/youtube_video/557_cut.wav,0 0.959150 1 0.040854
+
+/mnt/disks/disk-1/data/youtube_video/558_cut.wav,0 0.511897 1 0.488085
+
+/mnt/disks/disk-1/data/youtube_video/559_cut.wav,0 0.996657 1 0.003344
+
+/mnt/disks/disk-1/data/youtube_video/560_cut.wav,0 0.998248 1 0.001752
+
+/mnt/disks/disk-1/data/youtube_video/561_cut.wav,0 0.981302 1 0.018659
+
+/mnt/disks/disk-1/data/youtube_video/562_cut.wav,0 0.948181 1 0.051826
+
+/mnt/disks/disk-1/data/youtube_video/563_cut.wav,0 0.984716 1 0.015271
+
+/mnt/disks/disk-1/data/youtube_video/564_cut.wav,0 0.641035 1 0.358897
+
+/mnt/disks/disk-1/data/youtube_video/565_cut.wav,0 0.759462 1 0.240579
+
+/mnt/disks/disk-1/data/youtube_video/567_cut.wav,0 0.996287 1 0.003698
+
+/mnt/disks/disk-1/data/youtube_video/568_cut.wav,0 0.956842 1 0.043202
+
+/mnt/disks/disk-1/data/youtube_video/570_cut.wav,0 0.829114 1 0.170911
+
+/mnt/disks/disk-1/data/youtube_video/571_cut.wav,0 0.991759 1 0.008234
+
+/mnt/disks/disk-1/data/youtube_video/572_cut.wav,0 0.544366 1 0.455688
+
+/mnt/disks/disk-1/data/youtube_video/573_cut.wav,1 0.593415 0 0.406614
+
+/mnt/disks/disk-1/data/youtube_video/574_cut.wav,1 0.983760 0 0.016236
+
+/mnt/disks/disk-1/data/youtube_video/575_cut.wav,0 0.889496 1 0.110539
+
+/mnt/disks/disk-1/data/youtube_video/576_cut.wav,1 0.960410 0 0.039602
+
+/mnt/disks/disk-1/data/youtube_video/577_cut.wav,1 0.552313 0 0.447684
+
+/mnt/disks/disk-1/data/youtube_video/578_cut.wav,0 0.974292 1 0.025750
+
+/mnt/disks/disk-1/data/youtube_video/579_cut.wav,0 0.879881 1 0.120170
+
+/mnt/disks/disk-1/data/youtube_video/580_cut.wav,0 0.998336 1 0.001663
+
+/mnt/disks/disk-1/data/youtube_video/581_cut.wav,0 0.998594 1 0.001405
+
+/mnt/disks/disk-1/data/youtube_video/582_cut.wav,0 0.919218 1 0.080839
+
+/mnt/disks/disk-1/data/youtube_video/583_cut.wav,0 0.677388 1 0.322606
+
+/mnt/disks/disk-1/data/youtube_video/584_cut.wav,1 0.916945 0 0.083088
+
+/mnt/disks/disk-1/data/youtube_video/585_cut.wav,1 0.539595 0 0.460499
+
+/mnt/disks/disk-1/data/youtube_video/586_cut.wav,0 0.976516 1 0.023485
+
+/mnt/disks/disk-1/data/youtube_video/587_cut.wav,0 0.994354 1 0.005646
+
+/mnt/disks/disk-1/data/youtube_video/588_cut.wav,0 0.933119 1 0.066904
+
+/mnt/disks/disk-1/data/youtube_video/589_cut.wav,0 0.996197 1 0.003800
+
+/mnt/disks/disk-1/data/youtube_video/590_cut.wav,0 0.972825 1 0.027148
+
+/mnt/disks/disk-1/data/youtube_video/591_cut.wav,0 0.999797 1 0.000203
+
+/mnt/disks/disk-1/data/youtube_video/592_cut.wav,0 0.866871 1 0.132965
+
+/mnt/disks/disk-1/data/youtube_video/593_cut.wav,1 0.670473 0 0.329508
+
+/mnt/disks/disk-1/data/youtube_video/594_cut.wav,0 0.597197 1 0.402868
+
+/mnt/disks/disk-1/data/youtube_video/595_cut.wav,0 0.795065 1 0.204848
+
+/mnt/disks/disk-1/data/youtube_video/596_cut.wav,0 0.999534 1 0.000466
+
+/mnt/disks/disk-1/data/youtube_video/597_cut.wav,0 0.967089 1 0.032918
+
+/mnt/disks/disk-1/data/youtube_video/598_cut.wav,0 0.997678 1 0.002320
+
+/mnt/disks/disk-1/data/youtube_video/599_cut.wav,1 0.848170 0 0.151864
+
+/mnt/disks/disk-1/data/youtube_video/600_cut.wav,0 0.856293 1 0.143693
+
+/mnt/disks/disk-1/data/youtube_video/601_cut.wav,0 0.904637 1 0.095405
+
+/mnt/disks/disk-1/data/youtube_video/602_cut.wav,0 0.615752 1 0.384504
+
+/mnt/disks/disk-1/data/youtube_video/603_cut.wav,0 0.995170 1 0.004836
+
+/mnt/disks/disk-1/data/youtube_video/604_cut.wav,0 0.542288 1 0.457634
+
+/mnt/disks/disk-1/data/youtube_video/605_cut.wav,0 0.943586 1 0.056413
+
+/mnt/disks/disk-1/data/youtube_video/607_cut.wav,0 0.928121 1 0.072151
+
+/mnt/disks/disk-1/data/youtube_video/608_cut.wav,0 0.716420 1 0.283688
+
+/mnt/disks/disk-1/data/youtube_video/609_cut.wav,0 0.927264 1 0.072727
+
+/mnt/disks/disk-1/data/youtube_video/610_cut.wav,0 0.991673 1 0.008328
+
+/mnt/disks/disk-1/data/youtube_video/611_cut.wav,0 0.992090 1 0.007902
+
+/mnt/disks/disk-1/data/youtube_video/613_cut.wav,1 0.658021 0 0.341914
+
+/mnt/disks/disk-1/data/youtube_video/614_cut.wav,0 0.802443 1 0.197333
+
+/mnt/disks/disk-1/data/youtube_video/615_cut.wav,0 0.946446 1 0.053671
+
+/mnt/disks/disk-1/data/youtube_video/616_cut.wav,0 0.999934 1 0.000066
+
+/mnt/disks/disk-1/data/youtube_video/617_cut.wav,1 0.907748 0 0.092253
+
+/mnt/disks/disk-1/data/youtube_video/618_cut.wav,0 0.959329 1 0.040642
+
+/mnt/disks/disk-1/data/youtube_video/619_cut.wav,0 0.981379 1 0.018627
+
+/mnt/disks/disk-1/data/youtube_video/620_cut.wav,0 0.938203 1 0.061847
+
+/mnt/disks/disk-1/data/youtube_video/621_cut.wav,0 0.764749 1 0.235385
+
+/mnt/disks/disk-1/data/youtube_video/622_cut.wav,0 0.998332 1 0.001668
+
+/mnt/disks/disk-1/data/youtube_video/624_cut.wav,0 0.990975 1 0.009028
+
+/mnt/disks/disk-1/data/youtube_video/625_cut.wav,1 0.576710 0 0.423172
+
+/mnt/disks/disk-1/data/youtube_video/626_cut.wav,0 0.995864 1 0.004133
+
+/mnt/disks/disk-1/data/youtube_video/627_cut.wav,1 0.503033 0 0.496917
+
+/mnt/disks/disk-1/data/youtube_video/628_cut.wav,0 0.867801 1 0.132245
+
+/mnt/disks/disk-1/data/youtube_video/629_cut.wav,0 0.790995 1 0.208986
+
+/mnt/disks/disk-1/data/youtube_video/630_cut.wav,0 0.999851 1 0.000149
+
+/mnt/disks/disk-1/data/youtube_video/631_cut.wav,0 0.744194 1 0.255996
+
+/mnt/disks/disk-1/data/youtube_video/632_cut.wav,1 0.995485 0 0.004513
+
+/mnt/disks/disk-1/data/youtube_video/633_cut.wav,1 0.645063 0 0.355054
+
+/mnt/disks/disk-1/data/youtube_video/634_cut.wav,0 0.995050 1 0.004946
+
+/mnt/disks/disk-1/data/youtube_video/635_cut.wav,1 0.796525 0 0.203504
+
+/mnt/disks/disk-1/data/youtube_video/636_cut.wav,0 0.965423 1 0.034594
+
+/mnt/disks/disk-1/data/youtube_video/637_cut.wav,0 0.989431 1 0.010573
+
+/mnt/disks/disk-1/data/youtube_video/638_cut.wav,0 0.939775 1 0.060166
+
+/mnt/disks/disk-1/data/youtube_video/639_cut.wav,0 0.997204 1 0.002802
+
+/mnt/disks/disk-1/data/youtube_video/640_cut.wav,0 0.951351 1 0.048664
+
+/mnt/disks/disk-1/data/youtube_video/641_cut.wav,0 0.952722 1 0.047290
+
+/mnt/disks/disk-1/data/youtube_video/642_cut.wav,0 0.666712 1 0.333221
+
+/mnt/disks/disk-1/data/youtube_video/643_cut.wav,1 0.549490 0 0.450522
+
+/mnt/disks/disk-1/data/youtube_video/645_cut.wav,0 0.955525 1 0.044441
+
+/mnt/disks/disk-1/data/youtube_video/646_cut.wav,0 0.993616 1 0.006380
+
+/mnt/disks/disk-1/data/youtube_video/647_cut.wav,0 0.926345 1 0.073723
+
+/mnt/disks/disk-1/data/youtube_video/648_cut.wav,0 0.773064 1 0.226998
+
+/mnt/disks/disk-1/data/youtube_video/649_cut.wav,0 0.962284 1 0.037681
+
+/mnt/disks/disk-1/data/youtube_video/650_cut.wav,1 0.731504 0 0.268095
+
+/mnt/disks/disk-1/data/youtube_video/651_cut.wav,0 0.994538 1 0.005469
+
+/mnt/disks/disk-1/data/youtube_video/653_cut.wav,0 0.916117 1 0.083827
+
+/mnt/disks/disk-1/data/youtube_video/654_cut.wav,1 0.627535 0 0.372484
+
+/mnt/disks/disk-1/data/youtube_video/655_cut.wav,0 0.979437 1 0.020545
+
+/mnt/disks/disk-1/data/youtube_video/656_cut.wav,1 0.556256 0 0.443866
+
+/mnt/disks/disk-1/data/youtube_video/657_cut.wav,1 0.717364 0 0.282703
+
+/mnt/disks/disk-1/data/youtube_video/658_cut.wav,0 0.901871 1 0.098150
+
+/mnt/disks/disk-1/data/youtube_video/659_cut.wav,0 0.988103 1 0.011882
+
+/mnt/disks/disk-1/data/youtube_video/660_cut.wav,0 0.999920 1 0.000080
+
+/mnt/disks/disk-1/data/youtube_video/662_cut.wav,0 0.802021 1 0.197903
+
+/mnt/disks/disk-1/data/youtube_video/663_cut.wav,1 0.787035 0 0.212837
+
+/mnt/disks/disk-1/data/youtube_video/664_cut.wav,0 0.816781 1 0.183195
+
+/mnt/disks/disk-1/data/youtube_video/665_cut.wav,0 0.995225 1 0.004776
+
+/mnt/disks/disk-1/data/youtube_video/666_cut.wav,0 0.972375 1 0.027622
+
+/mnt/disks/disk-1/data/youtube_video/667_cut.wav,1 0.687972 0 0.312055
+
+/mnt/disks/disk-1/data/youtube_video/668_cut.wav,0 0.620859 1 0.379160
+
+/mnt/disks/disk-1/data/youtube_video/669_cut.wav,0 0.816915 1 0.183110
+
+/mnt/disks/disk-1/data/youtube_video/670_cut.wav,0 0.973711 1 0.026280
+
+/mnt/disks/disk-1/data/youtube_video/671_cut.wav,0 0.558972 1 0.440996
+
+/mnt/disks/disk-1/data/youtube_video/672_cut.wav,0 0.593317 1 0.406634
+
+/mnt/disks/disk-1/data/youtube_video/673_cut.wav,0 0.954474 1 0.045499
+
+/mnt/disks/disk-1/data/youtube_video/675_cut.wav,0 0.864521 1 0.135478
+
+/mnt/disks/disk-1/data/youtube_video/676_cut.wav,0 0.831947 1 0.168027
+
+/mnt/disks/disk-1/data/youtube_video/677_cut.wav,0 0.998288 1 0.001714
+
+/mnt/disks/disk-1/data/youtube_video/678_cut.wav,0 0.776043 1 0.224001
+
+/mnt/disks/disk-1/data/youtube_video/679_cut.wav,0 0.767452 1 0.232403
+
+/mnt/disks/disk-1/data/youtube_video/680_cut.wav,0 0.948058 1 0.051901
+
+/mnt/disks/disk-1/data/youtube_video/681_cut.wav,0 0.994143 1 0.005844
+
+/mnt/disks/disk-1/data/youtube_video/683_cut.wav,1 0.956937 0 0.043112
+
+/mnt/disks/disk-1/data/youtube_video/685_cut.wav,0 0.840320 1 0.159727
+
+/mnt/disks/disk-1/data/youtube_video/686_cut.wav,1 0.699111 0 0.300759
+
+/mnt/disks/disk-1/data/youtube_video/687_cut.wav,0 0.895245 1 0.104881
+
+/mnt/disks/disk-1/data/youtube_video/688_cut.wav,0 0.712695 1 0.287151
+
+/mnt/disks/disk-1/data/youtube_video/689_cut.wav,0 0.993517 1 0.006485
+
+/mnt/disks/disk-1/data/youtube_video/690_cut.wav,0 0.969953 1 0.030030
+
+/mnt/disks/disk-1/data/youtube_video/691_cut.wav,0 0.978959 1 0.021007
+
+/mnt/disks/disk-1/data/youtube_video/692_cut.wav,1 0.834292 0 0.165703
+
+/mnt/disks/disk-1/data/youtube_video/693_cut.wav,1 0.734465 0 0.265618
+
+/mnt/disks/disk-1/data/youtube_video/694_cut.wav,0 0.614410 1 0.385770
+
+/mnt/disks/disk-1/data/youtube_video/695_cut.wav,1 0.504576 0 0.495366
+
+/mnt/disks/disk-1/data/youtube_video/696_cut.wav,0 0.959013 1 0.040964
+
+/mnt/disks/disk-1/data/youtube_video/697_cut.wav,0 0.983771 1 0.016218
+
+/mnt/disks/disk-1/data/youtube_video/698_cut.wav,0 0.836590 1 0.163380
+
+/mnt/disks/disk-1/data/youtube_video/700_cut.wav,0 0.884691 1 0.115262
+
+/mnt/disks/disk-1/data/youtube_video/701_cut.wav,0 0.943981 1 0.056064
+
+/mnt/disks/disk-1/data/youtube_video/702_cut.wav,0 0.988278 1 0.011739
+
+/mnt/disks/disk-1/data/youtube_video/703_cut.wav,0 0.659280 1 0.340664
+
+/mnt/disks/disk-1/data/youtube_video/704_cut.wav,1 0.556153 0 0.443776
+
+/mnt/disks/disk-1/data/youtube_video/705_cut.wav,0 0.933757 1 0.066157
+
+/mnt/disks/disk-1/data/youtube_video/706_cut.wav,0 0.915415 1 0.084533
+
+/mnt/disks/disk-1/data/youtube_video/707_cut.wav,0 0.993101 1 0.006894
+
+/mnt/disks/disk-1/data/youtube_video/708_cut.wav,1 0.505703 0 0.494317
+
+/mnt/disks/disk-1/data/youtube_video/709_cut.wav,0 0.869881 1 0.129941
+
+/mnt/disks/disk-1/data/youtube_video/710_cut.wav,0 0.998985 1 0.001014
+
+/mnt/disks/disk-1/data/youtube_video/711_cut.wav,0 0.515315 1 0.484599
+
+/mnt/disks/disk-1/data/youtube_video/712_cut.wav,0 0.999738 1 0.000262
+
+/mnt/disks/disk-1/data/youtube_video/714_cut.wav,0 0.954692 1 0.045250
+
+/mnt/disks/disk-1/data/youtube_video/716_cut.wav,0 0.983788 1 0.016217
+
+/mnt/disks/disk-1/data/youtube_video/717_cut.wav,0 0.923800 1 0.076302
+
+/mnt/disks/disk-1/data/youtube_video/718_cut.wav,1 0.784685 0 0.215258
+
+/mnt/disks/disk-1/data/youtube_video/719_cut.wav,0 0.840856 1 0.159107
+
+/mnt/disks/disk-1/data/youtube_video/720_cut.wav,0 0.990366 1 0.009627
+
+/mnt/disks/disk-1/data/youtube_video/721_cut.wav,0 0.870564 1 0.129483
+
+/mnt/disks/disk-1/data/youtube_video/722_cut.wav,0 0.800392 1 0.199663
+
+/mnt/disks/disk-1/data/youtube_video/723_cut.wav,0 0.986584 1 0.013454
+
+/mnt/disks/disk-1/data/youtube_video/724_cut.wav,0 0.903360 1 0.096779
+
+/mnt/disks/disk-1/data/youtube_video/725_cut.wav,0 0.990423 1 0.009575
+
+/mnt/disks/disk-1/data/youtube_video/726_cut.wav,0 0.999792 1 0.000208
+
+/mnt/disks/disk-1/data/youtube_video/727_cut.wav,0 0.954978 1 0.044946
+
+/mnt/disks/disk-1/data/youtube_video/728_cut.wav,0 0.987917 1 0.012089
+
+/mnt/disks/disk-1/data/youtube_video/729_cut.wav,0 0.540299 1 0.459434
+
+/mnt/disks/disk-1/data/youtube_video/730_cut.wav,0 0.990944 1 0.009042
+
+/mnt/disks/disk-1/data/youtube_video/731_cut.wav,0 0.998602 1 0.001393
+
+/mnt/disks/disk-1/data/youtube_video/733_cut.wav,0 0.761874 1 0.238182
+
+/mnt/disks/disk-1/data/youtube_video/734_cut.wav,0 0.983878 1 0.016143
+
+/mnt/disks/disk-1/data/youtube_video/735_cut.wav,0 0.996734 1 0.003265
+
+/mnt/disks/disk-1/data/youtube_video/736_cut.wav,1 0.650036 0 0.350051
+
+/mnt/disks/disk-1/data/youtube_video/737_cut.wav,1 0.865197 0 0.134842
+
+/mnt/disks/disk-1/data/youtube_video/738_cut.wav,0 0.998320 1 0.001680
+
+/mnt/disks/disk-1/data/youtube_video/739_cut.wav,0 0.753159 1 0.246715
+
+/mnt/disks/disk-1/data/youtube_video/740_cut.wav,0 0.936667 1 0.063304
+
+/mnt/disks/disk-1/data/youtube_video/741_cut.wav,0 0.532275 1 0.467677
+
+/mnt/disks/disk-1/data/youtube_video/742_cut.wav,0 0.955726 1 0.044284
+
+/mnt/disks/disk-1/data/youtube_video/743_cut.wav,0 0.998239 1 0.001763
+
+/mnt/disks/disk-1/data/youtube_video/744_cut.wav,0 0.992409 1 0.007603
+
+/mnt/disks/disk-1/data/youtube_video/745_cut.wav,0 0.951815 1 0.048176
+
+/mnt/disks/disk-1/data/youtube_video/746_cut.wav,0 0.985951 1 0.014055
+
+/mnt/disks/disk-1/data/youtube_video/747_cut.wav,0 0.987829 1 0.012149
+
+/mnt/disks/disk-1/data/youtube_video/748_cut.wav,0 0.976840 1 0.023171
+
+/mnt/disks/disk-1/data/youtube_video/749_cut.wav,0 0.540102 1 0.459808
+
+/mnt/disks/disk-1/data/youtube_video/750_cut.wav,0 0.652029 1 0.347759
+
+/mnt/disks/disk-1/data/youtube_video/751_cut.wav,0 0.806035 1 0.193851
+
+/mnt/disks/disk-1/data/youtube_video/752_cut.wav,0 0.962045 1 0.037939
+
+/mnt/disks/disk-1/data/youtube_video/753_cut.wav,0 0.996940 1 0.003061
+
+/mnt/disks/disk-1/data/youtube_video/754_cut.wav,0 0.987176 1 0.012822
+
+/mnt/disks/disk-1/data/youtube_video/755_cut.wav,0 0.870848 1 0.129178
+
+/mnt/disks/disk-1/data/youtube_video/756_cut.wav,0 0.961710 1 0.038315
+
+/mnt/disks/disk-1/data/youtube_video/757_cut.wav,0 0.843698 1 0.156127
+
+/mnt/disks/disk-1/data/youtube_video/758_cut.wav,1 0.995530 0 0.004469
+
+/mnt/disks/disk-1/data/youtube_video/759_cut.wav,0 0.815900 1 0.184033
+
+/mnt/disks/disk-1/data/youtube_video/760_cut.wav,0 0.994846 1 0.005142
+
+/mnt/disks/disk-1/data/youtube_video/761_cut.wav,0 0.932625 1 0.067404
+
+/mnt/disks/disk-1/data/youtube_video/762_cut.wav,0 0.561328 1 0.438686
+
+/mnt/disks/disk-1/data/youtube_video/763_cut.wav,0 0.776687 1 0.223237
+
+/mnt/disks/disk-1/data/youtube_video/764_cut.wav,0 0.699483 1 0.300463
+
+/mnt/disks/disk-1/data/youtube_video/765_cut.wav,0 0.924520 1 0.075482
+
+/mnt/disks/disk-1/data/youtube_video/766_cut.wav,0 0.995770 1 0.004231
+
+/mnt/disks/disk-1/data/youtube_video/767_cut.wav,0 0.955388 1 0.044588
+
+/mnt/disks/disk-1/data/youtube_video/768_cut.wav,0 0.926460 1 0.073419
+
+/mnt/disks/disk-1/data/youtube_video/769_cut.wav,0 0.517932 1 0.481908
+
+/mnt/disks/disk-1/data/youtube_video/770_cut.wav,0 0.901286 1 0.098657
+
+/mnt/disks/disk-1/data/youtube_video/771_cut.wav,0 0.996860 1 0.003142
+
+/mnt/disks/disk-1/data/youtube_video/772_cut.wav,0 0.768582 1 0.231225
+
+/mnt/disks/disk-1/data/youtube_video/773_cut.wav,0 0.999178 1 0.000822
+
+/mnt/disks/disk-1/data/youtube_video/774_cut.wav,0 0.994448 1 0.005551
+
+/mnt/disks/disk-1/data/youtube_video/775_cut.wav,0 0.989896 1 0.010095
+
+/mnt/disks/disk-1/data/youtube_video/776_cut.wav,0 0.995152 1 0.004855
+
+/mnt/disks/disk-1/data/youtube_video/777_cut.wav,0 0.749318 1 0.250701
+
+/mnt/disks/disk-1/data/youtube_video/778_cut.wav,0 0.985544 1 0.014458
+
+/mnt/disks/disk-1/data/youtube_video/780_cut.wav,0 0.819215 1 0.180614
+
+/mnt/disks/disk-1/data/youtube_video/781_cut.wav,0 0.952728 1 0.047277
+
+/mnt/disks/disk-1/data/youtube_video/782_cut.wav,0 0.912168 1 0.087911
+
+/mnt/disks/disk-1/data/youtube_video/783_cut.wav,0 0.992661 1 0.007347
+
+/mnt/disks/disk-1/data/youtube_video/784_cut.wav,0 0.968108 1 0.031840
+
+/mnt/disks/disk-1/data/youtube_video/785_cut.wav,0 0.918929 1 0.081019
+
+/mnt/disks/disk-1/data/youtube_video/786_cut.wav,1 0.707661 0 0.292512
+
+/mnt/disks/disk-1/data/youtube_video/787_cut.wav,0 0.993590 1 0.006401
+
+/mnt/disks/disk-1/data/youtube_video/788_cut.wav,0 0.999549 1 0.000452
+
+/mnt/disks/disk-1/data/youtube_video/789_cut.wav,0 0.991676 1 0.008318
+
+/mnt/disks/disk-1/data/youtube_video/790_cut.wav,0 0.661151 1 0.339037
+
+/mnt/disks/disk-1/data/youtube_video/791_cut.wav,0 0.948788 1 0.051156
+
+/mnt/disks/disk-1/data/youtube_video/792_cut.wav,0 0.834817 1 0.165329
+
+/mnt/disks/disk-1/data/youtube_video/793_cut.wav,1 0.787901 0 0.212009
+
+/mnt/disks/disk-1/data/youtube_video/794_cut.wav,1 0.566380 0 0.433490
+
+/mnt/disks/disk-1/data/youtube_video/795_cut.wav,0 0.508032 1 0.492024
+
+/mnt/disks/disk-1/data/youtube_video/796_cut.wav,0 0.980189 1 0.019816
+
+/mnt/disks/disk-1/data/youtube_video/797_cut.wav,0 0.888348 1 0.111783
+
+/mnt/disks/disk-1/data/youtube_video/798_cut.wav,1 0.567913 0 0.432148
+
+/mnt/disks/disk-1/data/youtube_video/799_cut.wav,0 0.952156 1 0.047847
+
+/mnt/disks/disk-1/data/youtube_video/800_cut.wav,0 0.995395 1 0.004601
+
+/mnt/disks/disk-1/data/youtube_video/801_cut.wav,0 0.983681 1 0.016283
+
+/mnt/disks/disk-1/data/youtube_video/802_cut.wav,0 0.992873 1 0.007113
+
+/mnt/disks/disk-1/data/youtube_video/803_cut.wav,0 0.806963 1 0.193045
+
+/mnt/disks/disk-1/data/youtube_video/804_cut.wav,1 0.840360 0 0.159582
+
+/mnt/disks/disk-1/data/youtube_video/805_cut.wav,0 0.982003 1 0.017995
+
+/mnt/disks/disk-1/data/youtube_video/806_cut.wav,0 0.999075 1 0.000925
+
+/mnt/disks/disk-1/data/youtube_video/807_cut.wav,0 0.871628 1 0.128329
+
+/mnt/disks/disk-1/data/youtube_video/808_cut.wav,0 0.931461 1 0.068499
+
+/mnt/disks/disk-1/data/youtube_video/809_cut.wav,0 0.958518 1 0.041516
+
+/mnt/disks/disk-1/data/youtube_video/810_cut.wav,0 0.995334 1 0.004670
+
+/mnt/disks/disk-1/data/youtube_video/811_cut.wav,0 0.880132 1 0.119855
+
+/mnt/disks/disk-1/data/youtube_video/812_cut.wav,1 0.698130 0 0.301788
+
+/mnt/disks/disk-1/data/youtube_video/813_cut.wav,1 0.574897 0 0.425174
+
+/mnt/disks/disk-1/data/youtube_video/814_cut.wav,0 0.741651 1 0.258353
+
+/mnt/disks/disk-1/data/youtube_video/815_cut.wav,0 0.783070 1 0.216982
+
+/mnt/disks/disk-1/data/youtube_video/816_cut.wav,0 0.919532 1 0.080409
+
+/mnt/disks/disk-1/data/youtube_video/817_cut.wav,0 0.958441 1 0.041557
+
+/mnt/disks/disk-1/data/youtube_video/818_cut.wav,0 0.967611 1 0.032404
+
+/mnt/disks/disk-1/data/youtube_video/819_cut.wav,0 0.993202 1 0.006779
+
+/mnt/disks/disk-1/data/youtube_video/820_cut.wav,0 0.996683 1 0.003316
+
+/mnt/disks/disk-1/data/youtube_video/821_cut.wav,0 0.881938 1 0.117991
+
+/mnt/disks/disk-1/data/youtube_video/822_cut.wav,0 0.951248 1 0.048779
+
+/mnt/disks/disk-1/data/youtube_video/823_cut.wav,0 0.876362 1 0.123683
+
+/mnt/disks/disk-1/data/youtube_video/824_cut.wav,0 0.971714 1 0.028276
+
+/mnt/disks/disk-1/data/youtube_video/825_cut.wav,0 0.997734 1 0.002265
+
+/mnt/disks/disk-1/data/youtube_video/826_cut.wav,0 0.722598 1 0.277211
+
+/mnt/disks/disk-1/data/youtube_video/827_cut.wav,0 0.988632 1 0.011366
+
+/mnt/disks/disk-1/data/youtube_video/828_cut.wav,1 0.838077 0 0.162019
+
+/mnt/disks/disk-1/data/youtube_video/829_cut.wav,0 0.790562 1 0.209383
+
+/mnt/disks/disk-1/data/youtube_video/830_cut.wav,0 0.989987 1 0.010015
+
+/mnt/disks/disk-1/data/youtube_video/831_cut.wav,0 0.995164 1 0.004839
+
+/mnt/disks/disk-1/data/youtube_video/832_cut.wav,0 0.993603 1 0.006395
+
+/mnt/disks/disk-1/data/youtube_video/833_cut.wav,0 0.781243 1 0.218816
+
+/mnt/disks/disk-1/data/youtube_video/834_cut.wav,0 0.725017 1 0.275009
+
+/mnt/disks/disk-1/data/youtube_video/835_cut.wav,0 0.941508 1 0.058568
+
+/mnt/disks/disk-1/data/youtube_video/836_cut.wav,0 0.993422 1 0.006572
+
+/mnt/disks/disk-1/data/youtube_video/837_cut.wav,0 0.857767 1 0.142282
+
+/mnt/disks/disk-1/data/youtube_video/838_cut.wav,0 0.998802 1 0.001196
+
+/mnt/disks/disk-1/data/youtube_video/839_cut.wav,1 0.898767 0 0.101246
+
+/mnt/disks/disk-1/data/youtube_video/840_cut.wav,0 0.922663 1 0.077271
+
+/mnt/disks/disk-1/data/youtube_video/841_cut.wav,0 0.998998 1 0.001002
+
+/mnt/disks/disk-1/data/youtube_video/842_cut.wav,1 0.746042 0 0.253840
+
+/mnt/disks/disk-1/data/youtube_video/843_cut.wav,0 0.942362 1 0.057694
+
+/mnt/disks/disk-1/data/youtube_video/844_cut.wav,0 0.889152 1 0.110812
+
+/mnt/disks/disk-1/data/youtube_video/845_cut.wav,0 0.908878 1 0.091050
+
+/mnt/disks/disk-1/data/youtube_video/846_cut.wav,0 0.993960 1 0.006026
+
+/mnt/disks/disk-1/data/youtube_video/847_cut.wav,0 0.928769 1 0.071279
+
+/mnt/disks/disk-1/data/youtube_video/848_cut.wav,0 0.975743 1 0.024264
+
+/mnt/disks/disk-1/data/youtube_video/849_cut.wav,0 0.858111 1 0.141804
+
+/mnt/disks/disk-1/data/youtube_video/850_cut.wav,0 0.659139 1 0.340956
+
+/mnt/disks/disk-1/data/youtube_video/851_cut.wav,0 0.732115 1 0.267858
+
+/mnt/disks/disk-1/data/youtube_video/852_cut.wav,1 0.991674 0 0.008329
+
+/mnt/disks/disk-1/data/youtube_video/853_cut.wav,1 0.946748 0 0.053258
+
+/mnt/disks/disk-1/data/youtube_video/854_cut.wav,0 0.508569 1 0.491246
+
+/mnt/disks/disk-1/data/youtube_video/855_cut.wav,0 0.819167 1 0.180685
+
+/mnt/disks/disk-1/data/youtube_video/856_cut.wav,0 0.951396 1 0.048637
+
+/mnt/disks/disk-1/data/youtube_video/857_cut.wav,0 0.999580 1 0.000420
+
+/mnt/disks/disk-1/data/youtube_video/858_cut.wav,0 0.788692 1 0.210951
+
+/mnt/disks/disk-1/data/youtube_video/859_cut.wav,1 0.727750 0 0.272135
+
+/mnt/disks/disk-1/data/youtube_video/861_cut.wav,0 0.957676 1 0.042392
+
+/mnt/disks/disk-1/data/youtube_video/862_cut.wav,0 0.985840 1 0.014146
+
+/mnt/disks/disk-1/data/youtube_video/863_cut.wav,0 0.534671 1 0.465338
+
+/mnt/disks/disk-1/data/youtube_video/864_cut.wav,0 0.945896 1 0.054068
+
+/mnt/disks/disk-1/data/youtube_video/865_cut.wav,1 0.834721 0 0.165357
+
+/mnt/disks/disk-1/data/youtube_video/866_cut.wav,0 0.999692 1 0.000309
+
+/mnt/disks/disk-1/data/youtube_video/867_cut.wav,0 0.991748 1 0.008261
+
+/mnt/disks/disk-1/data/youtube_video/868_cut.wav,0 0.713733 1 0.286335
+
+/mnt/disks/disk-1/data/youtube_video/870_cut.wav,0 0.786881 1 0.212989
+
+/mnt/disks/disk-1/data/youtube_video/871_cut.wav,0 0.796092 1 0.204068
+
+/mnt/disks/disk-1/data/youtube_video/872_cut.wav,0 0.612217 1 0.387883
+
+/mnt/disks/disk-1/data/youtube_video/873_cut.wav,0 0.996417 1 0.003579
+
+/mnt/disks/disk-1/data/youtube_video/874_cut.wav,0 0.894896 1 0.105055
+
+/mnt/disks/disk-1/data/youtube_video/875_cut.wav,0 0.939709 1 0.060255
+
+/mnt/disks/disk-1/data/youtube_video/876_cut.wav,0 0.960272 1 0.039709
+
+/mnt/disks/disk-1/data/youtube_video/877_cut.wav,0 0.917744 1 0.082279
+
+/mnt/disks/disk-1/data/youtube_video/878_cut.wav,0 0.989244 1 0.010740
+
+/mnt/disks/disk-1/data/youtube_video/879_cut.wav,0 0.999922 1 0.000078
+
+/mnt/disks/disk-1/data/youtube_video/880_cut.wav,0 0.574807 1 0.425446
+
+/mnt/disks/disk-1/data/youtube_video/881_cut.wav,1 0.986373 0 0.013642
+
+/mnt/disks/disk-1/data/youtube_video/882_cut.wav,0 0.992739 1 0.007271
+
+/mnt/disks/disk-1/data/youtube_video/883_cut.wav,0 0.975967 1 0.024031
+
+/mnt/disks/disk-1/data/youtube_video/884_cut.wav,1 0.599133 0 0.400750
+
+/mnt/disks/disk-1/data/youtube_video/885_cut.wav,0 0.967176 1 0.032825
+
+/mnt/disks/disk-1/data/youtube_video/886_cut.wav,0 0.989459 1 0.010542
+
+/mnt/disks/disk-1/data/youtube_video/887_cut.wav,1 0.685818 0 0.314157
+
+/mnt/disks/disk-1/data/youtube_video/888_cut.wav,0 0.991873 1 0.008139
+
+/mnt/disks/disk-1/data/youtube_video/889_cut.wav,0 0.999896 1 0.000104
+
+/mnt/disks/disk-1/data/youtube_video/890_cut.wav,0 0.893752 1 0.106320
+
+/mnt/disks/disk-1/data/youtube_video/891_cut.wav,1 0.947714 0 0.052286
+
+/mnt/disks/disk-1/data/youtube_video/892_cut.wav,1 0.551990 0 0.448109
+
+/mnt/disks/disk-1/data/youtube_video/893_cut.wav,1 0.645061 0 0.355089
+
+/mnt/disks/disk-1/data/youtube_video/894_cut.wav,0 0.827203 1 0.172578
+
+/mnt/disks/disk-1/data/youtube_video/895_cut.wav,0 0.735683 1 0.264177
+
+/mnt/disks/disk-1/data/youtube_video/896_cut.wav,0 0.987235 1 0.012801
+
+/mnt/disks/disk-1/data/youtube_video/897_cut.wav,0 0.977966 1 0.022018
+
+/mnt/disks/disk-1/data/youtube_video/898_cut.wav,0 0.971335 1 0.028655
+
+/mnt/disks/disk-1/data/youtube_video/899_cut.wav,0 0.992247 1 0.007756
+
+/mnt/disks/disk-1/data/youtube_video/900_cut.wav,0 0.994036 1 0.005952
+
+/mnt/disks/disk-1/data/youtube_video/901_cut.wav,0 0.998779 1 0.001222
+
+/mnt/disks/disk-1/data/youtube_video/902_cut.wav,0 0.998568 1 0.001434
+
+/mnt/disks/disk-1/data/youtube_video/903_cut.wav,0 0.886639 1 0.113363
+
+/mnt/disks/disk-1/data/youtube_video/905_cut.wav,0 0.999250 1 0.000751
+
+/mnt/disks/disk-1/data/youtube_video/906_cut.wav,1 0.504181 0 0.495717
+
+/mnt/disks/disk-1/data/youtube_video/907_cut.wav,0 0.735870 1 0.263974
+
+/mnt/disks/disk-1/data/youtube_video/908_cut.wav,1 0.704512 0 0.295537
+
+/mnt/disks/disk-1/data/youtube_video/909_cut.wav,0 0.783303 1 0.216432
+
+/mnt/disks/disk-1/data/youtube_video/910_cut.wav,0 0.879096 1 0.120936
+
+/mnt/disks/disk-1/data/youtube_video/911_cut.wav,0 0.950519 1 0.049455
+
+/mnt/disks/disk-1/data/youtube_video/912_cut.wav,1 0.505279 0 0.494830
+
+/mnt/disks/disk-1/data/youtube_video/913_cut.wav,0 0.943654 1 0.056277
+
+/mnt/disks/disk-1/data/youtube_video/915_cut.wav,0 0.893479 1 0.106441
+
+/mnt/disks/disk-1/data/youtube_video/916_cut.wav,0 0.969050 1 0.030926
+
+/mnt/disks/disk-1/data/youtube_video/917_cut.wav,0 0.998409 1 0.001591
+
+/mnt/disks/disk-1/data/youtube_video/918_cut.wav,1 0.668137 0 0.331704
+
+/mnt/disks/disk-1/data/youtube_video/919_cut.wav,0 0.898511 1 0.101486
+
+/mnt/disks/disk-1/data/youtube_video/920_cut.wav,0 0.959296 1 0.040618
+
+/mnt/disks/disk-1/data/youtube_video/921_cut.wav,0 0.965524 1 0.034481
+
+/mnt/disks/disk-1/data/youtube_video/922_cut.wav,0 0.913224 1 0.086841
+
+/mnt/disks/disk-1/data/youtube_video/923_cut.wav,0 0.999607 1 0.000393
+
+/mnt/disks/disk-1/data/youtube_video/924_cut.wav,0 0.993099 1 0.006901
+
+/mnt/disks/disk-1/data/youtube_video/925_cut.wav,0 0.995451 1 0.004551
+
+/mnt/disks/disk-1/data/youtube_video/926_cut.wav,0 0.638114 1 0.361918
+
+/mnt/disks/disk-1/data/youtube_video/927_cut.wav,0 0.996532 1 0.003469
+
+/mnt/disks/disk-1/data/youtube_video/928_cut.wav,0 0.790260 1 0.209678
+
+/mnt/disks/disk-1/data/youtube_video/929_cut.wav,0 0.932167 1 0.067867
+
+/mnt/disks/disk-1/data/youtube_video/930_cut.wav,0 0.980502 1 0.019509
+
+/mnt/disks/disk-1/data/youtube_video/931_cut.wav,0 0.960979 1 0.039028
+
+/mnt/disks/disk-1/data/youtube_video/932_cut.wav,0 0.728287 1 0.271489
+
+/mnt/disks/disk-1/data/youtube_video/933_cut.wav,0 0.978793 1 0.021195
+
+/mnt/disks/disk-1/data/youtube_video/934_cut.wav,0 0.936375 1 0.063601
+
+/mnt/disks/disk-1/data/youtube_video/935_cut.wav,0 0.984051 1 0.015927
+
+/mnt/disks/disk-1/data/youtube_video/936_cut.wav,0 0.991029 1 0.008967
+
+/mnt/disks/disk-1/data/youtube_video/937_cut.wav,0 0.676448 1 0.323572
+
+/mnt/disks/disk-1/data/youtube_video/938_cut.wav,0 0.957341 1 0.042619
+
+/mnt/disks/disk-1/data/youtube_video/940_cut.wav,0 0.962755 1 0.037224
+
+/mnt/disks/disk-1/data/youtube_video/941_cut.wav,1 0.770380 0 0.229471
+
+/mnt/disks/disk-1/data/youtube_video/942_cut.wav,0 0.965403 1 0.034641
+
+/mnt/disks/disk-1/data/youtube_video/944_cut.wav,0 0.801166 1 0.198807
+
+/mnt/disks/disk-1/data/youtube_video/945_cut.wav,0 0.995885 1 0.004122
+
+/mnt/disks/disk-1/data/youtube_video/946_cut.wav,0 0.944678 1 0.055282
+
+/mnt/disks/disk-1/data/youtube_video/947_cut.wav,0 0.995379 1 0.004621
+
+/mnt/disks/disk-1/data/youtube_video/948_cut.wav,0 0.948112 1 0.052002
+
+/mnt/disks/disk-1/data/youtube_video/949_cut.wav,0 0.913450 1 0.086627
+
+/mnt/disks/disk-1/data/youtube_video/950_cut.wav,1 0.828143 0 0.171881
+
+/mnt/disks/disk-1/data/youtube_video/951_cut.wav,0 0.927066 1 0.072941
+
+/mnt/disks/disk-1/data/youtube_video/952_cut.wav,1 0.841993 0 0.158038
+
+/mnt/disks/disk-1/data/youtube_video/953_cut.wav,0 0.984621 1 0.015373
+
+/mnt/disks/disk-1/data/youtube_video/954_cut.wav,1 0.810157 0 0.189864
+
+/mnt/disks/disk-1/data/youtube_video/955_cut.wav,1 0.698932 0 0.301250
+
+/mnt/disks/disk-1/data/youtube_video/956_cut.wav,1 0.678719 0 0.321260
+
+/mnt/disks/disk-1/data/youtube_video/957_cut.wav,0 0.987092 1 0.012902
+
+/mnt/disks/disk-1/data/youtube_video/958_cut.wav,0 0.976421 1 0.023597
+
+/mnt/disks/disk-1/data/youtube_video/959_cut.wav,0 0.516343 1 0.484092
+
+/mnt/disks/disk-1/data/youtube_video/960_cut.wav,0 0.995906 1 0.004089
+
+/mnt/disks/disk-1/data/youtube_video/961_cut.wav,0 0.998965 1 0.001034
+
+/mnt/disks/disk-1/data/youtube_video/962_cut.wav,0 0.999987 1 0.000013
+
+/mnt/disks/disk-1/data/youtube_video/963_cut.wav,0 0.927759 1 0.072260
+
+/mnt/disks/disk-1/data/youtube_video/964_cut.wav,0 0.983188 1 0.016810
+
+/mnt/disks/disk-1/data/youtube_video/965_cut.wav,1 0.768287 0 0.231617
+
+/mnt/disks/disk-1/data/youtube_video/966_cut.wav,0 0.998309 1 0.001691
+
+/mnt/disks/disk-1/data/youtube_video/967_cut.wav,0 0.953144 1 0.046842
+
+/mnt/disks/disk-1/data/youtube_video/969_cut.wav,0 0.806688 1 0.193174
+
+/mnt/disks/disk-1/data/youtube_video/970_cut.wav,0 0.606130 1 0.393752
+
+/mnt/disks/disk-1/data/youtube_video/971_cut.wav,0 0.905537 1 0.094487
+
+/mnt/disks/disk-1/data/youtube_video/972_cut.wav,0 0.995131 1 0.004861
+
+/mnt/disks/disk-1/data/youtube_video/973_cut.wav,1 0.743840 0 0.256240
+
+/mnt/disks/disk-1/data/youtube_video/975_cut.wav,1 0.668689 0 0.331276
+
+/mnt/disks/disk-1/data/youtube_video/976_cut.wav,0 0.729094 1 0.270730
+
+/mnt/disks/disk-1/data/youtube_video/977_cut.wav,0 0.790887 1 0.208867
+
+/mnt/disks/disk-1/data/youtube_video/978_cut.wav,0 0.972850 1 0.027182
+
+/mnt/disks/disk-1/data/youtube_video/979_cut.wav,0 0.810358 1 0.189532
+
+/mnt/disks/disk-1/data/youtube_video/980_cut.wav,0 0.996186 1 0.003811
+
+/mnt/disks/disk-1/data/youtube_video/981_cut.wav,0 0.990622 1 0.009367
+
+/mnt/disks/disk-1/data/youtube_video/982_cut.wav,0 0.999710 1 0.000290
+
+/mnt/disks/disk-1/data/youtube_video/983_cut.wav,0 0.655693 1 0.344383
+
+/mnt/disks/disk-1/data/youtube_video/984_cut.wav,0 0.986042 1 0.013946
+
+/mnt/disks/disk-1/data/youtube_video/985_cut.wav,0 0.963071 1 0.036985
+
+/mnt/disks/disk-1/data/youtube_video/986_cut.wav,0 0.959896 1 0.040102
+
+/mnt/disks/disk-1/data/youtube_video/987_cut.wav,0 0.617945 1 0.382127
+
+/mnt/disks/disk-1/data/youtube_video/988_cut.wav,0 0.974778 1 0.025223
+
+/mnt/disks/disk-1/data/youtube_video/989_cut.wav,0 0.997661 1 0.002340
+
+/mnt/disks/disk-1/data/youtube_video/990_cut.wav,1 0.654861 0 0.345121
+
+/mnt/disks/disk-1/data/youtube_video/991_cut.wav,0 0.615599 1 0.384212
+
+/mnt/disks/disk-1/data/youtube_video/992_cut.wav,0 0.990032 1 0.009975
+
+/mnt/disks/disk-1/data/youtube_video/993_cut.wav,0 0.984434 1 0.015568
+
+/mnt/disks/disk-1/data/youtube_video/994_cut.wav,0 0.769600 1 0.230222
+
+/mnt/disks/disk-1/data/youtube_video/995_cut.wav,0 0.863787 1 0.136252
+
+/mnt/disks/disk-1/data/youtube_video/996_cut.wav,0 0.998061 1 0.001938
+
+/mnt/disks/disk-1/data/youtube_video/997_cut.wav,0 0.971597 1 0.028368
+
+/mnt/disks/disk-1/data/youtube_video/998_cut.wav,0 0.999938 1 0.000062
+
+/mnt/disks/disk-1/data/youtube_video/999_cut.wav,0 0.916569 1 0.083364
+
+/mnt/disks/disk-1/data/youtube_video/1000_cut.wav,0 0.996425 1 0.003572
+
+/mnt/disks/disk-1/data/youtube_video/1001_cut.wav,1 0.820823 0 0.179167
+
+/mnt/disks/disk-1/data/youtube_video/1002_cut.wav,1 0.992433 0 0.007566
+
+/mnt/disks/disk-1/data/youtube_video/1003_cut.wav,1 0.998753 0 0.001247
+
+/mnt/disks/disk-1/data/youtube_video/1004_cut.wav,1 0.996762 0 0.003239
+
+/mnt/disks/disk-1/data/youtube_video/1005_cut.wav,1 0.946620 0 0.053387
+
+/mnt/disks/disk-1/data/youtube_video/1006_cut.wav,1 0.933888 0 0.066083
+
+/mnt/disks/disk-1/data/youtube_video/1007_cut.wav,1 0.999880 0 0.000120
+
+/mnt/disks/disk-1/data/youtube_video/1008_cut.wav,1 0.972895 0 0.027103
+
+/mnt/disks/disk-1/data/youtube_video/1009_cut.wav,1 0.999542 0 0.000458
+
+/mnt/disks/disk-1/data/youtube_video/1010_cut.wav,1 0.697694 0 0.302401
+
+/mnt/disks/disk-1/data/youtube_video/1011_cut.wav,1 0.963263 0 0.036739
+
+/mnt/disks/disk-1/data/youtube_video/1012_cut.wav,1 0.999540 0 0.000460
+
+/mnt/disks/disk-1/data/youtube_video/1013_cut.wav,1 0.976443 0 0.023569
+
+/mnt/disks/disk-1/data/youtube_video/1014_cut.wav,1 0.971562 0 0.028435
+
+/mnt/disks/disk-1/data/youtube_video/1015_cut.wav,1 0.978018 0 0.021991
+
+/mnt/disks/disk-1/data/youtube_video/1016_cut.wav,1 0.536393 0 0.463540
+
+/mnt/disks/disk-1/data/youtube_video/1017_cut.wav,1 0.973742 0 0.026253
+
+/mnt/disks/disk-1/data/youtube_video/1019_cut.wav,1 0.999998 0 0.000002
+
+/mnt/disks/disk-1/data/youtube_video/1020_cut.wav,1 0.914004 0 0.085994
+
+/mnt/disks/disk-1/data/youtube_video/1021_cut.wav,1 0.833852 0 0.166240
+
+/mnt/disks/disk-1/data/youtube_video/1022_cut.wav,1 0.653181 0 0.346781
+
+/mnt/disks/disk-1/data/youtube_video/1023_cut.wav,1 0.998682 0 0.001319
+
+/mnt/disks/disk-1/data/youtube_video/1025_cut.wav,0 0.510063 1 0.489859
+
+/mnt/disks/disk-1/data/youtube_video/1026_cut.wav,1 0.965300 0 0.034712
+
+/mnt/disks/disk-1/data/youtube_video/1027_cut.wav,1 0.964946 0 0.035045
+
+/mnt/disks/disk-1/data/youtube_video/1028_cut.wav,1 0.987476 0 0.012527
+
+/mnt/disks/disk-1/data/youtube_video/1029_cut.wav,1 0.907047 0 0.092959
+
+/mnt/disks/disk-1/data/youtube_video/1030_cut.wav,1 0.994723 0 0.005274
+
+/mnt/disks/disk-1/data/youtube_video/1031_cut.wav,1 0.510225 0 0.489714
+
+/mnt/disks/disk-1/data/youtube_video/1032_cut.wav,1 0.810690 0 0.189352
+
+/mnt/disks/disk-1/data/youtube_video/1033_cut.wav,1 0.992452 0 0.007546
+
+/mnt/disks/disk-1/data/youtube_video/1034_cut.wav,0 0.720208 1 0.279675
+
+/mnt/disks/disk-1/data/youtube_video/1035_cut.wav,1 0.990065 0 0.009937
+
+/mnt/disks/disk-1/data/youtube_video/1036_cut.wav,1 0.947525 0 0.052489
+
+/mnt/disks/disk-1/data/youtube_video/1037_cut.wav,1 0.992385 0 0.007621
+
+/mnt/disks/disk-1/data/youtube_video/1038_cut.wav,1 0.979869 0 0.020119
+
+/mnt/disks/disk-1/data/youtube_video/1039_cut.wav,1 0.807109 0 0.192874
+
+/mnt/disks/disk-1/data/youtube_video/1040_cut.wav,1 0.995371 0 0.004632
+
+/mnt/disks/disk-1/data/youtube_video/1041_cut.wav,1 0.927943 0 0.072068
+
+/mnt/disks/disk-1/data/youtube_video/1042_cut.wav,1 0.638395 0 0.361598
+
+/mnt/disks/disk-1/data/youtube_video/1043_cut.wav,0 0.766507 1 0.233433
+
+/mnt/disks/disk-1/data/youtube_video/1044_cut.wav,1 0.980719 0 0.019281
+
+/mnt/disks/disk-1/data/youtube_video/1045_cut.wav,1 0.993874 0 0.006126
+
+/mnt/disks/disk-1/data/youtube_video/1046_cut.wav,1 0.999472 0 0.000528
+
+/mnt/disks/disk-1/data/youtube_video/1047_cut.wav,1 0.727498 0 0.272492
+
+/mnt/disks/disk-1/data/youtube_video/1048_cut.wav,1 0.962947 0 0.037029
+
+/mnt/disks/disk-1/data/youtube_video/1049_cut.wav,0 0.705939 1 0.294181
+
+/mnt/disks/disk-1/data/youtube_video/1050_cut.wav,1 0.999551 0 0.000449
+
+/mnt/disks/disk-1/data/youtube_video/1051_cut.wav,1 0.999271 0 0.000729
+
+/mnt/disks/disk-1/data/youtube_video/1053_cut.wav,1 0.993017 0 0.006976
+
+/mnt/disks/disk-1/data/youtube_video/1054_cut.wav,1 0.611879 0 0.388076
+
+/mnt/disks/disk-1/data/youtube_video/1055_cut.wav,1 0.998156 0 0.001844
+
+/mnt/disks/disk-1/data/youtube_video/1056_cut.wav,1 0.993968 0 0.006033
+
+/mnt/disks/disk-1/data/youtube_video/1057_cut.wav,1 0.994468 0 0.005536
+
+/mnt/disks/disk-1/data/youtube_video/1058_cut.wav,1 0.979550 0 0.020457
+
+/mnt/disks/disk-1/data/youtube_video/1059_cut.wav,1 0.957894 0 0.042110
+
+/mnt/disks/disk-1/data/youtube_video/1060_cut.wav,0 0.596160 1 0.403702
+
+/mnt/disks/disk-1/data/youtube_video/1061_cut.wav,1 0.999448 0 0.000552
+
+/mnt/disks/disk-1/data/youtube_video/1063_cut.wav,1 0.876059 0 0.123926
+
+/mnt/disks/disk-1/data/youtube_video/1064_cut.wav,1 0.944966 0 0.055029
+
+/mnt/disks/disk-1/data/youtube_video/1065_cut.wav,1 0.990072 0 0.009927
+
+/mnt/disks/disk-1/data/youtube_video/1066_cut.wav,0 0.547026 1 0.453138
+
+/mnt/disks/disk-1/data/youtube_video/1067_cut.wav,1 0.988455 0 0.011551
+
+/mnt/disks/disk-1/data/youtube_video/1068_cut.wav,1 0.997111 0 0.002890
+
+num examples processed: 1536 elapsed seconds: 1.94
+/mnt/disks/disk-1/data/youtube_video/1069_cut.wav,1 0.996622 0 0.003380
+
+/mnt/disks/disk-1/data/youtube_video/1070_cut.wav,1 0.999613 0 0.000387
+
+/mnt/disks/disk-1/data/youtube_video/1071_cut.wav,1 0.995250 0 0.004752
+
+/mnt/disks/disk-1/data/youtube_video/1073_cut.wav,1 0.772648 0 0.227358
+
+/mnt/disks/disk-1/data/youtube_video/1074_cut.wav,1 0.980174 0 0.019836
+
+/mnt/disks/disk-1/data/youtube_video/1075_cut.wav,1 0.714390 0 0.285593
+
+/mnt/disks/disk-1/data/youtube_video/1076_cut.wav,1 0.998637 0 0.001363
+
+/mnt/disks/disk-1/data/youtube_video/1077_cut.wav,1 0.725829 0 0.274013
+
+/mnt/disks/disk-1/data/youtube_video/1078_cut.wav,1 0.926416 0 0.073551
+
+/mnt/disks/disk-1/data/youtube_video/1079_cut.wav,1 0.962999 0 0.036974
+
+/mnt/disks/disk-1/data/youtube_video/1080_cut.wav,1 0.933277 0 0.066694
+
+/mnt/disks/disk-1/data/youtube_video/1081_cut.wav,1 0.928217 0 0.071759
+
+/mnt/disks/disk-1/data/youtube_video/1082_cut.wav,1 0.991802 0 0.008199
+
+/mnt/disks/disk-1/data/youtube_video/1083_cut.wav,1 0.803589 0 0.196443
+
+/mnt/disks/disk-1/data/youtube_video/1084_cut.wav,1 0.955954 0 0.044069
+
+/mnt/disks/disk-1/data/youtube_video/1085_cut.wav,1 0.984865 0 0.015144
+
+/mnt/disks/disk-1/data/youtube_video/1086_cut.wav,1 0.999927 0 0.000073
+
+/mnt/disks/disk-1/data/youtube_video/1087_cut.wav,1 0.981261 0 0.018746
+
+/mnt/disks/disk-1/data/youtube_video/1088_cut.wav,1 0.958625 0 0.041368
+
+/mnt/disks/disk-1/data/youtube_video/1089_cut.wav,1 0.999226 0 0.000774
+
+/mnt/disks/disk-1/data/youtube_video/1090_cut.wav,1 0.994263 0 0.005734
+
+/mnt/disks/disk-1/data/youtube_video/1091_cut.wav,1 0.999740 0 0.000260
+
+/mnt/disks/disk-1/data/youtube_video/1092_cut.wav,1 0.928938 0 0.071108
+
+/mnt/disks/disk-1/data/youtube_video/1093_cut.wav,1 0.688440 0 0.311622
+
+/mnt/disks/disk-1/data/youtube_video/1094_cut.wav,1 0.956527 0 0.043455
+
+/mnt/disks/disk-1/data/youtube_video/1095_cut.wav,1 0.590473 0 0.409495
+
+/mnt/disks/disk-1/data/youtube_video/1096_cut.wav,1 0.997253 0 0.002748
+
+/mnt/disks/disk-1/data/youtube_video/1099_cut.wav,1 0.987732 0 0.012274
+
+/mnt/disks/disk-1/data/youtube_video/1100_cut.wav,1 0.926779 0 0.073230
+
+/mnt/disks/disk-1/data/youtube_video/1101_cut.wav,1 0.870018 0 0.130095
+
+/mnt/disks/disk-1/data/youtube_video/1102_cut.wav,1 0.960738 0 0.039254
+
+/mnt/disks/disk-1/data/youtube_video/1103_cut.wav,1 0.998169 0 0.001831
+
+/mnt/disks/disk-1/data/youtube_video/1104_cut.wav,1 0.986875 0 0.013127
+
+/mnt/disks/disk-1/data/youtube_video/1105_cut.wav,1 0.559109 0 0.440983
+
+/mnt/disks/disk-1/data/youtube_video/1106_cut.wav,1 0.999618 0 0.000381
+
+/mnt/disks/disk-1/data/youtube_video/1107_cut.wav,1 0.907853 0 0.092134
+
+/mnt/disks/disk-1/data/youtube_video/1108_cut.wav,1 0.999891 0 0.000109
+
+/mnt/disks/disk-1/data/youtube_video/1109_cut.wav,1 0.985959 0 0.014041
+
+/mnt/disks/disk-1/data/youtube_video/1110_cut.wav,1 0.993444 0 0.006553
+
+/mnt/disks/disk-1/data/youtube_video/1111_cut.wav,1 0.589368 0 0.410665
+
+/mnt/disks/disk-1/data/youtube_video/1113_cut.wav,1 0.989974 0 0.010030
+
+/mnt/disks/disk-1/data/youtube_video/1114_cut.wav,0 0.612697 1 0.387451
+
+/mnt/disks/disk-1/data/youtube_video/1116_cut.wav,1 0.999972 0 0.000028
+
+/mnt/disks/disk-1/data/youtube_video/1117_cut.wav,1 0.999888 0 0.000112
+
+/mnt/disks/disk-1/data/youtube_video/1118_cut.wav,1 0.999995 0 0.000005
+
+/mnt/disks/disk-1/data/youtube_video/1120_cut.wav,1 0.882300 0 0.117665
+
+/mnt/disks/disk-1/data/youtube_video/1121_cut.wav,1 0.998707 0 0.001292
+
+/mnt/disks/disk-1/data/youtube_video/1122_cut.wav,1 0.974799 0 0.025206
+
+/mnt/disks/disk-1/data/youtube_video/1123_cut.wav,1 0.952257 0 0.047759
+
+/mnt/disks/disk-1/data/youtube_video/1124_cut.wav,1 0.539370 0 0.460601
+
+/mnt/disks/disk-1/data/youtube_video/1125_cut.wav,0 0.635579 1 0.364257
+
+/mnt/disks/disk-1/data/youtube_video/1126_cut.wav,1 0.999109 0 0.000891
+
+/mnt/disks/disk-1/data/youtube_video/1127_cut.wav,1 0.994405 0 0.005595
+
+/mnt/disks/disk-1/data/youtube_video/1128_cut.wav,1 0.686213 0 0.313892
+
+/mnt/disks/disk-1/data/youtube_video/1129_cut.wav,1 0.930709 0 0.069269
+
+/mnt/disks/disk-1/data/youtube_video/1130_cut.wav,1 0.962353 0 0.037658
+
+/mnt/disks/disk-1/data/youtube_video/1131_cut.wav,1 0.999137 0 0.000864
+
+/mnt/disks/disk-1/data/youtube_video/1133_cut.wav,1 0.993983 0 0.006018
+
+/mnt/disks/disk-1/data/youtube_video/1134_cut.wav,1 0.973044 0 0.026962
+
+/mnt/disks/disk-1/data/youtube_video/1135_cut.wav,1 0.998251 0 0.001751
+
+/mnt/disks/disk-1/data/youtube_video/1136_cut.wav,1 0.698787 0 0.301296
+
+/mnt/disks/disk-1/data/youtube_video/1137_cut.wav,1 0.518740 0 0.481409
+
+/mnt/disks/disk-1/data/youtube_video/1138_cut.wav,1 0.599523 0 0.400580
+
+/mnt/disks/disk-1/data/youtube_video/1139_cut.wav,1 0.831528 0 0.168398
+
+/mnt/disks/disk-1/data/youtube_video/1140_cut.wav,1 0.957872 0 0.042124
+
+/mnt/disks/disk-1/data/youtube_video/1141_cut.wav,1 0.999812 0 0.000188
+
+/mnt/disks/disk-1/data/youtube_video/1142_cut.wav,1 0.738446 0 0.261592
+
+/mnt/disks/disk-1/data/youtube_video/1143_cut.wav,1 0.872428 0 0.127554
+
+/mnt/disks/disk-1/data/youtube_video/1144_cut.wav,1 0.999265 0 0.000735
+
+/mnt/disks/disk-1/data/youtube_video/1145_cut.wav,1 0.987079 0 0.012929
+
+/mnt/disks/disk-1/data/youtube_video/1147_cut.wav,1 0.997760 0 0.002239
+
+/mnt/disks/disk-1/data/youtube_video/1148_cut.wav,1 0.995409 0 0.004589
+
+/mnt/disks/disk-1/data/youtube_video/1150_cut.wav,0 0.604910 1 0.395131
+
+/mnt/disks/disk-1/data/youtube_video/1151_cut.wav,1 0.842711 0 0.157293
+
+/mnt/disks/disk-1/data/youtube_video/1152_cut.wav,1 0.896826 0 0.103179
+
+/mnt/disks/disk-1/data/youtube_video/1153_cut.wav,1 0.965794 0 0.034188
+
+/mnt/disks/disk-1/data/youtube_video/1154_cut.wav,1 0.990012 0 0.009991
+
+/mnt/disks/disk-1/data/youtube_video/1155_cut.wav,0 0.654274 1 0.345546
+
+/mnt/disks/disk-1/data/youtube_video/1156_cut.wav,1 0.926028 0 0.073988
+
+/mnt/disks/disk-1/data/youtube_video/1157_cut.wav,0 0.533346 1 0.466582
+
+/mnt/disks/disk-1/data/youtube_video/1158_cut.wav,1 0.922380 0 0.077612
+
+/mnt/disks/disk-1/data/youtube_video/1159_cut.wav,1 0.993370 0 0.006626
+
+/mnt/disks/disk-1/data/youtube_video/1161_cut.wav,1 0.916625 0 0.083282
+
+/mnt/disks/disk-1/data/youtube_video/1162_cut.wav,1 0.989580 0 0.010419
+
+/mnt/disks/disk-1/data/youtube_video/1163_cut.wav,1 0.781608 0 0.218365
+
+/mnt/disks/disk-1/data/youtube_video/1164_cut.wav,1 0.997494 0 0.002506
+
+/mnt/disks/disk-1/data/youtube_video/1165_cut.wav,1 0.963615 0 0.036397
+
+/mnt/disks/disk-1/data/youtube_video/1166_cut.wav,1 0.534307 0 0.465678
+
+/mnt/disks/disk-1/data/youtube_video/1167_cut.wav,1 0.819846 0 0.180092
+
+/mnt/disks/disk-1/data/youtube_video/1168_cut.wav,1 0.807161 0 0.192886
+
+/mnt/disks/disk-1/data/youtube_video/1169_cut.wav,1 0.996357 0 0.003644
+
+/mnt/disks/disk-1/data/youtube_video/1170_cut.wav,1 0.884014 0 0.115991
+
+/mnt/disks/disk-1/data/youtube_video/1171_cut.wav,1 0.999949 0 0.000051
+
+/mnt/disks/disk-1/data/youtube_video/1172_cut.wav,1 0.706848 0 0.293205
+
+/mnt/disks/disk-1/data/youtube_video/1173_cut.wav,0 0.666121 1 0.333963
+
+/mnt/disks/disk-1/data/youtube_video/1174_cut.wav,0 0.874999 1 0.125117
+
+/mnt/disks/disk-1/data/youtube_video/1175_cut.wav,1 0.765448 0 0.234390
+
+/mnt/disks/disk-1/data/youtube_video/1176_cut.wav,1 0.905988 0 0.094050
+
+/mnt/disks/disk-1/data/youtube_video/1177_cut.wav,1 0.914063 0 0.085956
+
+/mnt/disks/disk-1/data/youtube_video/1178_cut.wav,1 0.982620 0 0.017390
+
+/mnt/disks/disk-1/data/youtube_video/1179_cut.wav,1 0.804747 0 0.195355
+
+/mnt/disks/disk-1/data/youtube_video/1180_cut.wav,1 0.638196 0 0.361813
+
+/mnt/disks/disk-1/data/youtube_video/1181_cut.wav,1 0.986837 0 0.013168
+
+/mnt/disks/disk-1/data/youtube_video/1182_cut.wav,1 0.962334 0 0.037641
+
+/mnt/disks/disk-1/data/youtube_video/1183_cut.wav,1 0.810242 0 0.189846
+
+/mnt/disks/disk-1/data/youtube_video/1184_cut.wav,1 0.999888 0 0.000112
+
+/mnt/disks/disk-1/data/youtube_video/1185_cut.wav,1 0.986083 0 0.013911
+
+/mnt/disks/disk-1/data/youtube_video/1186_cut.wav,1 0.999935 0 0.000065
+
+/mnt/disks/disk-1/data/youtube_video/1187_cut.wav,1 0.958813 0 0.041180
+
+/mnt/disks/disk-1/data/youtube_video/1188_cut.wav,1 0.996181 0 0.003822
+
+/mnt/disks/disk-1/data/youtube_video/1190_cut.wav,1 0.999836 0 0.000164
+
+/mnt/disks/disk-1/data/youtube_video/1191_cut.wav,1 0.999297 0 0.000703
+
+/mnt/disks/disk-1/data/youtube_video/1193_cut.wav,0 0.839936 1 0.160168
+
+/mnt/disks/disk-1/data/youtube_video/1194_cut.wav,1 0.981466 0 0.018528
+
+/mnt/disks/disk-1/data/youtube_video/1195_cut.wav,1 0.962547 0 0.037472
+
+/mnt/disks/disk-1/data/youtube_video/1196_cut.wav,1 0.994235 0 0.005767
+
+/mnt/disks/disk-1/data/youtube_video/1197_cut.wav,1 0.988854 0 0.011146
+
+/mnt/disks/disk-1/data/youtube_video/1198_cut.wav,1 0.786039 0 0.213829
+
+/mnt/disks/disk-1/data/youtube_video/1199_cut.wav,1 0.999954 0 0.000046
+
+/mnt/disks/disk-1/data/youtube_video/1200_cut.wav,1 0.800836 0 0.199065
+
+/mnt/disks/disk-1/data/youtube_video/1201_cut.wav,1 0.994789 0 0.005211
+
+/mnt/disks/disk-1/data/youtube_video/1202_cut.wav,1 0.996343 0 0.003659
+
+/mnt/disks/disk-1/data/youtube_video/1203_cut.wav,1 0.999937 0 0.000063
+
+/mnt/disks/disk-1/data/youtube_video/1204_cut.wav,1 0.986747 0 0.013254
+
+/mnt/disks/disk-1/data/youtube_video/1206_cut.wav,1 0.583592 0 0.416367
+
+/mnt/disks/disk-1/data/youtube_video/1207_cut.wav,1 0.992190 0 0.007812
+
+/mnt/disks/disk-1/data/youtube_video/1208_cut.wav,1 0.990096 0 0.009902
+
+/mnt/disks/disk-1/data/youtube_video/1209_cut.wav,0 0.785330 1 0.214828
+
+/mnt/disks/disk-1/data/youtube_video/1210_cut.wav,1 0.994429 0 0.005570
+
+/mnt/disks/disk-1/data/youtube_video/1211_cut.wav,1 0.996337 0 0.003664
+
+/mnt/disks/disk-1/data/youtube_video/1213_cut.wav,1 0.987749 0 0.012252
+
+/mnt/disks/disk-1/data/youtube_video/1214_cut.wav,1 0.950233 0 0.049757
+
+/mnt/disks/disk-1/data/youtube_video/1215_cut.wav,1 0.999959 0 0.000041
+
+/mnt/disks/disk-1/data/youtube_video/1216_cut.wav,1 0.823541 0 0.176454
+
+/mnt/disks/disk-1/data/youtube_video/1217_cut.wav,1 0.992988 0 0.007012
+
+/mnt/disks/disk-1/data/youtube_video/1218_cut.wav,1 0.719809 0 0.280247
+
+/mnt/disks/disk-1/data/youtube_video/1219_cut.wav,1 0.966592 0 0.033407
+
+/mnt/disks/disk-1/data/youtube_video/1221_cut.wav,1 0.973128 0 0.026859
+
+/mnt/disks/disk-1/data/youtube_video/1222_cut.wav,0 0.652897 1 0.347083
+
+/mnt/disks/disk-1/data/youtube_video/1223_cut.wav,1 0.999476 0 0.000524
+
+/mnt/disks/disk-1/data/youtube_video/1224_cut.wav,1 0.999282 0 0.000718
+
+/mnt/disks/disk-1/data/youtube_video/1225_cut.wav,1 0.988891 0 0.011104
+
+/mnt/disks/disk-1/data/youtube_video/1226_cut.wav,1 0.978228 0 0.021780
+
+/mnt/disks/disk-1/data/youtube_video/1227_cut.wav,1 0.978757 0 0.021236
+
+/mnt/disks/disk-1/data/youtube_video/1229_cut.wav,1 0.867741 0 0.132317
+
+/mnt/disks/disk-1/data/youtube_video/1230_cut.wav,1 0.943658 0 0.056336
+
+/mnt/disks/disk-1/data/youtube_video/1231_cut.wav,1 0.860644 0 0.139382
+
+/mnt/disks/disk-1/data/youtube_video/1232_cut.wav,1 0.919962 0 0.079941
+
+/mnt/disks/disk-1/data/youtube_video/1233_cut.wav,1 0.996621 0 0.003381
+
+/mnt/disks/disk-1/data/youtube_video/1234_cut.wav,1 0.938233 0 0.061801
+
+/mnt/disks/disk-1/data/youtube_video/1235_cut.wav,1 0.999798 0 0.000203
+
+/mnt/disks/disk-1/data/youtube_video/1236_cut.wav,1 0.996958 0 0.003044
+
+/mnt/disks/disk-1/data/youtube_video/1237_cut.wav,1 0.872574 0 0.127562
+
+/mnt/disks/disk-1/data/youtube_video/1238_cut.wav,1 0.521271 0 0.478827
+
+/mnt/disks/disk-1/data/youtube_video/1239_cut.wav,1 0.645872 0 0.354222
+
+/mnt/disks/disk-1/data/youtube_video/1240_cut.wav,1 0.714029 0 0.286047
+
+/mnt/disks/disk-1/data/youtube_video/1241_cut.wav,1 0.998459 0 0.001540
+
+/mnt/disks/disk-1/data/youtube_video/1243_cut.wav,1 0.993394 0 0.006606
+
+/mnt/disks/disk-1/data/youtube_video/1244_cut.wav,1 0.982289 0 0.017706
+
+/mnt/disks/disk-1/data/youtube_video/1245_cut.wav,1 0.998370 0 0.001631
+
+/mnt/disks/disk-1/data/youtube_video/1246_cut.wav,1 0.909288 0 0.090743
+
+/mnt/disks/disk-1/data/youtube_video/1247_cut.wav,1 0.997687 0 0.002315
+
+/mnt/disks/disk-1/data/youtube_video/1248_cut.wav,1 0.978920 0 0.021071
+
+/mnt/disks/disk-1/data/youtube_video/1249_cut.wav,1 0.969824 0 0.030161
+
+/mnt/disks/disk-1/data/youtube_video/1251_cut.wav,0 0.832661 1 0.167383
+
+/mnt/disks/disk-1/data/youtube_video/1252_cut.wav,1 0.807582 0 0.192340
+
+/mnt/disks/disk-1/data/youtube_video/1253_cut.wav,1 0.998946 0 0.001054
+
+/mnt/disks/disk-1/data/youtube_video/1254_cut.wav,1 0.895561 0 0.104500
+
+/mnt/disks/disk-1/data/youtube_video/1255_cut.wav,1 0.999843 0 0.000157
+
+/mnt/disks/disk-1/data/youtube_video/1257_cut.wav,1 0.999732 0 0.000269
+
+/mnt/disks/disk-1/data/youtube_video/1258_cut.wav,1 0.799408 0 0.200579
+
+/mnt/disks/disk-1/data/youtube_video/1259_cut.wav,0 0.681562 1 0.318573
+
+/mnt/disks/disk-1/data/youtube_video/1260_cut.wav,1 0.995106 0 0.004894
+
+/mnt/disks/disk-1/data/youtube_video/1261_cut.wav,1 0.975021 0 0.024971
+
+/mnt/disks/disk-1/data/youtube_video/1262_cut.wav,1 0.958716 0 0.041256
+
+/mnt/disks/disk-1/data/youtube_video/1263_cut.wav,0 0.674641 1 0.325208
+
+/mnt/disks/disk-1/data/youtube_video/1264_cut.wav,1 0.997037 0 0.002962
+
+/mnt/disks/disk-1/data/youtube_video/1265_cut.wav,1 0.999358 0 0.000642
+
+/mnt/disks/disk-1/data/youtube_video/1266_cut.wav,1 0.740227 0 0.259674
+
+/mnt/disks/disk-1/data/youtube_video/1267_cut.wav,1 0.999745 0 0.000255
+
+/mnt/disks/disk-1/data/youtube_video/1268_cut.wav,1 0.721294 0 0.278632
+
+/mnt/disks/disk-1/data/youtube_video/1269_cut.wav,1 0.999868 0 0.000132
+
+/mnt/disks/disk-1/data/youtube_video/1270_cut.wav,1 0.927749 0 0.072261
+
+/mnt/disks/disk-1/data/youtube_video/1271_cut.wav,1 0.999082 0 0.000918
+
+/mnt/disks/disk-1/data/youtube_video/1272_cut.wav,1 0.776603 0 0.223427
+
+/mnt/disks/disk-1/data/youtube_video/1274_cut.wav,1 0.999918 0 0.000082
+
+/mnt/disks/disk-1/data/youtube_video/1275_cut.wav,1 0.989930 0 0.010064
+
+/mnt/disks/disk-1/data/youtube_video/1276_cut.wav,1 0.911863 0 0.088159
+
+/mnt/disks/disk-1/data/youtube_video/1277_cut.wav,0 0.675533 1 0.324562
+
+/mnt/disks/disk-1/data/youtube_video/1278_cut.wav,0 0.586742 1 0.413539
+
+/mnt/disks/disk-1/data/youtube_video/1279_cut.wav,1 0.999965 0 0.000035
+
+/mnt/disks/disk-1/data/youtube_video/1280_cut.wav,1 0.936756 0 0.063258
+
+/mnt/disks/disk-1/data/youtube_video/1281_cut.wav,1 0.974904 0 0.025075
+
+/mnt/disks/disk-1/data/youtube_video/1282_cut.wav,1 0.997521 0 0.002477
+
+/mnt/disks/disk-1/data/youtube_video/1284_cut.wav,1 0.991620 0 0.008385
+
+/mnt/disks/disk-1/data/youtube_video/1285_cut.wav,0 0.663759 1 0.336297
+
+/mnt/disks/disk-1/data/youtube_video/1286_cut.wav,1 0.999962 0 0.000038
+
+/mnt/disks/disk-1/data/youtube_video/1287_cut.wav,1 0.974912 0 0.025079
+
+/mnt/disks/disk-1/data/youtube_video/1288_cut.wav,1 0.994769 0 0.005234
+
+/mnt/disks/disk-1/data/youtube_video/1289_cut.wav,1 0.653327 0 0.346846
+
+/mnt/disks/disk-1/data/youtube_video/1290_cut.wav,1 0.999141 0 0.000858
+
+/mnt/disks/disk-1/data/youtube_video/1291_cut.wav,1 0.951799 0 0.048211
+
+/mnt/disks/disk-1/data/youtube_video/1292_cut.wav,1 0.901180 0 0.098768
+
+/mnt/disks/disk-1/data/youtube_video/1293_cut.wav,1 0.915797 0 0.084217
+
+/mnt/disks/disk-1/data/youtube_video/1294_cut.wav,1 0.745002 0 0.254993
+
+/mnt/disks/disk-1/data/youtube_video/1295_cut.wav,1 0.999954 0 0.000046
+
+/mnt/disks/disk-1/data/youtube_video/1296_cut.wav,1 0.977695 0 0.022308
+
+/mnt/disks/disk-1/data/youtube_video/1297_cut.wav,0 0.593128 1 0.406937
+
+/mnt/disks/disk-1/data/youtube_video/1298_cut.wav,1 0.993273 0 0.006727
+
+/mnt/disks/disk-1/data/youtube_video/1299_cut.wav,1 0.996203 0 0.003798
+
+/mnt/disks/disk-1/data/youtube_video/1300_cut.wav,1 0.844045 0 0.156083
+
+/mnt/disks/disk-1/data/youtube_video/1301_cut.wav,1 0.995498 0 0.004503
+
+/mnt/disks/disk-1/data/youtube_video/1302_cut.wav,0 0.501618 1 0.498231
+
+/mnt/disks/disk-1/data/youtube_video/1303_cut.wav,1 0.941881 0 0.058124
+
+/mnt/disks/disk-1/data/youtube_video/1306_cut.wav,1 0.997020 0 0.002978
+
+/mnt/disks/disk-1/data/youtube_video/1308_cut.wav,1 0.997710 0 0.002290
+
+/mnt/disks/disk-1/data/youtube_video/1309_cut.wav,1 0.980638 0 0.019364
+
+/mnt/disks/disk-1/data/youtube_video/1310_cut.wav,1 0.965081 0 0.034921
+
+/mnt/disks/disk-1/data/youtube_video/1311_cut.wav,1 0.945791 0 0.054276
+
+/mnt/disks/disk-1/data/youtube_video/1312_cut.wav,1 0.974507 0 0.025496
+
+/mnt/disks/disk-1/data/youtube_video/1314_cut.wav,1 0.964864 0 0.035118
+
+/mnt/disks/disk-1/data/youtube_video/1315_cut.wav,1 0.999774 0 0.000225
+
+/mnt/disks/disk-1/data/youtube_video/1317_cut.wav,1 0.999993 0 0.000007
+
+/mnt/disks/disk-1/data/youtube_video/1318_cut.wav,1 0.999549 0 0.000451
+
+/mnt/disks/disk-1/data/youtube_video/1319_cut.wav,1 0.997587 0 0.002412
+
+/mnt/disks/disk-1/data/youtube_video/1320_cut.wav,1 0.998239 0 0.001760
+
+/mnt/disks/disk-1/data/youtube_video/1321_cut.wav,1 0.541413 0 0.458779
+
+/mnt/disks/disk-1/data/youtube_video/1322_cut.wav,1 0.999569 0 0.000431
+
+/mnt/disks/disk-1/data/youtube_video/1323_cut.wav,1 0.999645 0 0.000355
+
+/mnt/disks/disk-1/data/youtube_video/1324_cut.wav,1 0.883653 0 0.116395
+
+/mnt/disks/disk-1/data/youtube_video/1325_cut.wav,1 0.932769 0 0.067217
+
+/mnt/disks/disk-1/data/youtube_video/1326_cut.wav,1 0.990575 0 0.009427
+
+/mnt/disks/disk-1/data/youtube_video/1327_cut.wav,1 0.985183 0 0.014821
+
+/mnt/disks/disk-1/data/youtube_video/1328_cut.wav,1 0.993286 0 0.006714
+
+/mnt/disks/disk-1/data/youtube_video/1329_cut.wav,1 0.919821 0 0.080190
+
+/mnt/disks/disk-1/data/youtube_video/1330_cut.wav,1 0.999606 0 0.000393
+
+/mnt/disks/disk-1/data/youtube_video/1331_cut.wav,1 0.995289 0 0.004710
+
+/mnt/disks/disk-1/data/youtube_video/1332_cut.wav,1 0.997866 0 0.002135
+
+/mnt/disks/disk-1/data/youtube_video/1334_cut.wav,1 0.992470 0 0.007529
+
+/mnt/disks/disk-1/data/youtube_video/1335_cut.wav,1 0.999936 0 0.000064
+
+/mnt/disks/disk-1/data/youtube_video/1336_cut.wav,1 0.998427 0 0.001574
+
+/mnt/disks/disk-1/data/youtube_video/1337_cut.wav,1 0.941187 0 0.058764
+
+/mnt/disks/disk-1/data/youtube_video/1338_cut.wav,1 0.821531 0 0.178438
+
+/mnt/disks/disk-1/data/youtube_video/1339_cut.wav,1 0.988703 0 0.011297
+
+/mnt/disks/disk-1/data/youtube_video/1340_cut.wav,1 0.954704 0 0.045281
+
+/mnt/disks/disk-1/data/youtube_video/1341_cut.wav,1 0.999219 0 0.000781
+
+/mnt/disks/disk-1/data/youtube_video/1342_cut.wav,1 0.849499 0 0.150618
+
+/mnt/disks/disk-1/data/youtube_video/1344_cut.wav,0 0.906433 1 0.093446
+
+/mnt/disks/disk-1/data/youtube_video/1345_cut.wav,1 0.999088 0 0.000913
+
+/mnt/disks/disk-1/data/youtube_video/1346_cut.wav,1 0.967666 0 0.032330
+
+/mnt/disks/disk-1/data/youtube_video/1348_cut.wav,1 0.999993 0 0.000007
+
+/mnt/disks/disk-1/data/youtube_video/1349_cut.wav,1 0.890564 0 0.109481
+
+/mnt/disks/disk-1/data/youtube_video/1350_cut.wav,1 0.973928 0 0.026095
+
+/mnt/disks/disk-1/data/youtube_video/1351_cut.wav,1 0.937080 0 0.062924
+
+/mnt/disks/disk-1/data/youtube_video/1352_cut.wav,1 0.999067 0 0.000934
+
+/mnt/disks/disk-1/data/youtube_video/1353_cut.wav,0 0.527029 1 0.472868
+
+/mnt/disks/disk-1/data/youtube_video/1354_cut.wav,1 0.996906 0 0.003098
+
+/mnt/disks/disk-1/data/youtube_video/1355_cut.wav,1 0.827098 0 0.173059
+
+/mnt/disks/disk-1/data/youtube_video/1356_cut.wav,1 0.921134 0 0.078923
+
+/mnt/disks/disk-1/data/youtube_video/1357_cut.wav,1 0.999828 0 0.000172
+
+/mnt/disks/disk-1/data/youtube_video/1358_cut.wav,1 0.969516 0 0.030499
+
+/mnt/disks/disk-1/data/youtube_video/1359_cut.wav,1 0.998652 0 0.001349
+
+/mnt/disks/disk-1/data/youtube_video/1360_cut.wav,1 0.826913 0 0.173132
+
+/mnt/disks/disk-1/data/youtube_video/1361_cut.wav,1 0.983637 0 0.016374
+
+/mnt/disks/disk-1/data/youtube_video/1363_cut.wav,1 0.515577 0 0.484636
+
+/mnt/disks/disk-1/data/youtube_video/1364_cut.wav,1 0.994136 0 0.005863
+
+/mnt/disks/disk-1/data/youtube_video/1365_cut.wav,1 0.999964 0 0.000036
+
+/mnt/disks/disk-1/data/youtube_video/1366_cut.wav,0 0.677423 1 0.322514
+
+/mnt/disks/disk-1/data/youtube_video/1367_cut.wav,1 0.934259 0 0.065762
+
+/mnt/disks/disk-1/data/youtube_video/1368_cut.wav,1 0.999955 0 0.000045
+
+/mnt/disks/disk-1/data/youtube_video/1369_cut.wav,1 0.999372 0 0.000628
+
+/mnt/disks/disk-1/data/youtube_video/1370_cut.wav,1 0.997242 0 0.002759
+
+/mnt/disks/disk-1/data/youtube_video/1371_cut.wav,1 0.997728 0 0.002273
+
+/mnt/disks/disk-1/data/youtube_video/1372_cut.wav,1 0.883570 0 0.116466
+
+/mnt/disks/disk-1/data/youtube_video/1373_cut.wav,1 0.997042 0 0.002956
+
+/mnt/disks/disk-1/data/youtube_video/1374_cut.wav,1 0.971151 0 0.028848
+
+/mnt/disks/disk-1/data/youtube_video/1375_cut.wav,1 0.961763 0 0.038233
+
+/mnt/disks/disk-1/data/youtube_video/1376_cut.wav,1 0.912603 0 0.087378
+
+/mnt/disks/disk-1/data/youtube_video/1377_cut.wav,1 0.999818 0 0.000182
+
+/mnt/disks/disk-1/data/youtube_video/1380_cut.wav,1 0.999413 0 0.000587
+
+/mnt/disks/disk-1/data/youtube_video/1381_cut.wav,1 0.980715 0 0.019291
+
+/mnt/disks/disk-1/data/youtube_video/1382_cut.wav,1 0.984051 0 0.015960
+
+/mnt/disks/disk-1/data/youtube_video/1383_cut.wav,1 0.995398 0 0.004604
+
+/mnt/disks/disk-1/data/youtube_video/1385_cut.wav,1 0.968276 0 0.031714
+
+/mnt/disks/disk-1/data/youtube_video/1386_cut.wav,1 0.999303 0 0.000697
+
+/mnt/disks/disk-1/data/youtube_video/1387_cut.wav,0 0.697287 1 0.303031
+
+/mnt/disks/disk-1/data/youtube_video/1388_cut.wav,1 0.999956 0 0.000044
+
+/mnt/disks/disk-1/data/youtube_video/1389_cut.wav,1 0.994982 0 0.005018
+
+/mnt/disks/disk-1/data/youtube_video/1390_cut.wav,1 0.918448 0 0.081596
+
+/mnt/disks/disk-1/data/youtube_video/1391_cut.wav,1 0.921650 0 0.078351
+
+/mnt/disks/disk-1/data/youtube_video/1392_cut.wav,0 0.618655 1 0.381404
+
+/mnt/disks/disk-1/data/youtube_video/1393_cut.wav,1 0.988459 0 0.011542
+
+/mnt/disks/disk-1/data/youtube_video/1395_cut.wav,1 0.894099 0 0.105947
+
+/mnt/disks/disk-1/data/youtube_video/1396_cut.wav,1 0.961622 0 0.038389
+
+/mnt/disks/disk-1/data/youtube_video/1397_cut.wav,1 0.996808 0 0.003192
+
+/mnt/disks/disk-1/data/youtube_video/1398_cut.wav,1 0.908949 0 0.091068
+
+/mnt/disks/disk-1/data/youtube_video/1399_cut.wav,1 0.968395 0 0.031598
+
+/mnt/disks/disk-1/data/youtube_video/1400_cut.wav,1 0.985763 0 0.014233
+
+/mnt/disks/disk-1/data/youtube_video/1401_cut.wav,1 0.999654 0 0.000346
+
+/mnt/disks/disk-1/data/youtube_video/1402_cut.wav,1 0.927273 0 0.072719
+
+/mnt/disks/disk-1/data/youtube_video/1403_cut.wav,1 0.985039 0 0.014966
+
+/mnt/disks/disk-1/data/youtube_video/1404_cut.wav,1 0.999105 0 0.000895
+
+/mnt/disks/disk-1/data/youtube_video/1405_cut.wav,1 0.993262 0 0.006739
+
+/mnt/disks/disk-1/data/youtube_video/1406_cut.wav,1 0.951329 0 0.048653
+
+/mnt/disks/disk-1/data/youtube_video/1407_cut.wav,1 0.996941 0 0.003058
+
+/mnt/disks/disk-1/data/youtube_video/1408_cut.wav,1 0.973526 0 0.026472
+
+/mnt/disks/disk-1/data/youtube_video/1409_cut.wav,1 0.999667 0 0.000333
+
+/mnt/disks/disk-1/data/youtube_video/1410_cut.wav,1 0.998797 0 0.001204
+
+/mnt/disks/disk-1/data/youtube_video/1411_cut.wav,1 0.999657 0 0.000343
+
+/mnt/disks/disk-1/data/youtube_video/1412_cut.wav,1 0.998654 0 0.001346
+
+/mnt/disks/disk-1/data/youtube_video/1413_cut.wav,1 0.869506 0 0.130520
+
+/mnt/disks/disk-1/data/youtube_video/1414_cut.wav,1 0.998957 0 0.001044
+
+/mnt/disks/disk-1/data/youtube_video/1415_cut.wav,1 0.954445 0 0.045546
+
+/mnt/disks/disk-1/data/youtube_video/1416_cut.wav,1 0.999526 0 0.000474
+
+/mnt/disks/disk-1/data/youtube_video/1417_cut.wav,1 0.984945 0 0.015047
+
+/mnt/disks/disk-1/data/youtube_video/1419_cut.wav,1 0.979995 0 0.020012
+
+/mnt/disks/disk-1/data/youtube_video/1420_cut.wav,1 0.997255 0 0.002747
+
+/mnt/disks/disk-1/data/youtube_video/1421_cut.wav,1 0.999322 0 0.000678
+
+/mnt/disks/disk-1/data/youtube_video/1423_cut.wav,1 0.996707 0 0.003294
+
+/mnt/disks/disk-1/data/youtube_video/1424_cut.wav,1 0.993621 0 0.006380
+
+/mnt/disks/disk-1/data/youtube_video/1425_cut.wav,1 0.936544 0 0.063475
+
+/mnt/disks/disk-1/data/youtube_video/1426_cut.wav,1 0.999353 0 0.000647
+
+/mnt/disks/disk-1/data/youtube_video/1427_cut.wav,1 0.992942 0 0.007062
+
+/mnt/disks/disk-1/data/youtube_video/1429_cut.wav,1 0.952731 0 0.047247
+
+/mnt/disks/disk-1/data/youtube_video/1430_cut.wav,1 0.999495 0 0.000505
+
+/mnt/disks/disk-1/data/youtube_video/1431_cut.wav,1 0.998678 0 0.001322
+
+/mnt/disks/disk-1/data/youtube_video/1432_cut.wav,1 0.976776 0 0.023210
+
+/mnt/disks/disk-1/data/youtube_video/1433_cut.wav,1 0.993574 0 0.006424
+
+/mnt/disks/disk-1/data/youtube_video/1434_cut.wav,1 0.999260 0 0.000740
+
+/mnt/disks/disk-1/data/youtube_video/1436_cut.wav,1 0.999062 0 0.000938
+
+/mnt/disks/disk-1/data/youtube_video/1437_cut.wav,1 0.999957 0 0.000043
+
+/mnt/disks/disk-1/data/youtube_video/1438_cut.wav,1 0.999405 0 0.000595
+
+/mnt/disks/disk-1/data/youtube_video/1439_cut.wav,1 0.996919 0 0.003084
+
+/mnt/disks/disk-1/data/youtube_video/1440_cut.wav,1 0.985976 0 0.014025
+
+/mnt/disks/disk-1/data/youtube_video/1441_cut.wav,1 0.994812 0 0.005189
+
+/mnt/disks/disk-1/data/youtube_video/1442_cut.wav,1 0.997904 0 0.002097
+
+/mnt/disks/disk-1/data/youtube_video/1444_cut.wav,1 0.836501 0 0.163543
+
+/mnt/disks/disk-1/data/youtube_video/1445_cut.wav,1 0.999480 0 0.000520
+
+/mnt/disks/disk-1/data/youtube_video/1446_cut.wav,1 0.965162 0 0.034835
+
+/mnt/disks/disk-1/data/youtube_video/1447_cut.wav,1 0.999993 0 0.000007
+
+/mnt/disks/disk-1/data/youtube_video/1448_cut.wav,1 0.976042 0 0.023947
+
+/mnt/disks/disk-1/data/youtube_video/1450_cut.wav,1 0.990817 0 0.009183
+
+/mnt/disks/disk-1/data/youtube_video/1452_cut.wav,1 0.924670 0 0.075314
+
+/mnt/disks/disk-1/data/youtube_video/1453_cut.wav,1 0.997904 0 0.002096
+
+/mnt/disks/disk-1/data/youtube_video/1454_cut.wav,1 0.825976 0 0.173966
+
+/mnt/disks/disk-1/data/youtube_video/1455_cut.wav,1 0.997927 0 0.002072
+
+/mnt/disks/disk-1/data/youtube_video/1456_cut.wav,1 0.997098 0 0.002899
+
+/mnt/disks/disk-1/data/youtube_video/1459_cut.wav,1 0.987701 0 0.012300
+
+/mnt/disks/disk-1/data/youtube_video/1460_cut.wav,1 0.962356 0 0.037648
+
+/mnt/disks/disk-1/data/youtube_video/1462_cut.wav,1 0.999774 0 0.000226
+
+/mnt/disks/disk-1/data/youtube_video/1463_cut.wav,1 0.933336 0 0.066638
+
+/mnt/disks/disk-1/data/youtube_video/1464_cut.wav,1 0.993652 0 0.006348
+
+/mnt/disks/disk-1/data/youtube_video/1465_cut.wav,1 0.994771 0 0.005227
+
+/mnt/disks/disk-1/data/youtube_video/1466_cut.wav,1 0.990262 0 0.009732
+
+/mnt/disks/disk-1/data/youtube_video/1467_cut.wav,1 0.832613 0 0.167335
+
+/mnt/disks/disk-1/data/youtube_video/1468_cut.wav,1 0.995066 0 0.004933
+
+/mnt/disks/disk-1/data/youtube_video/1469_cut.wav,1 0.998016 0 0.001984
+
+/mnt/disks/disk-1/data/youtube_video/1470_cut.wav,1 0.963899 0 0.036096
+
+/mnt/disks/disk-1/data/youtube_video/1471_cut.wav,1 0.997966 0 0.002033
+
+/mnt/disks/disk-1/data/youtube_video/1472_cut.wav,1 0.957024 0 0.042990
+
+/mnt/disks/disk-1/data/youtube_video/1473_cut.wav,1 0.593258 0 0.406576
+
+/mnt/disks/disk-1/data/youtube_video/1474_cut.wav,1 0.909841 0 0.090176
+
+/mnt/disks/disk-1/data/youtube_video/1475_cut.wav,1 0.999471 0 0.000529
+
+/mnt/disks/disk-1/data/youtube_video/1476_cut.wav,1 0.994785 0 0.005216
+
+/mnt/disks/disk-1/data/youtube_video/1477_cut.wav,1 0.996961 0 0.003040
+
+/mnt/disks/disk-1/data/youtube_video/1478_cut.wav,1 0.985491 0 0.014509
+
+/mnt/disks/disk-1/data/youtube_video/1479_cut.wav,1 0.953777 0 0.046203
+
+/mnt/disks/disk-1/data/youtube_video/1480_cut.wav,1 0.999974 0 0.000026
+
+/mnt/disks/disk-1/data/youtube_video/1481_cut.wav,1 0.967465 0 0.032557
+
+/mnt/disks/disk-1/data/youtube_video/1482_cut.wav,1 0.951512 0 0.048523
+
+/mnt/disks/disk-1/data/youtube_video/1483_cut.wav,1 0.998117 0 0.001882
+
+/mnt/disks/disk-1/data/youtube_video/1484_cut.wav,1 0.998465 0 0.001535
+
+/mnt/disks/disk-1/data/youtube_video/1485_cut.wav,1 0.985413 0 0.014597
+
+/mnt/disks/disk-1/data/youtube_video/1486_cut.wav,1 0.994690 0 0.005309
+
+/mnt/disks/disk-1/data/youtube_video/1487_cut.wav,1 0.996576 0 0.003424
+
+/mnt/disks/disk-1/data/youtube_video/1488_cut.wav,1 0.965772 0 0.034203
+
+/mnt/disks/disk-1/data/youtube_video/1489_cut.wav,1 0.971006 0 0.028976
+
+/mnt/disks/disk-1/data/youtube_video/1491_cut.wav,1 0.969775 0 0.030231
+
+/mnt/disks/disk-1/data/youtube_video/1492_cut.wav,1 0.878744 0 0.121318
+
+/mnt/disks/disk-1/data/youtube_video/1493_cut.wav,1 0.876920 0 0.123208
+
+/mnt/disks/disk-1/data/youtube_video/1494_cut.wav,1 0.999949 0 0.000051
+
+/mnt/disks/disk-1/data/youtube_video/1495_cut.wav,1 0.889787 0 0.110225
+
+/mnt/disks/disk-1/data/youtube_video/1497_cut.wav,1 0.999395 0 0.000605
+
+/mnt/disks/disk-1/data/youtube_video/1499_cut.wav,1 0.984080 0 0.015918
+
+/mnt/disks/disk-1/data/youtube_video/1500_cut.wav,1 0.905873 0 0.094201
+
+/mnt/disks/disk-1/data/youtube_video/1502_cut.wav,1 0.995254 0 0.004747
+
+/mnt/disks/disk-1/data/youtube_video/1503_cut.wav,1 0.998523 0 0.001478
+
+/mnt/disks/disk-1/data/youtube_video/1504_cut.wav,1 0.849580 0 0.150358
+
+/mnt/disks/disk-1/data/youtube_video/1505_cut.wav,0 0.912767 1 0.087283
+
+/mnt/disks/disk-1/data/youtube_video/1506_cut.wav,1 0.991083 0 0.008918
+
+/mnt/disks/disk-1/data/youtube_video/1507_cut.wav,1 0.999998 0 0.000002
+
+/mnt/disks/disk-1/data/youtube_video/1508_cut.wav,1 0.999651 0 0.000349
+
+/mnt/disks/disk-1/data/youtube_video/1509_cut.wav,1 0.994545 0 0.005457
+
+/mnt/disks/disk-1/data/youtube_video/1510_cut.wav,1 0.554535 0 0.445569
+
+/mnt/disks/disk-1/data/youtube_video/1511_cut.wav,1 0.991420 0 0.008567
+
+/mnt/disks/disk-1/data/youtube_video/1512_cut.wav,1 0.985305 0 0.014687
+
+/mnt/disks/disk-1/data/youtube_video/1513_cut.wav,1 0.999852 0 0.000148
+
+/mnt/disks/disk-1/data/youtube_video/1514_cut.wav,1 0.998411 0 0.001590
+
+/mnt/disks/disk-1/data/youtube_video/1515_cut.wav,1 0.999851 0 0.000149
+
+/mnt/disks/disk-1/data/youtube_video/1516_cut.wav,1 0.999427 0 0.000573
+
+/mnt/disks/disk-1/data/youtube_video/1517_cut.wav,1 0.999901 0 0.000099
+
+/mnt/disks/disk-1/data/youtube_video/1518_cut.wav,1 0.959984 0 0.040019
+
+/mnt/disks/disk-1/data/youtube_video/1519_cut.wav,1 0.996659 0 0.003341
+
+/mnt/disks/disk-1/data/youtube_video/1520_cut.wav,1 0.961269 0 0.038719
+
+/mnt/disks/disk-1/data/youtube_video/1522_cut.wav,1 0.993534 0 0.006468
+
+/mnt/disks/disk-1/data/youtube_video/1523_cut.wav,1 0.999832 0 0.000168
+
+/mnt/disks/disk-1/data/youtube_video/1525_cut.wav,1 0.958951 0 0.041038
+
+/mnt/disks/disk-1/data/youtube_video/1526_cut.wav,1 0.999332 0 0.000668
+
+/mnt/disks/disk-1/data/youtube_video/1527_cut.wav,1 0.999323 0 0.000677
+
+/mnt/disks/disk-1/data/youtube_video/1528_cut.wav,1 0.999902 0 0.000098
+
+/mnt/disks/disk-1/data/youtube_video/1529_cut.wav,1 0.959107 0 0.040885
+
+/mnt/disks/disk-1/data/youtube_video/1531_cut.wav,0 0.628466 1 0.371411
+
+/mnt/disks/disk-1/data/youtube_video/1532_cut.wav,1 0.996316 0 0.003683
+
+/mnt/disks/disk-1/data/youtube_video/1533_cut.wav,1 0.926257 0 0.073745
+
+/mnt/disks/disk-1/data/youtube_video/1534_cut.wav,1 0.974770 0 0.025248
+
+/mnt/disks/disk-1/data/youtube_video/1535_cut.wav,1 0.999969 0 0.000031
+
+/mnt/disks/disk-1/data/youtube_video/1537_cut.wav,1 0.999198 0 0.000802
+
+/mnt/disks/disk-1/data/youtube_video/1538_cut.wav,1 0.615888 0 0.384240
+
+/mnt/disks/disk-1/data/youtube_video/1539_cut.wav,1 0.759201 0 0.240972
+
+/mnt/disks/disk-1/data/youtube_video/1540_cut.wav,1 0.990102 0 0.009904
+
+/mnt/disks/disk-1/data/youtube_video/1541_cut.wav,1 0.994204 0 0.005799
+
+/mnt/disks/disk-1/data/youtube_video/1542_cut.wav,1 0.981270 0 0.018727
+
+/mnt/disks/disk-1/data/youtube_video/1543_cut.wav,1 0.855832 0 0.144146
+
+/mnt/disks/disk-1/data/youtube_video/1545_cut.wav,1 0.999741 0 0.000259
+
+/mnt/disks/disk-1/data/youtube_video/1546_cut.wav,1 0.992124 0 0.007871
+
+/mnt/disks/disk-1/data/youtube_video/1547_cut.wav,1 0.906809 0 0.093172
+
+/mnt/disks/disk-1/data/youtube_video/1548_cut.wav,0 0.660814 1 0.339230
+
+/mnt/disks/disk-1/data/youtube_video/1549_cut.wav,1 0.997506 0 0.002494
+
+/mnt/disks/disk-1/data/youtube_video/1550_cut.wav,1 0.985281 0 0.014717
+
+/mnt/disks/disk-1/data/youtube_video/1551_cut.wav,1 0.939543 0 0.060473
+
+/mnt/disks/disk-1/data/youtube_video/1552_cut.wav,1 0.970078 0 0.029931
+
+/mnt/disks/disk-1/data/youtube_video/1553_cut.wav,1 0.999826 0 0.000174
+
+/mnt/disks/disk-1/data/youtube_video/1554_cut.wav,1 0.711375 0 0.288547
+
+/mnt/disks/disk-1/data/youtube_video/1555_cut.wav,0 0.614775 1 0.385001
+
+/mnt/disks/disk-1/data/youtube_video/1556_cut.wav,1 0.996345 0 0.003657
+
+/mnt/disks/disk-1/data/youtube_video/1557_cut.wav,1 0.942562 0 0.057429
+
+/mnt/disks/disk-1/data/youtube_video/1559_cut.wav,1 0.954407 0 0.045593
+
+/mnt/disks/disk-1/data/youtube_video/1561_cut.wav,1 0.986750 0 0.013246
+
+/mnt/disks/disk-1/data/youtube_video/1562_cut.wav,1 0.995557 0 0.004445
+
+/mnt/disks/disk-1/data/youtube_video/1563_cut.wav,1 0.972022 0 0.027967
+
+/mnt/disks/disk-1/data/youtube_video/1564_cut.wav,1 0.795882 0 0.204117
+
+/mnt/disks/disk-1/data/youtube_video/1565_cut.wav,1 0.878422 0 0.121612
+
+/mnt/disks/disk-1/data/youtube_video/1567_cut.wav,1 0.968113 0 0.031892
+
+/mnt/disks/disk-1/data/youtube_video/1570_cut.wav,1 0.615894 0 0.384264
+
+/mnt/disks/disk-1/data/youtube_video/1571_cut.wav,1 0.999360 0 0.000640
+
+/mnt/disks/disk-1/data/youtube_video/1572_cut.wav,1 0.999236 0 0.000765
+
+/mnt/disks/disk-1/data/youtube_video/1573_cut.wav,1 0.921439 0 0.078581
+
+/mnt/disks/disk-1/data/youtube_video/1574_cut.wav,1 0.993634 0 0.006365
+
+/mnt/disks/disk-1/data/youtube_video/1575_cut.wav,1 0.597041 0 0.402836
+
+/mnt/disks/disk-1/data/youtube_video/1576_cut.wav,1 0.979760 0 0.020239
+
+/mnt/disks/disk-1/data/youtube_video/1577_cut.wav,1 0.952696 0 0.047291
+
+/mnt/disks/disk-1/data/youtube_video/1579_cut.wav,1 0.890089 0 0.109879
+
+/mnt/disks/disk-1/data/youtube_video/1580_cut.wav,1 0.913756 0 0.086233
+
+/mnt/disks/disk-1/data/youtube_video/1581_cut.wav,1 0.999981 0 0.000019
+
+/mnt/disks/disk-1/data/youtube_video/1582_cut.wav,1 0.984080 0 0.015918
+
+/mnt/disks/disk-1/data/youtube_video/1583_cut.wav,1 0.758843 0 0.241149
+
+/mnt/disks/disk-1/data/youtube_video/1584_cut.wav,1 0.888783 0 0.111207
+
+/mnt/disks/disk-1/data/youtube_video/1585_cut.wav,1 0.981069 0 0.018935
+
+/mnt/disks/disk-1/data/youtube_video/1586_cut.wav,1 0.999829 0 0.000171
+
+/mnt/disks/disk-1/data/youtube_video/1587_cut.wav,1 0.979801 0 0.020193
+
+/mnt/disks/disk-1/data/youtube_video/1588_cut.wav,1 0.898382 0 0.101653
+
+/mnt/disks/disk-1/data/youtube_video/1589_cut.wav,1 0.929283 0 0.070703
+
+/mnt/disks/disk-1/data/youtube_video/1590_cut.wav,1 0.921078 0 0.078917
+
+/mnt/disks/disk-1/data/youtube_video/1591_cut.wav,1 0.887046 0 0.112906
+
+/mnt/disks/disk-1/data/youtube_video/1592_cut.wav,1 0.980842 0 0.019142
+
+/mnt/disks/disk-1/data/youtube_video/1593_cut.wav,1 0.905801 0 0.094204
+
+/mnt/disks/disk-1/data/youtube_video/1594_cut.wav,1 0.998952 0 0.001048
+
+/mnt/disks/disk-1/data/youtube_video/1595_cut.wav,1 0.978246 0 0.021757
+
+/mnt/disks/disk-1/data/youtube_video/1596_cut.wav,1 0.999048 0 0.000952
+
+/mnt/disks/disk-1/data/youtube_video/1597_cut.wav,1 0.824232 0 0.175828
+
+/mnt/disks/disk-1/data/youtube_video/1598_cut.wav,1 0.999832 0 0.000168
+
+/mnt/disks/disk-1/data/youtube_video/1599_cut.wav,1 0.955718 0 0.044301
+
+/mnt/disks/disk-1/data/youtube_video/1600_cut.wav,1 0.956130 0 0.043875
+
+/mnt/disks/disk-1/data/youtube_video/1601_cut.wav,1 0.997151 0 0.002850
+
+/mnt/disks/disk-1/data/youtube_video/1602_cut.wav,1 0.997197 0 0.002803
+
+/mnt/disks/disk-1/data/youtube_video/1603_cut.wav,1 0.947127 0 0.052858
+
+/mnt/disks/disk-1/data/youtube_video/1605_cut.wav,1 0.993947 0 0.006054
+
+/mnt/disks/disk-1/data/youtube_video/1606_cut.wav,1 0.891020 0 0.108992
+
+/mnt/disks/disk-1/data/youtube_video/1607_cut.wav,1 0.899252 0 0.100695
+
+/mnt/disks/disk-1/data/youtube_video/1608_cut.wav,1 0.950350 0 0.049671
+
+/mnt/disks/disk-1/data/youtube_video/1609_cut.wav,1 0.988558 0 0.011446
+
+/mnt/disks/disk-1/data/youtube_video/1610_cut.wav,1 0.799045 0 0.201037
+
+/mnt/disks/disk-1/data/youtube_video/1611_cut.wav,1 0.987709 0 0.012295
+
+/mnt/disks/disk-1/data/youtube_video/1612_cut.wav,1 0.844505 0 0.155508
+
+/mnt/disks/disk-1/data/youtube_video/1613_cut.wav,1 0.995215 0 0.004785
+
+/mnt/disks/disk-1/data/youtube_video/1614_cut.wav,1 0.936179 0 0.063808
+
+/mnt/disks/disk-1/data/youtube_video/1615_cut.wav,1 0.906433 0 0.093526
+
+/mnt/disks/disk-1/data/youtube_video/1616_cut.wav,1 0.999494 0 0.000506
+
+/mnt/disks/disk-1/data/youtube_video/1617_cut.wav,1 0.998563 0 0.001437
+
+/mnt/disks/disk-1/data/youtube_video/1618_cut.wav,1 0.995168 0 0.004830
+
+/mnt/disks/disk-1/data/youtube_video/1619_cut.wav,1 0.995555 0 0.004446
+
+/mnt/disks/disk-1/data/youtube_video/1620_cut.wav,1 0.963423 0 0.036599
+
+/mnt/disks/disk-1/data/youtube_video/1621_cut.wav,1 0.990249 0 0.009753
+
+/mnt/disks/disk-1/data/youtube_video/1622_cut.wav,1 0.956511 0 0.043458
+
+/mnt/disks/disk-1/data/youtube_video/1623_cut.wav,1 0.991744 0 0.008256
+
+/mnt/disks/disk-1/data/youtube_video/1624_cut.wav,1 0.857817 0 0.142221
+
+/mnt/disks/disk-1/data/youtube_video/1625_cut.wav,1 0.954264 0 0.045732
+
+/mnt/disks/disk-1/data/youtube_video/1626_cut.wav,1 0.998407 0 0.001593
+
+/mnt/disks/disk-1/data/youtube_video/1627_cut.wav,1 0.919237 0 0.080758
+
+/mnt/disks/disk-1/data/youtube_video/1628_cut.wav,1 0.915802 0 0.084137
+
+/mnt/disks/disk-1/data/youtube_video/1629_cut.wav,1 0.511191 0 0.489043
+
+/mnt/disks/disk-1/data/youtube_video/1630_cut.wav,1 0.733449 0 0.266654
+
+/mnt/disks/disk-1/data/youtube_video/1631_cut.wav,1 0.998283 0 0.001717
+
+/mnt/disks/disk-1/data/youtube_video/1632_cut.wav,1 0.942466 0 0.057559
+
+/mnt/disks/disk-1/data/youtube_video/1633_cut.wav,1 0.720287 0 0.279663
+
+/mnt/disks/disk-1/data/youtube_video/1634_cut.wav,1 0.996568 0 0.003431
+
+/mnt/disks/disk-1/data/youtube_video/1635_cut.wav,1 0.995344 0 0.004655
+
+/mnt/disks/disk-1/data/youtube_video/1636_cut.wav,1 0.969619 0 0.030377
+
+/mnt/disks/disk-1/data/youtube_video/1637_cut.wav,1 0.841468 0 0.158579
+
+/mnt/disks/disk-1/data/youtube_video/1638_cut.wav,1 0.955996 0 0.044005
+
+/mnt/disks/disk-1/data/youtube_video/1639_cut.wav,1 0.976475 0 0.023519
+
+/mnt/disks/disk-1/data/youtube_video/1641_cut.wav,1 0.943303 0 0.056697
+
+num examples processed: 1994 elapsed seconds: 2.54
+/mnt/disks/disk-1/data/youtube_video/1642_cut.wav,1 0.556186 0 0.443725
+
+/mnt/disks/disk-1/data/youtube_video/1643_cut.wav,1 0.976895 0 0.023104
+
+/mnt/disks/disk-1/data/youtube_video/1644_cut.wav,1 0.800433 0 0.199547
+
+/mnt/disks/disk-1/data/youtube_video/1645_cut.wav,1 0.988231 0 0.011761
+
+/mnt/disks/disk-1/data/youtube_video/1646_cut.wav,1 0.923188 0 0.076874
+
+/mnt/disks/disk-1/data/youtube_video/1647_cut.wav,1 0.870731 0 0.129222
+
+/mnt/disks/disk-1/data/youtube_video/1648_cut.wav,1 0.977511 0 0.022483
+
+/mnt/disks/disk-1/data/youtube_video/1649_cut.wav,1 0.898199 0 0.101860
+
+/mnt/disks/disk-1/data/youtube_video/1650_cut.wav,1 0.818336 0 0.181662
+
+/mnt/disks/disk-1/data/youtube_video/1651_cut.wav,1 0.980761 0 0.019229
+
+/mnt/disks/disk-1/data/youtube_video/1652_cut.wav,1 0.634991 0 0.365014
+
+/mnt/disks/disk-1/data/youtube_video/1654_cut.wav,1 0.999990 0 0.000010
+
+/mnt/disks/disk-1/data/youtube_video/1655_cut.wav,1 0.986842 0 0.013156
+
+/mnt/disks/disk-1/data/youtube_video/1656_cut.wav,1 0.914530 0 0.085432
+
+/mnt/disks/disk-1/data/youtube_video/1657_cut.wav,1 0.999650 0 0.000350
+
+/mnt/disks/disk-1/data/youtube_video/1658_cut.wav,1 0.999828 0 0.000172
+
+/mnt/disks/disk-1/data/youtube_video/1661_cut.wav,1 0.927688 0 0.072297
+
+/mnt/disks/disk-1/data/youtube_video/1662_cut.wav,1 0.974518 0 0.025468
+
+/mnt/disks/disk-1/data/youtube_video/1663_cut.wav,1 0.999834 0 0.000166
+
+/mnt/disks/disk-1/data/youtube_video/1664_cut.wav,1 0.753191 0 0.246763
+
+/mnt/disks/disk-1/data/youtube_video/1665_cut.wav,1 0.969799 0 0.030206
+
+/mnt/disks/disk-1/data/youtube_video/1666_cut.wav,1 0.952521 0 0.047503
+
+/mnt/disks/disk-1/data/youtube_video/1667_cut.wav,1 0.786171 0 0.213770
+
+/mnt/disks/disk-1/data/youtube_video/1668_cut.wav,1 0.999813 0 0.000187
+
+/mnt/disks/disk-1/data/youtube_video/1669_cut.wav,1 0.994157 0 0.005845
+
+/mnt/disks/disk-1/data/youtube_video/1670_cut.wav,1 0.999656 0 0.000344
+
+/mnt/disks/disk-1/data/youtube_video/1672_cut.wav,1 0.999913 0 0.000088
+
+/mnt/disks/disk-1/data/youtube_video/1673_cut.wav,1 0.607497 0 0.392509
+
+/mnt/disks/disk-1/data/youtube_video/1674_cut.wav,1 0.956236 0 0.043782
+
+/mnt/disks/disk-1/data/youtube_video/1675_cut.wav,1 0.999666 0 0.000334
+
+/mnt/disks/disk-1/data/youtube_video/1676_cut.wav,1 0.999856 0 0.000144
+
+/mnt/disks/disk-1/data/youtube_video/1677_cut.wav,1 0.677052 0 0.322987
+
+/mnt/disks/disk-1/data/youtube_video/1678_cut.wav,1 0.999922 0 0.000078
+
+/mnt/disks/disk-1/data/youtube_video/1679_cut.wav,1 0.968426 0 0.031591
+
+/mnt/disks/disk-1/data/youtube_video/1681_cut.wav,1 0.975541 0 0.024464
+
+/mnt/disks/disk-1/data/youtube_video/1682_cut.wav,1 0.997087 0 0.002913
+
+/mnt/disks/disk-1/data/youtube_video/1683_cut.wav,1 0.965076 0 0.034913
+
+/mnt/disks/disk-1/data/youtube_video/1684_cut.wav,1 0.984282 0 0.015724
+
+/mnt/disks/disk-1/data/youtube_video/1685_cut.wav,1 0.999785 0 0.000215
+
+/mnt/disks/disk-1/data/youtube_video/1686_cut.wav,1 0.999919 0 0.000081
+
+/mnt/disks/disk-1/data/youtube_video/1687_cut.wav,1 0.997850 0 0.002151
+
+/mnt/disks/disk-1/data/youtube_video/1688_cut.wav,1 0.986176 0 0.013831
+
+/mnt/disks/disk-1/data/youtube_video/1689_cut.wav,1 0.992424 0 0.007577
+
+/mnt/disks/disk-1/data/youtube_video/1690_cut.wav,1 0.991511 0 0.008489
+
+/mnt/disks/disk-1/data/youtube_video/1691_cut.wav,1 0.998710 0 0.001290
+
+/mnt/disks/disk-1/data/youtube_video/1693_cut.wav,1 0.999881 0 0.000119
+
+/mnt/disks/disk-1/data/youtube_video/1694_cut.wav,1 0.998954 0 0.001047
+
+/mnt/disks/disk-1/data/youtube_video/1695_cut.wav,1 0.984912 0 0.015101
+
+/mnt/disks/disk-1/data/youtube_video/1696_cut.wav,1 0.860117 0 0.139936
+
+/mnt/disks/disk-1/data/youtube_video/1697_cut.wav,1 0.993469 0 0.006528
+
+/mnt/disks/disk-1/data/youtube_video/1698_cut.wav,1 0.999793 0 0.000208
+
+/mnt/disks/disk-1/data/youtube_video/1699_cut.wav,1 0.977727 0 0.022270
+
+/mnt/disks/disk-1/data/youtube_video/1700_cut.wav,1 0.999947 0 0.000053
+
+/mnt/disks/disk-1/data/youtube_video/1701_cut.wav,1 0.725996 0 0.274168
+
+/mnt/disks/disk-1/data/youtube_video/1702_cut.wav,0 0.713180 1 0.286867
+
+/mnt/disks/disk-1/data/youtube_video/1703_cut.wav,1 0.914035 0 0.085956
+
+/mnt/disks/disk-1/data/youtube_video/1704_cut.wav,1 0.524899 0 0.475114
+
+/mnt/disks/disk-1/data/youtube_video/1705_cut.wav,0 0.745951 1 0.254042
+
+/mnt/disks/disk-1/data/youtube_video/1706_cut.wav,1 0.991571 0 0.008430
+
+/mnt/disks/disk-1/data/youtube_video/1707_cut.wav,1 0.999988 0 0.000012
+
+/mnt/disks/disk-1/data/youtube_video/1708_cut.wav,1 0.996824 0 0.003173
+
+/mnt/disks/disk-1/data/youtube_video/1709_cut.wav,1 0.981834 0 0.018164
+
+/mnt/disks/disk-1/data/youtube_video/1710_cut.wav,1 0.724624 0 0.275311
+
+/mnt/disks/disk-1/data/youtube_video/1711_cut.wav,1 0.991576 0 0.008427
+
+/mnt/disks/disk-1/data/youtube_video/1712_cut.wav,1 0.997300 0 0.002698
+
+/mnt/disks/disk-1/data/youtube_video/1713_cut.wav,1 0.990984 0 0.009009
+
+/mnt/disks/disk-1/data/youtube_video/1714_cut.wav,1 0.998649 0 0.001351
+
+/mnt/disks/disk-1/data/youtube_video/1715_cut.wav,1 0.999132 0 0.000868
+
+/mnt/disks/disk-1/data/youtube_video/1716_cut.wav,1 0.918574 0 0.081369
+
+/mnt/disks/disk-1/data/youtube_video/1717_cut.wav,1 0.983540 0 0.016454
+
+/mnt/disks/disk-1/data/youtube_video/1719_cut.wav,1 0.988286 0 0.011708
+
+/mnt/disks/disk-1/data/youtube_video/1720_cut.wav,1 0.999632 0 0.000368
+
+/mnt/disks/disk-1/data/youtube_video/1721_cut.wav,1 0.871579 0 0.128382
+
+/mnt/disks/disk-1/data/youtube_video/1722_cut.wav,1 0.984968 0 0.015036
+
+/mnt/disks/disk-1/data/youtube_video/1723_cut.wav,1 0.994474 0 0.005525
+
+/mnt/disks/disk-1/data/youtube_video/1724_cut.wav,1 0.778714 0 0.221147
+
+/mnt/disks/disk-1/data/youtube_video/1725_cut.wav,1 0.954449 0 0.045549
+
+/mnt/disks/disk-1/data/youtube_video/1726_cut.wav,1 0.948302 0 0.051688
+
+/mnt/disks/disk-1/data/youtube_video/1727_cut.wav,1 0.904884 0 0.095169
+
+/mnt/disks/disk-1/data/youtube_video/1728_cut.wav,1 0.880233 0 0.119783
+
+/mnt/disks/disk-1/data/youtube_video/1729_cut.wav,1 0.753334 0 0.246723
+
+/mnt/disks/disk-1/data/youtube_video/1730_cut.wav,1 0.990393 0 0.009606
+
+/mnt/disks/disk-1/data/youtube_video/1731_cut.wav,1 0.911447 0 0.088535
+
+/mnt/disks/disk-1/data/youtube_video/1732_cut.wav,1 0.998010 0 0.001992
+
+/mnt/disks/disk-1/data/youtube_video/1733_cut.wav,1 0.757604 0 0.242353
+
+/mnt/disks/disk-1/data/youtube_video/1734_cut.wav,1 0.994790 0 0.005213
+
+/mnt/disks/disk-1/data/youtube_video/1735_cut.wav,1 0.999567 0 0.000433
+
+/mnt/disks/disk-1/data/youtube_video/1736_cut.wav,1 0.964894 0 0.035102
+
+/mnt/disks/disk-1/data/youtube_video/1737_cut.wav,1 0.939451 0 0.060536
+
+/mnt/disks/disk-1/data/youtube_video/1738_cut.wav,1 0.961355 0 0.038652
+
+/mnt/disks/disk-1/data/youtube_video/1739_cut.wav,1 0.974703 0 0.025296
+
+/mnt/disks/disk-1/data/youtube_video/1740_cut.wav,1 0.997443 0 0.002559
+
+/mnt/disks/disk-1/data/youtube_video/1741_cut.wav,1 0.998819 0 0.001181
+
+/mnt/disks/disk-1/data/youtube_video/1742_cut.wav,1 0.997987 0 0.002014
+
+/mnt/disks/disk-1/data/youtube_video/1743_cut.wav,1 0.998454 0 0.001545
+
+/mnt/disks/disk-1/data/youtube_video/1744_cut.wav,1 0.999916 0 0.000084
+
+/mnt/disks/disk-1/data/youtube_video/1745_cut.wav,1 0.999777 0 0.000223
+
+/mnt/disks/disk-1/data/youtube_video/1746_cut.wav,1 0.998804 0 0.001195
+
+/mnt/disks/disk-1/data/youtube_video/1747_cut.wav,1 0.945697 0 0.054284
+
+/mnt/disks/disk-1/data/youtube_video/1748_cut.wav,1 0.548875 0 0.451126
+
+/mnt/disks/disk-1/data/youtube_video/1749_cut.wav,1 0.957046 0 0.042952
+
+/mnt/disks/disk-1/data/youtube_video/1750_cut.wav,1 0.754843 0 0.245091
+
+/mnt/disks/disk-1/data/youtube_video/1751_cut.wav,1 0.996578 0 0.003422
+
+/mnt/disks/disk-1/data/youtube_video/1752_cut.wav,1 0.997150 0 0.002849
+
+/mnt/disks/disk-1/data/youtube_video/1754_cut.wav,1 0.826016 0 0.174123
+
+/mnt/disks/disk-1/data/youtube_video/1756_cut.wav,1 0.807872 0 0.192197
+
+/mnt/disks/disk-1/data/youtube_video/1757_cut.wav,1 0.998239 0 0.001761
+
+/mnt/disks/disk-1/data/youtube_video/1758_cut.wav,0 0.842683 1 0.157312
+
+/mnt/disks/disk-1/data/youtube_video/1759_cut.wav,1 0.995180 0 0.004821
+
+/mnt/disks/disk-1/data/youtube_video/1760_cut.wav,1 0.999938 0 0.000062
+
+/mnt/disks/disk-1/data/youtube_video/1761_cut.wav,1 0.999250 0 0.000750
+
+/mnt/disks/disk-1/data/youtube_video/1762_cut.wav,1 0.996253 0 0.003749
+
+/mnt/disks/disk-1/data/youtube_video/1763_cut.wav,1 0.999946 0 0.000054
+
+/mnt/disks/disk-1/data/youtube_video/1764_cut.wav,1 0.998639 0 0.001361
+
+/mnt/disks/disk-1/data/youtube_video/1765_cut.wav,1 0.697501 0 0.302556
+
+/mnt/disks/disk-1/data/youtube_video/1766_cut.wav,1 0.998239 0 0.001761
+
+/mnt/disks/disk-1/data/youtube_video/1767_cut.wav,1 0.757571 0 0.242475
+
+/mnt/disks/disk-1/data/youtube_video/1768_cut.wav,1 0.984265 0 0.015736
+
+/mnt/disks/disk-1/data/youtube_video/1769_cut.wav,1 0.939914 0 0.060102
+
+/mnt/disks/disk-1/data/youtube_video/1770_cut.wav,1 0.985277 0 0.014725
+
+/mnt/disks/disk-1/data/youtube_video/1771_cut.wav,1 0.994690 0 0.005311
+
+/mnt/disks/disk-1/data/youtube_video/1772_cut.wav,1 0.873723 0 0.126208
+
+/mnt/disks/disk-1/data/youtube_video/1773_cut.wav,1 0.991611 0 0.008399
+
+/mnt/disks/disk-1/data/youtube_video/1774_cut.wav,1 0.982806 0 0.017193
+
+/mnt/disks/disk-1/data/youtube_video/1775_cut.wav,1 0.998567 0 0.001433
+
+/mnt/disks/disk-1/data/youtube_video/1776_cut.wav,1 0.997554 0 0.002445
+
+/mnt/disks/disk-1/data/youtube_video/1777_cut.wav,1 0.964906 0 0.035086
+
+/mnt/disks/disk-1/data/youtube_video/1778_cut.wav,1 0.998645 0 0.001356
+
+/mnt/disks/disk-1/data/youtube_video/1779_cut.wav,1 0.999253 0 0.000746
+
+/mnt/disks/disk-1/data/youtube_video/1780_cut.wav,1 0.990762 0 0.009232
+
+/mnt/disks/disk-1/data/youtube_video/1781_cut.wav,0 0.571116 1 0.428899
+
+/mnt/disks/disk-1/data/youtube_video/1782_cut.wav,1 0.999936 0 0.000064
+
+/mnt/disks/disk-1/data/youtube_video/1783_cut.wav,1 0.999533 0 0.000467
+
+/mnt/disks/disk-1/data/youtube_video/1784_cut.wav,1 0.863662 0 0.136289
+
+/mnt/disks/disk-1/data/youtube_video/1785_cut.wav,0 0.532654 1 0.467358
+
+/mnt/disks/disk-1/data/youtube_video/1786_cut.wav,1 0.999973 0 0.000027
+
+/mnt/disks/disk-1/data/youtube_video/1787_cut.wav,1 0.995015 0 0.004985
+
+/mnt/disks/disk-1/data/youtube_video/1788_cut.wav,1 0.991850 0 0.008158
+
+/mnt/disks/disk-1/data/youtube_video/1789_cut.wav,1 0.619506 0 0.380157
+
+/mnt/disks/disk-1/data/youtube_video/1790_cut.wav,1 0.840568 0 0.159507
+
+/mnt/disks/disk-1/data/youtube_video/1791_cut.wav,1 0.996817 0 0.003183
+
+/mnt/disks/disk-1/data/youtube_video/1792_cut.wav,1 0.991310 0 0.008701
+
+/mnt/disks/disk-1/data/youtube_video/1793_cut.wav,1 0.999422 0 0.000577
+
+/mnt/disks/disk-1/data/youtube_video/1794_cut.wav,1 0.926812 0 0.073144
+
+/mnt/disks/disk-1/data/youtube_video/1795_cut.wav,1 0.881384 0 0.118546
+
+/mnt/disks/disk-1/data/youtube_video/1796_cut.wav,1 0.993517 0 0.006484
+
+/mnt/disks/disk-1/data/youtube_video/1798_cut.wav,1 0.999617 0 0.000383
+
+/mnt/disks/disk-1/data/youtube_video/1799_cut.wav,1 0.998707 0 0.001292
+
+/mnt/disks/disk-1/data/youtube_video/1800_cut.wav,1 0.999483 0 0.000517
+
+/mnt/disks/disk-1/data/youtube_video/1801_cut.wav,1 0.999704 0 0.000296
+
+/mnt/disks/disk-1/data/youtube_video/1802_cut.wav,1 0.999561 0 0.000439
+
+/mnt/disks/disk-1/data/youtube_video/1803_cut.wav,1 0.999859 0 0.000141
+
+/mnt/disks/disk-1/data/youtube_video/1804_cut.wav,1 0.999942 0 0.000058
+
+/mnt/disks/disk-1/data/youtube_video/1805_cut.wav,1 0.986220 0 0.013786
+
+/mnt/disks/disk-1/data/youtube_video/1806_cut.wav,1 0.998319 0 0.001681
+
+/mnt/disks/disk-1/data/youtube_video/1807_cut.wav,1 0.992540 0 0.007461
+
+/mnt/disks/disk-1/data/youtube_video/1808_cut.wav,1 0.980251 0 0.019748
+
+/mnt/disks/disk-1/data/youtube_video/1809_cut.wav,1 0.998152 0 0.001847
+
+/mnt/disks/disk-1/data/youtube_video/1810_cut.wav,1 0.993964 0 0.006035
+
+/mnt/disks/disk-1/data/youtube_video/1811_cut.wav,1 0.974005 0 0.025979
+
+/mnt/disks/disk-1/data/youtube_video/1812_cut.wav,1 0.981803 0 0.018196
+
+/mnt/disks/disk-1/data/youtube_video/1813_cut.wav,1 0.996831 0 0.003168
+
+/mnt/disks/disk-1/data/youtube_video/1814_cut.wav,1 0.991201 0 0.008801
+
+/mnt/disks/disk-1/data/youtube_video/1815_cut.wav,1 0.941071 0 0.058937
+
+/mnt/disks/disk-1/data/youtube_video/1816_cut.wav,1 0.998190 0 0.001810
+
+/mnt/disks/disk-1/data/youtube_video/1817_cut.wav,1 0.658126 0 0.341859
+
+/mnt/disks/disk-1/data/youtube_video/1819_cut.wav,1 0.985357 0 0.014646
+
+/mnt/disks/disk-1/data/youtube_video/1820_cut.wav,1 0.993065 0 0.006938
+
+/mnt/disks/disk-1/data/youtube_video/1821_cut.wav,1 0.989980 0 0.010016
+
+/mnt/disks/disk-1/data/youtube_video/1822_cut.wav,1 0.998946 0 0.001055
+
+/mnt/disks/disk-1/data/youtube_video/1823_cut.wav,1 0.983007 0 0.016999
+
+/mnt/disks/disk-1/data/youtube_video/1824_cut.wav,1 0.999872 0 0.000128
+
+/mnt/disks/disk-1/data/youtube_video/1825_cut.wav,1 0.999512 0 0.000488
+
+/mnt/disks/disk-1/data/youtube_video/1826_cut.wav,1 0.999469 0 0.000531
+
+/mnt/disks/disk-1/data/youtube_video/1827_cut.wav,1 0.995729 0 0.004271
+
+/mnt/disks/disk-1/data/youtube_video/1828_cut.wav,1 0.999916 0 0.000084
+
+/mnt/disks/disk-1/data/youtube_video/1830_cut.wav,1 0.999900 0 0.000100
+
+/mnt/disks/disk-1/data/youtube_video/1831_cut.wav,0 0.693614 1 0.306462
+
+/mnt/disks/disk-1/data/youtube_video/1832_cut.wav,1 0.999223 0 0.000776
+
+/mnt/disks/disk-1/data/youtube_video/1833_cut.wav,0 0.681016 1 0.318862
+
+/mnt/disks/disk-1/data/youtube_video/1834_cut.wav,0 0.713796 1 0.286256
+
+/mnt/disks/disk-1/data/youtube_video/1835_cut.wav,1 0.999672 0 0.000328
+
+/mnt/disks/disk-1/data/youtube_video/1836_cut.wav,1 0.880343 0 0.119630
+
+/mnt/disks/disk-1/data/youtube_video/1837_cut.wav,1 0.999828 0 0.000172
+
+/mnt/disks/disk-1/data/youtube_video/1838_cut.wav,1 0.997774 0 0.002227
+
+/mnt/disks/disk-1/data/youtube_video/1839_cut.wav,1 0.976703 0 0.023304
+
+/mnt/disks/disk-1/data/youtube_video/1840_cut.wav,1 0.961590 0 0.038436
+
+/mnt/disks/disk-1/data/youtube_video/1841_cut.wav,0 0.596888 1 0.403249
+
+/mnt/disks/disk-1/data/youtube_video/1843_cut.wav,1 0.977556 0 0.022438
+
+/mnt/disks/disk-1/data/youtube_video/1844_cut.wav,1 0.999908 0 0.000092
+
+/mnt/disks/disk-1/data/youtube_video/1845_cut.wav,1 0.975843 0 0.024155
+
+/mnt/disks/disk-1/data/youtube_video/1846_cut.wav,1 0.987408 0 0.012593
+
+/mnt/disks/disk-1/data/youtube_video/1847_cut.wav,1 0.989275 0 0.010725
+
+/mnt/disks/disk-1/data/youtube_video/1848_cut.wav,1 0.984675 0 0.015321
+
+/mnt/disks/disk-1/data/youtube_video/1849_cut.wav,1 0.994051 0 0.005950
+
+/mnt/disks/disk-1/data/youtube_video/1850_cut.wav,1 0.999566 0 0.000434
+
+/mnt/disks/disk-1/data/youtube_video/1851_cut.wav,1 0.949575 0 0.050420
+
+/mnt/disks/disk-1/data/youtube_video/1852_cut.wav,1 0.986147 0 0.013854
+
+/mnt/disks/disk-1/data/youtube_video/1853_cut.wav,1 0.986221 0 0.013788
+
+/mnt/disks/disk-1/data/youtube_video/1854_cut.wav,1 0.998129 0 0.001871
+
+/mnt/disks/disk-1/data/youtube_video/1855_cut.wav,1 0.971085 0 0.028930
+
+/mnt/disks/disk-1/data/youtube_video/1856_cut.wav,1 0.997499 0 0.002501
+
+/mnt/disks/disk-1/data/youtube_video/1857_cut.wav,1 0.950228 0 0.049763
+
+/mnt/disks/disk-1/data/youtube_video/1858_cut.wav,1 0.999924 0 0.000076
+
+/mnt/disks/disk-1/data/youtube_video/1859_cut.wav,1 0.999917 0 0.000083
+
+/mnt/disks/disk-1/data/youtube_video/1860_cut.wav,1 0.999148 0 0.000852
+
+/mnt/disks/disk-1/data/youtube_video/1861_cut.wav,1 0.998887 0 0.001113
+
+/mnt/disks/disk-1/data/youtube_video/1862_cut.wav,1 0.997665 0 0.002334
+
+/mnt/disks/disk-1/data/youtube_video/1863_cut.wav,1 0.686607 0 0.313439
+
+/mnt/disks/disk-1/data/youtube_video/1864_cut.wav,1 0.940233 0 0.059759
+
+/mnt/disks/disk-1/data/youtube_video/1865_cut.wav,1 0.983377 0 0.016626
+
+/mnt/disks/disk-1/data/youtube_video/1866_cut.wav,1 0.999995 0 0.000005
+
+/mnt/disks/disk-1/data/youtube_video/1867_cut.wav,1 0.999594 0 0.000407
+
+/mnt/disks/disk-1/data/youtube_video/1868_cut.wav,1 0.907753 0 0.092261
+
+/mnt/disks/disk-1/data/youtube_video/1869_cut.wav,1 0.983778 0 0.016221
+
+/mnt/disks/disk-1/data/youtube_video/1871_cut.wav,1 0.943221 0 0.056779
+
+/mnt/disks/disk-1/data/youtube_video/1872_cut.wav,1 0.964503 0 0.035470
+
+/mnt/disks/disk-1/data/youtube_video/1873_cut.wav,1 0.999685 0 0.000315
+
+/mnt/disks/disk-1/data/youtube_video/1874_cut.wav,1 0.999545 0 0.000455
+
+/mnt/disks/disk-1/data/youtube_video/1875_cut.wav,1 0.957198 0 0.042787
+
+/mnt/disks/disk-1/data/youtube_video/1877_cut.wav,1 0.557647 0 0.442202
+
+/mnt/disks/disk-1/data/youtube_video/1878_cut.wav,1 0.990831 0 0.009167
+
+/mnt/disks/disk-1/data/youtube_video/1879_cut.wav,1 0.837002 0 0.162907
+
+/mnt/disks/disk-1/data/youtube_video/1880_cut.wav,1 0.987912 0 0.012087
+
+/mnt/disks/disk-1/data/youtube_video/1881_cut.wav,1 0.995575 0 0.004427
+
+/mnt/disks/disk-1/data/youtube_video/1882_cut.wav,1 0.936704 0 0.063324
+
+/mnt/disks/disk-1/data/youtube_video/1883_cut.wav,1 0.900108 0 0.099830
+
+/mnt/disks/disk-1/data/youtube_video/1884_cut.wav,1 0.993106 0 0.006895
+
+/mnt/disks/disk-1/data/youtube_video/1885_cut.wav,1 0.999571 0 0.000429
+
+/mnt/disks/disk-1/data/youtube_video/1886_cut.wav,1 0.910508 0 0.089448
+
+/mnt/disks/disk-1/data/youtube_video/1887_cut.wav,1 0.820947 0 0.179139
+
+/mnt/disks/disk-1/data/youtube_video/1888_cut.wav,1 0.972896 0 0.027104
+
+/mnt/disks/disk-1/data/youtube_video/1889_cut.wav,1 0.999755 0 0.000245
+
+/mnt/disks/disk-1/data/youtube_video/1890_cut.wav,1 0.828426 0 0.171499
+
+/mnt/disks/disk-1/data/youtube_video/1891_cut.wav,1 0.993206 0 0.006795
+
+/mnt/disks/disk-1/data/youtube_video/1892_cut.wav,0 0.832289 1 0.167770
+
+/mnt/disks/disk-1/data/youtube_video/1893_cut.wav,1 0.999039 0 0.000961
+
+/mnt/disks/disk-1/data/youtube_video/1894_cut.wav,1 0.997077 0 0.002922
+
+/mnt/disks/disk-1/data/youtube_video/1895_cut.wav,1 0.999109 0 0.000890
+
+/mnt/disks/disk-1/data/youtube_video/1896_cut.wav,1 0.975693 0 0.024298
+
+/mnt/disks/disk-1/data/youtube_video/1897_cut.wav,1 0.999962 0 0.000038
+
+/mnt/disks/disk-1/data/youtube_video/1898_cut.wav,1 0.990847 0 0.009157
+
+/mnt/disks/disk-1/data/youtube_video/1899_cut.wav,1 0.984901 0 0.015091
+
+/mnt/disks/disk-1/data/youtube_video/1900_cut.wav,1 0.925160 0 0.074807
+
+/mnt/disks/disk-1/data/youtube_video/1901_cut.wav,1 0.968613 0 0.031396
+
+/mnt/disks/disk-1/data/youtube_video/1902_cut.wav,1 0.948551 0 0.051411
+
+/mnt/disks/disk-1/data/youtube_video/1903_cut.wav,1 0.992456 0 0.007546
+
+/mnt/disks/disk-1/data/youtube_video/1904_cut.wav,1 0.859564 0 0.140369
+
+/mnt/disks/disk-1/data/youtube_video/1905_cut.wav,1 0.991122 0 0.008876
+
+/mnt/disks/disk-1/data/youtube_video/1906_cut.wav,1 0.999347 0 0.000654
+
+/mnt/disks/disk-1/data/youtube_video/1907_cut.wav,1 0.954344 0 0.045658
+
+/mnt/disks/disk-1/data/youtube_video/1908_cut.wav,1 0.998991 0 0.001009
+
+/mnt/disks/disk-1/data/youtube_video/1909_cut.wav,1 0.999866 0 0.000134
+
+/mnt/disks/disk-1/data/youtube_video/1911_cut.wav,1 0.972753 0 0.027236
+
+/mnt/disks/disk-1/data/youtube_video/1912_cut.wav,1 0.957129 0 0.042922
+
+/mnt/disks/disk-1/data/youtube_video/1913_cut.wav,1 0.963452 0 0.036537
+
+/mnt/disks/disk-1/data/youtube_video/1914_cut.wav,1 0.958904 0 0.041085
+
+/mnt/disks/disk-1/data/youtube_video/1915_cut.wav,1 0.982162 0 0.017839
+
+/mnt/disks/disk-1/data/youtube_video/1916_cut.wav,0 0.543070 1 0.456728
+
+/mnt/disks/disk-1/data/youtube_video/1919_cut.wav,1 0.972750 0 0.027239
+
+/mnt/disks/disk-1/data/youtube_video/1920_cut.wav,1 0.951486 0 0.048512
+
+/mnt/disks/disk-1/data/youtube_video/1921_cut.wav,1 0.999545 0 0.000455
+
+/mnt/disks/disk-1/data/youtube_video/1922_cut.wav,1 0.561496 0 0.438535
+
+/mnt/disks/disk-1/data/youtube_video/1923_cut.wav,1 0.733069 0 0.266919
+
+/mnt/disks/disk-1/data/youtube_video/1924_cut.wav,1 0.958507 0 0.041485
+
+/mnt/disks/disk-1/data/youtube_video/1925_cut.wav,1 0.935174 0 0.064857
+
+/mnt/disks/disk-1/data/youtube_video/1926_cut.wav,1 0.998270 0 0.001731
+
+/mnt/disks/disk-1/data/youtube_video/1927_cut.wav,1 0.998556 0 0.001444
+
+/mnt/disks/disk-1/data/youtube_video/1928_cut.wav,1 0.999215 0 0.000785
+
+/mnt/disks/disk-1/data/youtube_video/1929_cut.wav,1 0.979184 0 0.020813
+
+/mnt/disks/disk-1/data/youtube_video/1931_cut.wav,1 0.549850 0 0.450156
+
+/mnt/disks/disk-1/data/youtube_video/1932_cut.wav,1 0.967994 0 0.032006
+
+/mnt/disks/disk-1/data/youtube_video/1933_cut.wav,1 0.993410 0 0.006588
+
+/mnt/disks/disk-1/data/youtube_video/1934_cut.wav,1 0.978943 0 0.021053
+
+/mnt/disks/disk-1/data/youtube_video/1935_cut.wav,1 0.917178 0 0.082805
+
+/mnt/disks/disk-1/data/youtube_video/1936_cut.wav,1 0.771187 0 0.228803
+
+/mnt/disks/disk-1/data/youtube_video/1937_cut.wav,1 0.992043 0 0.007959
+
+/mnt/disks/disk-1/data/youtube_video/1938_cut.wav,1 0.988917 0 0.011078
+
+/mnt/disks/disk-1/data/youtube_video/1939_cut.wav,1 0.984313 0 0.015681
+
+/mnt/disks/disk-1/data/youtube_video/1940_cut.wav,1 0.522781 0 0.477247
+
+/mnt/disks/disk-1/data/youtube_video/1941_cut.wav,1 0.926816 0 0.073167
+
+/mnt/disks/disk-1/data/youtube_video/1942_cut.wav,1 0.985180 0 0.014822
+
+/mnt/disks/disk-1/data/youtube_video/1943_cut.wav,1 0.998681 0 0.001319
+
+/mnt/disks/disk-1/data/youtube_video/1944_cut.wav,1 0.939199 0 0.060817
+
+/mnt/disks/disk-1/data/youtube_video/1945_cut.wav,1 0.945275 0 0.054755
+
+/mnt/disks/disk-1/data/youtube_video/1946_cut.wav,1 0.508693 0 0.491276
+
+/mnt/disks/disk-1/data/youtube_video/1947_cut.wav,1 0.999864 0 0.000136
+
+/mnt/disks/disk-1/data/youtube_video/1948_cut.wav,1 0.997715 0 0.002286
+
+/mnt/disks/disk-1/data/youtube_video/1949_cut.wav,1 0.998401 0 0.001599
+
+/mnt/disks/disk-1/data/youtube_video/1950_cut.wav,1 0.972012 0 0.028000
+
+/mnt/disks/disk-1/data/youtube_video/1951_cut.wav,1 0.999447 0 0.000553
+
+/mnt/disks/disk-1/data/youtube_video/1952_cut.wav,1 0.995377 0 0.004623
+
+/mnt/disks/disk-1/data/youtube_video/1953_cut.wav,1 0.999658 0 0.000342
+
+/mnt/disks/disk-1/data/youtube_video/1954_cut.wav,1 0.936418 0 0.063537
+
+/mnt/disks/disk-1/data/youtube_video/1955_cut.wav,1 0.917676 0 0.082356
+
+/mnt/disks/disk-1/data/youtube_video/1956_cut.wav,0 0.854683 1 0.145366
+
+/mnt/disks/disk-1/data/youtube_video/1957_cut.wav,1 0.993679 0 0.006324
+
+/mnt/disks/disk-1/data/youtube_video/1958_cut.wav,1 0.999954 0 0.000046
+
+/mnt/disks/disk-1/data/youtube_video/1959_cut.wav,0 0.531691 1 0.468303
+
+/mnt/disks/disk-1/data/youtube_video/1960_cut.wav,1 0.997523 0 0.002478
+
+/mnt/disks/disk-1/data/youtube_video/1961_cut.wav,1 0.925370 0 0.074614
+
+/mnt/disks/disk-1/data/youtube_video/1962_cut.wav,1 0.979922 0 0.020081
+
+/mnt/disks/disk-1/data/youtube_video/1963_cut.wav,1 0.989667 0 0.010326
+
+/mnt/disks/disk-1/data/youtube_video/1964_cut.wav,1 0.986608 0 0.013401
+
+/mnt/disks/disk-1/data/youtube_video/1965_cut.wav,1 0.999628 0 0.000372
+
+/mnt/disks/disk-1/data/youtube_video/1967_cut.wav,1 0.751996 0 0.247957
+
+/mnt/disks/disk-1/data/youtube_video/1968_cut.wav,1 0.999544 0 0.000456
+
+/mnt/disks/disk-1/data/youtube_video/1969_cut.wav,1 0.955030 0 0.044981
+
+/mnt/disks/disk-1/data/youtube_video/1970_cut.wav,1 0.729786 0 0.270155
+
+/mnt/disks/disk-1/data/youtube_video/1971_cut.wav,1 0.987218 0 0.012785
+
+/mnt/disks/disk-1/data/youtube_video/1972_cut.wav,1 0.999592 0 0.000408
+
+/mnt/disks/disk-1/data/youtube_video/1974_cut.wav,1 0.992452 0 0.007548
+
+/mnt/disks/disk-1/data/youtube_video/1975_cut.wav,1 0.941405 0 0.058570
+
+/mnt/disks/disk-1/data/youtube_video/1977_cut.wav,1 0.998403 0 0.001597
+
+/mnt/disks/disk-1/data/youtube_video/1978_cut.wav,1 0.958134 0 0.041887
+
+/mnt/disks/disk-1/data/youtube_video/1979_cut.wav,1 0.991811 0 0.008194
+
+/mnt/disks/disk-1/data/youtube_video/1980_cut.wav,1 0.967002 0 0.033010
+
+/mnt/disks/disk-1/data/youtube_video/1981_cut.wav,1 0.998472 0 0.001527
+
+/mnt/disks/disk-1/data/youtube_video/1982_cut.wav,1 0.963682 0 0.036320
+
+/mnt/disks/disk-1/data/youtube_video/1983_cut.wav,1 0.999773 0 0.000227
+
+/mnt/disks/disk-1/data/youtube_video/1984_cut.wav,1 0.994625 0 0.005374
+
+/mnt/disks/disk-1/data/youtube_video/1985_cut.wav,1 0.999937 0 0.000063
+
+/mnt/disks/disk-1/data/youtube_video/1986_cut.wav,1 0.981819 0 0.018189
+
+/mnt/disks/disk-1/data/youtube_video/1987_cut.wav,1 0.999492 0 0.000508
+
+/mnt/disks/disk-1/data/youtube_video/1988_cut.wav,1 0.906809 0 0.093151
+
+/mnt/disks/disk-1/data/youtube_video/1989_cut.wav,1 0.999245 0 0.000755
+
+/mnt/disks/disk-1/data/youtube_video/1990_cut.wav,1 0.999981 0 0.000019
+
+/mnt/disks/disk-1/data/youtube_video/1991_cut.wav,0 0.922415 1 0.077480
+
+/mnt/disks/disk-1/data/youtube_video/1992_cut.wav,1 0.987580 0 0.012417
+
+/mnt/disks/disk-1/data/youtube_video/1993_cut.wav,1 0.991659 0 0.008341
+
+/mnt/disks/disk-1/data/youtube_video/1994_cut.wav,1 0.997918 0 0.002081
+
+/mnt/disks/disk-1/data/youtube_video/1995_cut.wav,1 0.999872 0 0.000128
+
+/mnt/disks/disk-1/data/youtube_video/1996_cut.wav,1 0.946478 0 0.053535
+
+/mnt/disks/disk-1/data/youtube_video/1997_cut.wav,1 0.995445 0 0.004560
+
+/mnt/disks/disk-1/data/youtube_video/1998_cut.wav,1 0.703374 0 0.296698
+
+/mnt/disks/disk-1/data/youtube_video/1999_cut.wav,1 0.999910 0 0.000090
+
+/mnt/disks/disk-1/data/youtube_video/2000_cut.wav,1 0.999582 0 0.000418
+
+/mnt/disks/disk-1/data/youtube_video/2001_cut.wav,1 0.872045 0 0.127816
+
+/mnt/disks/disk-1/data/youtube_video/2002_cut.wav,1 0.999645 0 0.000356
+
+/mnt/disks/disk-1/data/youtube_video/2003_cut.wav,1 0.976745 0 0.023253
+
+/mnt/disks/disk-1/data/youtube_video/2004_cut.wav,1 0.917214 0 0.082766
+
+/mnt/disks/disk-1/data/youtube_video/2005_cut.wav,1 0.999587 0 0.000413
+
+/mnt/disks/disk-1/data/youtube_video/2006_cut.wav,1 0.959472 0 0.040509
+
+/mnt/disks/disk-1/data/youtube_video/2007_cut.wav,1 0.999847 0 0.000153
+
+/mnt/disks/disk-1/data/youtube_video/2008_cut.wav,1 0.946584 0 0.053432
+
+/mnt/disks/disk-1/data/youtube_video/2009_cut.wav,1 0.997913 0 0.002087
+
+/mnt/disks/disk-1/data/youtube_video/2010_cut.wav,1 0.999096 0 0.000904
+
+/mnt/disks/disk-1/data/youtube_video/2011_cut.wav,1 0.999014 0 0.000985
+
+/mnt/disks/disk-1/data/youtube_video/2012_cut.wav,1 0.982890 0 0.017111
+
+/mnt/disks/disk-1/data/youtube_video/2013_cut.wav,1 0.999948 0 0.000052
+
+/mnt/disks/disk-1/data/youtube_video/2014_cut.wav,1 0.994880 0 0.005120
+
+/mnt/disks/disk-1/data/youtube_video/2015_cut.wav,1 0.990084 0 0.009920
+
+/mnt/disks/disk-1/data/youtube_video/2016_cut.wav,1 0.992819 0 0.007180
+
+/mnt/disks/disk-1/data/youtube_video/2017_cut.wav,1 0.999895 0 0.000105
+
+/mnt/disks/disk-1/data/youtube_video/2018_cut.wav,1 0.999438 0 0.000562
+
+/mnt/disks/disk-1/data/youtube_video/2019_cut.wav,1 0.999364 0 0.000636
+
+/mnt/disks/disk-1/data/youtube_video/2020_cut.wav,1 0.999992 0 0.000008
+
+/mnt/disks/disk-1/data/youtube_video/2021_cut.wav,1 0.975655 0 0.024342
+
+/mnt/disks/disk-1/data/youtube_video/2022_cut.wav,1 0.924869 0 0.075148
+
+/mnt/disks/disk-1/data/youtube_video/2023_cut.wav,1 0.918858 0 0.081141
+
+/mnt/disks/disk-1/data/youtube_video/2024_cut.wav,1 0.947585 0 0.052412
+
+/mnt/disks/disk-1/data/youtube_video/2025_cut.wav,1 0.763816 0 0.236247
+
+/mnt/disks/disk-1/data/youtube_video/2026_cut.wav,1 0.941695 0 0.058344
+
+/mnt/disks/disk-1/data/youtube_video/2027_cut.wav,1 0.665263 0 0.334791
+
+/mnt/disks/disk-1/data/youtube_video/2028_cut.wav,1 0.989870 0 0.010134
+
+/mnt/disks/disk-1/data/youtube_video/2029_cut.wav,1 0.999933 0 0.000067
+
+/mnt/disks/disk-1/data/youtube_video/2030_cut.wav,1 0.845942 0 0.153998
+
+/mnt/disks/disk-1/data/youtube_video/2031_cut.wav,1 0.995447 0 0.004554
+
+/mnt/disks/disk-1/data/youtube_video/2032_cut.wav,1 0.999721 0 0.000279
+
+/mnt/disks/disk-1/data/youtube_video/2033_cut.wav,1 0.999024 0 0.000976
+
+/mnt/disks/disk-1/data/youtube_video/2035_cut.wav,1 0.999429 0 0.000571
+
+/mnt/disks/disk-1/data/youtube_video/2036_cut.wav,1 0.999965 0 0.000035
+
+/mnt/disks/disk-1/data/youtube_video/2037_cut.wav,1 0.999380 0 0.000620
+
+/mnt/disks/disk-1/data/youtube_video/2038_cut.wav,1 0.958308 0 0.041706
+
+/mnt/disks/disk-1/data/youtube_video/2039_cut.wav,1 0.994942 0 0.005059
+
+/mnt/disks/disk-1/data/youtube_video/2040_cut.wav,1 0.936184 0 0.063771
+
+/mnt/disks/disk-1/data/youtube_video/2041_cut.wav,1 0.902214 0 0.097796
+
+/mnt/disks/disk-1/data/youtube_video/2042_cut.wav,1 0.999032 0 0.000968
+
+/mnt/disks/disk-1/data/youtube_video/2043_cut.wav,1 0.997896 0 0.002104
+
+/mnt/disks/disk-1/data/youtube_video/2044_cut.wav,1 0.925602 0 0.074384
+
+/mnt/disks/disk-1/data/youtube_video/2045_cut.wav,1 0.999209 0 0.000791
+
+/mnt/disks/disk-1/data/youtube_video/2046_cut.wav,1 0.997272 0 0.002726
+
+/mnt/disks/disk-1/data/youtube_video/2047_cut.wav,1 0.999992 0 0.000008
+
+/mnt/disks/disk-1/data/youtube_video/2048_cut.wav,1 0.999611 0 0.000389
+
+/mnt/disks/disk-1/data/youtube_video/2049_cut.wav,1 0.935714 0 0.064319
+
+/mnt/disks/disk-1/data/youtube_video/2050_cut.wav,1 0.999351 0 0.000648
+
+/mnt/disks/disk-1/data/youtube_video/2051_cut.wav,1 0.980381 0 0.019627
+
+/mnt/disks/disk-1/data/youtube_video/2052_cut.wav,1 0.973632 0 0.026366
+
+/mnt/disks/disk-1/data/youtube_video/2053_cut.wav,0 0.819311 1 0.180597
+
+/mnt/disks/disk-1/data/youtube_video/2054_cut.wav,1 0.948877 0 0.051119
+
+/mnt/disks/disk-1/data/youtube_video/2056_cut.wav,1 0.949295 0 0.050680
+
+/mnt/disks/disk-1/data/youtube_video/2057_cut.wav,1 0.979917 0 0.020094
+
+/mnt/disks/disk-1/data/youtube_video/2058_cut.wav,1 0.994288 0 0.005713
+
+/mnt/disks/disk-1/data/youtube_video/2059_cut.wav,1 0.996980 0 0.003020
+
+/mnt/disks/disk-1/data/youtube_video/2060_cut.wav,1 0.993656 0 0.006345
+
+/mnt/disks/disk-1/data/youtube_video/2061_cut.wav,1 0.942235 0 0.057768
+
+/mnt/disks/disk-1/data/youtube_video/2062_cut.wav,1 0.795249 0 0.204666
+
+/mnt/disks/disk-1/data/youtube_video/2063_cut.wav,1 0.832191 0 0.167830
+
+/mnt/disks/disk-1/data/youtube_video/2064_cut.wav,1 0.999998 0 0.000002
+
+/mnt/disks/disk-1/data/youtube_video/2065_cut.wav,1 0.944157 0 0.055875
+
+/mnt/disks/disk-1/data/youtube_video/2066_cut.wav,1 0.975007 0 0.024989
+
+/mnt/disks/disk-1/data/youtube_video/2067_cut.wav,1 0.955173 0 0.044817
+
+/mnt/disks/disk-1/data/youtube_video/2068_cut.wav,1 0.951692 0 0.048291
+
+/mnt/disks/disk-1/data/youtube_video/2069_cut.wav,0 0.525301 1 0.474933
+
+/mnt/disks/disk-1/data/youtube_video/2070_cut.wav,1 0.998836 0 0.001164
+
+/mnt/disks/disk-1/data/youtube_video/2071_cut.wav,1 0.966653 0 0.033383
+
+/mnt/disks/disk-1/data/youtube_video/2072_cut.wav,1 0.988303 0 0.011693
+
+/mnt/disks/disk-1/data/youtube_video/2073_cut.wav,1 0.998877 0 0.001124
+
+/mnt/disks/disk-1/data/youtube_video/2074_cut.wav,1 0.991514 0 0.008481
+
+/mnt/disks/disk-1/data/youtube_video/2075_cut.wav,1 0.998952 0 0.001048
+
+/mnt/disks/disk-1/data/youtube_video/2076_cut.wav,1 0.770251 0 0.229656
+
+/mnt/disks/disk-1/data/youtube_video/2077_cut.wav,1 0.839807 0 0.160208
+
+/mnt/disks/disk-1/data/youtube_video/2078_cut.wav,1 0.933843 0 0.066184
+
+/mnt/disks/disk-1/data/youtube_video/2079_cut.wav,1 0.999558 0 0.000442
+
+/mnt/disks/disk-1/data/youtube_video/2080_cut.wav,1 0.992797 0 0.007206
+
+/mnt/disks/disk-1/data/youtube_video/2081_cut.wav,1 0.993603 0 0.006393
+
+/mnt/disks/disk-1/data/youtube_video/2082_cut.wav,1 0.982487 0 0.017513
+
+/mnt/disks/disk-1/data/youtube_video/2083_cut.wav,1 0.999889 0 0.000111
+
+/mnt/disks/disk-1/data/youtube_video/2084_cut.wav,1 0.996529 0 0.003468
+
+/mnt/disks/disk-1/data/youtube_video/2085_cut.wav,1 0.998446 0 0.001555
+
+/mnt/disks/disk-1/data/youtube_video/2086_cut.wav,1 0.996442 0 0.003558
+
+/mnt/disks/disk-1/data/youtube_video/2087_cut.wav,1 0.999802 0 0.000198
+
+/mnt/disks/disk-1/data/youtube_video/2088_cut.wav,1 0.992931 0 0.007068
+
+/mnt/disks/disk-1/data/youtube_video/2089_cut.wav,1 0.997558 0 0.002443
+
+/mnt/disks/disk-1/data/youtube_video/2090_cut.wav,1 0.994184 0 0.005818
+
+/mnt/disks/disk-1/data/youtube_video/2091_cut.wav,1 0.998550 0 0.001450
+
+/mnt/disks/disk-1/data/youtube_video/2092_cut.wav,1 0.996792 0 0.003208
+
+/mnt/disks/disk-1/data/youtube_video/2093_cut.wav,1 0.999956 0 0.000044
+
+/mnt/disks/disk-1/data/youtube_video/2094_cut.wav,1 0.985247 0 0.014769
+
+/mnt/disks/disk-1/data/youtube_video/2095_cut.wav,1 0.996838 0 0.003161
+
+/mnt/disks/disk-1/data/youtube_video/2096_cut.wav,1 0.866060 0 0.133953
+
+/mnt/disks/disk-1/data/youtube_video/2097_cut.wav,1 0.989139 0 0.010861
+
+/mnt/disks/disk-1/data/youtube_video/2098_cut.wav,1 0.921257 0 0.078798
+
+/mnt/disks/disk-1/data/youtube_video/2099_cut.wav,1 0.998702 0 0.001299
+
+/mnt/disks/disk-1/data/youtube_video/2100_cut.wav,1 0.966010 0 0.033980
+
+/mnt/disks/disk-1/data/youtube_video/2101_cut.wav,1 0.981214 0 0.018787
+
+/mnt/disks/disk-1/data/youtube_video/2102_cut.wav,1 0.998726 0 0.001274
+
+/mnt/disks/disk-1/data/youtube_video/2103_cut.wav,0 0.607463 1 0.392566
+
+/mnt/disks/disk-1/data/youtube_video/2104_cut.wav,1 0.633678 0 0.366475
+
+/mnt/disks/disk-1/data/youtube_video/2105_cut.wav,1 0.999963 0 0.000037
+
+/mnt/disks/disk-1/data/youtube_video/2106_cut.wav,1 0.975287 0 0.024709
+
+/mnt/disks/disk-1/data/youtube_video/2108_cut.wav,1 0.997938 0 0.002063
+
+/mnt/disks/disk-1/data/youtube_video/2109_cut.wav,1 0.986940 0 0.013060
+
+/mnt/disks/disk-1/data/youtube_video/2110_cut.wav,1 0.999830 0 0.000170
+
+/mnt/disks/disk-1/data/youtube_video/2111_cut.wav,1 0.999410 0 0.000590
+
+/mnt/disks/disk-1/data/youtube_video/2112_cut.wav,1 0.965266 0 0.034703
+
+/mnt/disks/disk-1/data/youtube_video/2113_cut.wav,1 0.991674 0 0.008325
+
+/mnt/disks/disk-1/data/youtube_video/2114_cut.wav,1 0.999856 0 0.000144
+
+/mnt/disks/disk-1/data/youtube_video/2115_cut.wav,1 0.974404 0 0.025578
+
+/mnt/disks/disk-1/data/youtube_video/2116_cut.wav,1 0.928559 0 0.071454
+
+/mnt/disks/disk-1/data/youtube_video/2118_cut.wav,1 0.805474 0 0.194513
+
+/mnt/disks/disk-1/data/youtube_video/2119_cut.wav,1 0.997538 0 0.002463
+
+/mnt/disks/disk-1/data/youtube_video/2120_cut.wav,1 0.940187 0 0.059754
+
+/mnt/disks/disk-1/data/youtube_video/2121_cut.wav,1 0.998845 0 0.001155
+
+/mnt/disks/disk-1/data/youtube_video/2122_cut.wav,1 0.999862 0 0.000138
+
+/mnt/disks/disk-1/data/youtube_video/2123_cut.wav,1 0.961364 0 0.038626
+
+/mnt/disks/disk-1/data/youtube_video/2124_cut.wav,1 0.991038 0 0.008962
+
+/mnt/disks/disk-1/data/youtube_video/2125_cut.wav,1 0.788838 0 0.211316
+
+Number of threads -----------------------------------15------------------
+num examples processed: 113 elapsed seconds: 0.42
+/mnt/disks/sdb/data/youtube_video/59_cut_eval.wav,0 0.813239 1 0.186612
+
+/mnt/disks/sdb/data/youtube_video/60_cut_eval.wav,0 0.947713 1 0.052259
+
+/mnt/disks/sdb/data/youtube_video/61_cut_eval.wav,1 0.586224 0 0.414047
+
+/mnt/disks/sdb/data/youtube_video/62_cut_eval.wav,0 0.861913 1 0.138070
+
+/mnt/disks/sdb/data/youtube_video/63_cut_eval.wav,0 0.972154 1 0.027832
+
+/mnt/disks/sdb/data/youtube_video/64_cut_eval.wav,0 0.765928 1 0.233988
+
+/mnt/disks/sdb/data/youtube_video/65_cut_eval.wav,0 0.552780 1 0.447446
+
+/mnt/disks/sdb/data/youtube_video/66_cut_eval.wav,0 0.962393 1 0.037658
+
+/mnt/disks/sdb/data/youtube_video/67_cut_eval.wav,1 0.780941 0 0.219188
+
+/mnt/disks/sdb/data/youtube_video/68_cut_eval.wav,0 0.705048 1 0.294656
+
+/mnt/disks/sdb/data/youtube_video/69_cut_eval.wav,0 0.989374 1 0.010635
+
+/mnt/disks/sdb/data/youtube_video/70_cut_eval.wav,0 0.996368 1 0.003636
+
+/mnt/disks/sdb/data/youtube_video/71_cut_eval.wav,1 0.952176 0 0.047854
+
+/mnt/disks/sdb/data/youtube_video/72_cut_eval.wav,0 0.959640 1 0.040332
+
+/mnt/disks/sdb/data/youtube_video/73_cut_eval.wav,0 0.682319 1 0.317829
+
+/mnt/disks/sdb/data/youtube_video/74_cut_eval.wav,0 0.986731 1 0.013284
+
+/mnt/disks/sdb/data/youtube_video/76_cut_eval.wav,0 0.939132 1 0.060892
+
+/mnt/disks/sdb/data/youtube_video/78_cut_eval.wav,0 0.985161 1 0.014848
+
+/mnt/disks/sdb/data/youtube_video/79_cut_eval.wav,1 0.817056 0 0.183026
+
+/mnt/disks/sdb/data/youtube_video/80_cut_eval.wav,1 0.635362 0 0.364617
+
+/mnt/disks/sdb/data/youtube_video/81_cut_eval.wav,0 0.994021 1 0.005975
+
+/mnt/disks/sdb/data/youtube_video/82_cut_eval.wav,1 0.743773 0 0.256342
+
+/mnt/disks/sdb/data/youtube_video/83_cut_eval.wav,1 0.934353 0 0.065656
+
+/mnt/disks/sdb/data/youtube_video/84_cut_eval.wav,0 0.997641 1 0.002357
+
+/mnt/disks/sdb/data/youtube_video/85_cut_eval.wav,0 0.960209 1 0.039786
+
+/mnt/disks/sdb/data/youtube_video/86_cut_eval.wav,1 0.840960 0 0.158988
+
+/mnt/disks/sdb/data/youtube_video/87_cut_eval.wav,0 0.996307 1 0.003691
+
+/mnt/disks/sdb/data/youtube_video/88_cut_eval.wav,0 0.997781 1 0.002223
+
+/mnt/disks/sdb/data/youtube_video/89_cut_eval.wav,0 0.947391 1 0.052627
+
+/mnt/disks/sdb/data/youtube_video/90_cut_eval.wav,0 0.892655 1 0.107319
+
+/mnt/disks/sdb/data/youtube_video/91_cut_eval.wav,0 0.997735 1 0.002266
+
+/mnt/disks/sdb/data/youtube_video/92_cut_eval.wav,0 0.782605 1 0.217409
+
+/mnt/disks/sdb/data/youtube_video/93_cut_eval.wav,0 0.977988 1 0.021979
+
+/mnt/disks/sdb/data/youtube_video/94_cut_eval.wav,0 0.992431 1 0.007572
+
+/mnt/disks/sdb/data/youtube_video/95_cut_eval.wav,0 0.988059 1 0.011922
+
+/mnt/disks/sdb/data/youtube_video/96_cut_eval.wav,0 0.893332 1 0.106496
+
+/mnt/disks/sdb/data/youtube_video/97_cut_eval.wav,0 0.934059 1 0.066024
+
+/mnt/disks/sdb/data/youtube_video/98_cut_eval.wav,1 0.959059 0 0.040987
+
+/mnt/disks/sdb/data/youtube_video/99_cut_eval.wav,0 0.984378 1 0.015611
+
+/mnt/disks/sdb/data/youtube_video/100_cut_eval.wav,1 0.687382 0 0.312630
+
+/mnt/disks/sdb/data/youtube_video/101_cut_eval.wav,0 0.927276 1 0.072766
+
+/mnt/disks/sdb/data/youtube_video/102_cut_eval.wav,0 0.946142 1 0.053837
+
+/mnt/disks/sdb/data/youtube_video/103_cut_eval.wav,1 0.930605 0 0.069361
+
+/mnt/disks/sdb/data/youtube_video/105_cut_eval.wav,0 0.992135 1 0.007868
+
+/mnt/disks/sdb/data/youtube_video/106_cut_eval.wav,0 0.952857 1 0.047121
+
+/mnt/disks/sdb/data/youtube_video/107_cut_eval.wav,0 0.955317 1 0.044631
+
+/mnt/disks/sdb/data/youtube_video/109_cut_eval.wav,0 0.883263 1 0.116685
+
+/mnt/disks/sdb/data/youtube_video/110_cut_eval.wav,0 0.521794 1 0.477979
+
+/mnt/disks/sdb/data/youtube_video/111_cut_eval.wav,1 0.947352 0 0.052633
+
+/mnt/disks/sdb/data/youtube_video/112_cut_eval.wav,1 0.912950 0 0.087061
+
+/mnt/disks/sdb/data/youtube_video/113_cut_eval.wav,0 0.922157 1 0.077828
+
+/mnt/disks/sdb/data/youtube_video/114_cut_eval.wav,0 0.792146 1 0.207847
+
+/mnt/disks/sdb/data/youtube_video/115_cut_eval.wav,0 0.937881 1 0.062136
+
+/mnt/disks/sdb/data/youtube_video/116_cut_eval.wav,0 0.976912 1 0.023063
+
+/mnt/disks/sdb/data/youtube_video/117_cut_eval.wav,0 0.998147 1 0.001854
+
+/mnt/disks/sdb/data/youtube_video/118_cut_eval.wav,1 0.609049 0 0.390795
+
+/mnt/disks/sdb/data/youtube_video/119_cut_eval.wav,0 0.959115 1 0.040835
+
+/mnt/disks/sdb/data/youtube_video/120_cut_eval.wav,0 0.556744 1 0.443124
+
+/mnt/disks/sdb/data/youtube_video/121_cut_eval.wav,0 0.948695 1 0.051333
+
+/mnt/disks/sdb/data/youtube_video/122_cut_eval.wav,1 0.998663 0 0.001337
+
+/mnt/disks/sdb/data/youtube_video/123_cut_eval.wav,1 0.992604 0 0.007402
+
+/mnt/disks/sdb/data/youtube_video/124_cut_eval.wav,1 0.789394 0 0.210542
+
+/mnt/disks/sdb/data/youtube_video/125_cut_eval.wav,1 0.999915 0 0.000085
+
+/mnt/disks/sdb/data/youtube_video/126_cut_eval.wav,1 0.970428 0 0.029561
+
+/mnt/disks/sdb/data/youtube_video/127_cut_eval.wav,1 0.999515 0 0.000485
+
+/mnt/disks/sdb/data/youtube_video/128_cut_eval.wav,1 0.997942 0 0.002058
+
+/mnt/disks/sdb/data/youtube_video/129_cut_eval.wav,1 0.954612 0 0.045390
+
+/mnt/disks/sdb/data/youtube_video/130_cut_eval.wav,1 0.864907 0 0.135151
+
+/mnt/disks/sdb/data/youtube_video/131_cut_eval.wav,1 0.977305 0 0.022713
+
+/mnt/disks/sdb/data/youtube_video/132_cut_eval.wav,1 0.994401 0 0.005596
+
+/mnt/disks/sdb/data/youtube_video/133_cut_eval.wav,0 0.617297 1 0.382574
+
+/mnt/disks/sdb/data/youtube_video/134_cut_eval.wav,1 0.965886 0 0.034099
+
+/mnt/disks/sdb/data/youtube_video/135_cut_eval.wav,1 0.995962 0 0.004035
+
+/mnt/disks/sdb/data/youtube_video/136_cut_eval.wav,1 0.993781 0 0.006215
+
+/mnt/disks/sdb/data/youtube_video/137_cut_eval.wav,1 0.985011 0 0.015000
+
+/mnt/disks/sdb/data/youtube_video/138_cut_eval.wav,1 0.856000 0 0.143964
+
+/mnt/disks/sdb/data/youtube_video/139_cut_eval.wav,1 0.995235 0 0.004765
+
+/mnt/disks/sdb/data/youtube_video/140_cut_eval.wav,1 0.999517 0 0.000483
+
+/mnt/disks/sdb/data/youtube_video/141_cut_eval.wav,1 0.985485 0 0.014516
+
+/mnt/disks/sdb/data/youtube_video/142_cut_eval.wav,1 0.987628 0 0.012374
+
+/mnt/disks/sdb/data/youtube_video/143_cut_eval.wav,1 0.997168 0 0.002832
+
+/mnt/disks/sdb/data/youtube_video/144_cut_eval.wav,1 0.999859 0 0.000141
+
+/mnt/disks/sdb/data/youtube_video/145_cut_eval.wav,1 0.999862 0 0.000138
+
+/mnt/disks/sdb/data/youtube_video/146_cut_eval.wav,1 0.996251 0 0.003750
+
+/mnt/disks/sdb/data/youtube_video/147_cut_eval.wav,1 0.993133 0 0.006863
+
+/mnt/disks/sdb/data/youtube_video/148_cut_eval.wav,1 0.515354 0 0.484544
+
+/mnt/disks/sdb/data/youtube_video/149_cut_eval.wav,1 0.903817 0 0.096191
+
+/mnt/disks/sdb/data/youtube_video/150_cut_eval.wav,1 0.995659 0 0.004343
+
+/mnt/disks/sdb/data/youtube_video/151_cut_eval.wav,1 0.774296 0 0.225775
+
+/mnt/disks/sdb/data/youtube_video/153_cut_eval.wav,1 0.999538 0 0.000462
+
+/mnt/disks/sdb/data/youtube_video/154_cut_eval.wav,1 0.997303 0 0.002696
+
+/mnt/disks/sdb/data/youtube_video/155_cut_eval.wav,1 0.999746 0 0.000254
+
+/mnt/disks/sdb/data/youtube_video/156_cut_eval.wav,1 0.997682 0 0.002318
+
+/mnt/disks/sdb/data/youtube_video/157_cut_eval.wav,1 0.971687 0 0.028321
+
+/mnt/disks/sdb/data/youtube_video/159_cut_eval.wav,1 0.971995 0 0.028028
+
+/mnt/disks/sdb/data/youtube_video/160_cut_eval.wav,1 0.996253 0 0.003747
+
+/mnt/disks/sdb/data/youtube_video/162_cut_eval.wav,1 0.920105 0 0.079892
+
+/mnt/disks/sdb/data/youtube_video/163_cut_eval.wav,1 0.902707 0 0.097265
+
+/mnt/disks/sdb/data/youtube_video/165_cut_eval.wav,1 0.980701 0 0.019297
+
+/mnt/disks/sdb/data/youtube_video/166_cut_eval.wav,1 0.958320 0 0.041691
+
+/mnt/disks/sdb/data/youtube_video/167_cut_eval.wav,1 0.901581 0 0.098415
+
+/mnt/disks/sdb/data/youtube_video/168_cut_eval.wav,1 0.985205 0 0.014804
+
+/mnt/disks/sdb/data/youtube_video/169_cut_eval.wav,1 0.944727 0 0.055283
+
+/mnt/disks/sdb/data/youtube_video/170_cut_eval.wav,1 0.999775 0 0.000225
+
+/mnt/disks/sdb/data/youtube_video/171_cut_eval.wav,1 0.996652 0 0.003349
+
+/mnt/disks/sdb/data/youtube_video/172_cut_eval.wav,1 0.992186 0 0.007816
+
+/mnt/disks/sdb/data/youtube_video/174_cut_eval.wav,1 0.976727 0 0.023282
+
+/mnt/disks/sdb/data/youtube_video/175_cut_eval.wav,1 0.842711 0 0.157233
+
+/mnt/disks/sdb/data/youtube_video/176_cut_eval.wav,1 0.920122 0 0.079879
+
+/mnt/disks/sdb/data/youtube_video/177_cut_eval.wav,1 0.985696 0 0.014310
+
+/mnt/disks/sdb/data/youtube_video/179_cut_eval.wav,1 0.845175 0 0.154835
+
+/mnt/disks/sdb/data/youtube_video/180_cut_eval.wav,1 0.935719 0 0.064230
+
+/mnt/disks/sdb/data/youtube_video/181_cut_eval.wav,1 0.980874 0 0.019114
+
